@@ -324,4 +324,3 @@ with tab_news:
             )
         else:
             st.error("Gagal menarik data RSS. Pastikan koneksi internet server stabil.")
-            
