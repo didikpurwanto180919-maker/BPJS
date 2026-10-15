@@ -18,6 +18,7 @@ st.set_page_config(page_title="Intraday Quant & News Dashboard", layout="wide", 
 # ==========================================
 @st.cache_data(ttl=300) # Update setiap 5 menit
 def fetch_all_news():
+    # Daftar RSS Terpadu (Menggabungkan semua list)
     rss_feeds = {
         "CNBC Market": "https://www.cnbcindonesia.com/market/rss",
         "CNBC Rekomendasi": "https://www.cnbcindonesia.com/mymoney/rss",
@@ -49,8 +50,10 @@ def fetch_all_news():
     
     def parse_feed(source, url):
         try:
+            # Gunakan timeout agar request tidak hang jika server media sedang down
             response = requests.get(url, timeout=5)
             feed = feedparser.parse(response.content)
+            # Ambil 5-10 berita per sumber
             limit = 10 if "Google" in source else 5
             for entry in feed.entries[:limit]: 
                 published_time = entry.published if hasattr(entry, 'published') else datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -63,22 +66,29 @@ def fetch_all_news():
         except Exception:
             pass
 
+    # Eksekusi paralel yang masif (30 workers) karena jumlah feed sangat banyak
     with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
         futures = [executor.submit(parse_feed, source, url) for source, url in rss_feeds.items()]
-        concurrent.futures.wait(futures, timeout=12)
+        concurrent.futures.wait(futures, timeout=12) # Maksimal tunggu 12 detik
         
     df_news = pd.DataFrame(news_data)
     if not df_news.empty:
         df_news['Waktu'] = pd.to_datetime(df_news['Waktu'], utc=True, errors='coerce')
         df_news = df_news.dropna(subset=['Waktu']).sort_values(by='Waktu', ascending=False)
         df_news['Waktu'] = df_news['Waktu'].dt.tz_convert('Asia/Jakarta').dt.strftime("%d %b %Y %H:%M")
-        df_news = df_news.drop_duplicates(subset=['Judul Berita'], keep='first')
+        
+    # Buang duplikasi jika media mempublikasikan berita yang sama persis
+    df_news = df_news.drop_duplicates(subset=['Judul Berita'], keep='first')
     return df_news
 
 # ==========================================
 # 2. MODUL NLP: SENTIMEN BERITA MENDALAM
 # ==========================================
 def get_news_catalyst(ticker, df_news):
+    """
+    Menganalisis sentimen berita berdasarkan judul yang menyebutkan kode ticker.
+    Termasuk filter kata kunci tingkat lanjut (Dividen, UMA, Squeeze, Akumulasi).
+    """
     if df_news is None or df_news.empty:
         return "-", "⚪ Netral", 0
         
@@ -89,6 +99,7 @@ def get_news_catalyst(ticker, df_news):
     if related_news.empty:
         return "-", "⚪ Netral", 0
         
+    # Kosakata Sentimen Akurat
     bullish_kw = r'(?i)laba|dividen|akuisisi|rekomendasi|buyback|naik|melonjak|meroket|cuan|ekspansi|kontrak|prospek|terbang|lonjak|rekor|akumulasi asing|net buy|target harga'
     bearish_kw = r'(?i)rugi|anjlok|suspensi|uma|delisting|fca|turun|merosot|tekanan|pkpu|pantauan khusus|hindari|gagal bayar|jeblok|ARBs|net sell|distribusi|buka gembok'
     
@@ -111,7 +122,7 @@ def get_news_catalyst(ticker, df_news):
     return latest_title, sentiment, score
 
 # ==========================================
-# 3. MODUL TECHNICAL ANALYSIS (Berdasarkan "Mastering the Trade")
+# 3. MODUL TECHNICAL ANALYSIS & QUANT SCREENER
 # ==========================================
 def calculate_quant_indicators(df):
     if len(df) < 40:
@@ -128,20 +139,14 @@ def calculate_quant_indicators(df):
     df['MACD_Signal'] = df['MACD'].ewm(span=9, adjust=False).mean()
     df['MACD_Hist'] = df['MACD'] - df['MACD_Signal']
     
-    # RSI (14) - Klasik
+    # RSI
     delta = df['Close'].diff()
     up = delta.clip(lower=0)
     down = -1 * delta.clip(upper=0)
     ema_up = up.ewm(com=13, adjust=False).mean()
     ema_down = down.ewm(com=13, adjust=False).mean()
     rs = ema_up / ema_down
-    df['RSI_14'] = 100 - (100 / (1 + rs))
-
-    # RSI (7) - John Carter's Bearish Divergence Rule
-    ema_up_7 = up.ewm(com=6, adjust=False).mean()
-    ema_down_7 = down.ewm(com=6, adjust=False).mean()
-    rs_7 = ema_up_7 / ema_down_7
-    df['RSI_7'] = 100 - (100 / (1 + rs_7))
+    df['RSI'] = 100 - (100 / (1 + rs))
     
     # ATR & TTM Squeeze
     df['TR'] = np.maximum((df['High'] - df['Low']), 
@@ -175,7 +180,7 @@ def run_quant_screener(scan_limit, df_news):
     
     def process_ticker(ticker):
         try:
-            data = yf.download(ticker, period="10d", interval="15m", progress=False)
+            data = yf.download(ticker, period="5d", interval="15m", progress=False)
             if len(data) < 40:
                 return None
                 
@@ -183,48 +188,28 @@ def run_quant_screener(scan_limit, df_news):
             latest = df.iloc[-1]
             prev = df.iloc[-2]
             
-            # =========================================================
-            # STRATEGI 1: CARTER'S BEARISH DIVERGENCE (FAKE ORGASM SETUP)
-            # Harga Higher High, RSI(7) Lower High, Volume Menurun
-            # =========================================================
-            higher_high = latest['High'] > prev['High']
-            rsi_lower = latest['RSI_7'] < prev['RSI_7']
-            volume_drop = latest['Volume'] < prev['Volume']
-            carter_bearish_div = higher_high and rsi_lower and volume_drop
-            
-            # =========================================================
-            # STRATEGI 2: TTM SQUEEZE FIRING & BUILDING
-            # =========================================================
+            # --- STRATEGI TEKNIKAL STRICT ---
+            gap_up_strict = latest['Open'] > prev['Close'] * 1.015
+            volume_spike_strict = latest['Volume'] > df['Volume'].rolling(20).mean().iloc[-1] * 2
             squeeze_firing = (prev['Squeeze_On'] == True) and (latest['Squeeze_On'] == False) and (latest['MACD_Hist'] > 0)
             squeeze_building = (latest['Squeeze_On'] == True) and (float(latest['MACD_Hist']) > float(prev['MACD_Hist']))
             
-            # =========================================================
-            # STRATEGI 3: STRICT OPENING GAP
-            # =========================================================
-            gap_up_strict = latest['Open'] > prev['Close'] * 1.015
-            volume_spike_strict = latest['Volume'] > df['Volume'].rolling(20).mean().iloc[-1] * 2
-            
-            # Filter Keamanan Dasar
             above_vwap = latest['Close'] > latest['VWAP']
-            rsi_safe = latest['RSI_14'] < 70
+            rsi_safe = latest['RSI'] < 70
 
             tech_signal = "HOLD / SKIP"
             logic_used = "-"
             
-            # Logika Deteksi
-            if carter_bearish_div:
-                tech_signal = "🛑 STRONG SELL"
-                logic_used = "Carter's Bearish Divergence (Take Profit!)"
-            elif gap_up_strict and volume_spike_strict and above_vwap and rsi_safe:
+            if gap_up_strict and volume_spike_strict and above_vwap and rsi_safe:
                 tech_signal = "STRONG BUY"
                 logic_used = "Strict Gap Breakout"
             elif squeeze_firing and volume_spike_strict and above_vwap:
                 tech_signal = "BUY"
-                logic_used = "Carter's TTM Squeeze Firing"
+                logic_used = "Strict Squeeze Firing"
             elif squeeze_building and above_vwap:
                 tech_signal = "👀 RADAR"
                 logic_used = "Squeeze Building Up"
-            elif latest['RSI_14'] >= 80 or latest['Close'] < latest['VWAP'] * 0.99:
+            elif latest['RSI'] >= 80 or latest['Close'] < latest['VWAP'] * 0.99:
                 tech_signal = "SELL / CUT"
                 logic_used = "Overbought / Breakdown VWAP"
 
@@ -234,18 +219,17 @@ def run_quant_screener(scan_limit, df_news):
             final_signal = tech_signal
             
             # Matriks Sinergi dengan Bobot Lebih Pintar
-            if tech_signal == "🛑 STRONG SELL":
-                final_signal = "🛑 STRONG SELL / SHORT (Technical Breakdown)"
-            elif tech_signal in ["STRONG BUY", "BUY"] and news_score > 0:
+            if tech_signal in ["STRONG BUY", "BUY"] and news_score > 0:
                 final_signal = "🔥 SUPER BUY (Katalis + Teknikal Valid)"
             elif tech_signal in ["STRONG BUY", "BUY"] and news_score < 0:
                 final_signal = "⚠️ BUY BERISIKO (Peringatan UMA/News)"
             elif tech_signal == "👀 RADAR" and news_score > 0:
                 final_signal = "🎯 RADAR PRIORITAS (Konsolidasi + Sentimen Positif)"
+            # Tambahan: Jika teknikal diam, tapi ada berita besar (Skor tinggi)
             elif tech_signal == "HOLD / SKIP" and news_score > 1:
                  final_signal = "🚨 PANTAU NEWS (Technical Sideways, Fundamental Hot)"
 
-            # Tampilkan saham yang masuk kriteria aksi
+            # Filter Out Sampah
             if final_signal not in ["HOLD / SKIP", "SELL / CUT"]:
                 atr = float(latest['ATR'])
                 entry_price = float(latest['Close'])
@@ -255,12 +239,12 @@ def run_quant_screener(scan_limit, df_news):
                 return {
                     "Ticker": ticker.replace(".JK", ""),
                     "Sinyal Eksekusi": final_signal,
-                    "Setup Teknikal": logic_used,
+                    "Katalis Teknikal": logic_used,
                     "Sentimen Berita": sentiment_label,
                     "Headline Terkini": news_title,
                     "Harga": f"Rp {entry_price:,.0f}",
                     "VWAP": f"Rp {latest['VWAP']:,.0f}",
-                    "RSI (7)": round(float(latest['RSI_7']), 1),
+                    "RSI": round(float(latest['RSI']), 1),
                     "Target (TP)": f"Rp {take_profit:,.0f}",
                     "Stop (SL)": f"Rp {stop_loss:,.0f}"
                 }
@@ -276,8 +260,9 @@ def run_quant_screener(scan_limit, df_news):
                 
     df_results = pd.DataFrame(results)
     if not df_results.empty:
+        # Custom sorting agar yang berapi (🔥) di atas
         df_results['SortRank'] = df_results['Sinyal Eksekusi'].apply(
-            lambda x: 1 if "SUPER BUY" in x else (2 if "STRONG SELL" in x else (3 if "RADAR PRIOR" in x else 4))
+            lambda x: 1 if "SUPER BUY" in x else (2 if "RADAR PRIOR" in x else (3 if "BUY" in x else 4))
         )
         df_results = df_results.sort_values(by="SortRank").drop(columns=['SortRank'])
         
@@ -286,12 +271,10 @@ def run_quant_screener(scan_limit, df_news):
 # ==========================================
 # 4. TAMPILAN ANTARMUKA STREAMLIT
 # ==========================================
-st.title("⚡ Quantitative Scalping & Mega-News Catalyst Dashboard")
-st.markdown("""
-Pusat komando *trading* pintar yang menggabungkan aliran berita *real-time* dengan metode teknikal **John F. Carter**. 
-Algoritma ini menggunakan filter **TTM Squeeze** untuk probabilitas lonjakan, serta **RSI-7 Bearish Divergence** untuk mendeteksi jebakan *false breakout* yang kehabisan volume.
-""")
+st.title("⚡ Intraday Quant & Mega-News Catalyst Dashboard")
+st.markdown("Mesin pemindai teknikal yang disilangkan dengan **puluhan sumber indeks berita lokal** (CNBC, Bloomberg, IDN Financials, Keterbukaan BEI, dll) untuk mendeteksi *bandarmology* berita dan anomali harga.")
 
+# Pre-fetch Data Berita
 df_news_live = fetch_all_news()
 
 tab_screener, tab_news = st.tabs(["🎯 Sinergi: Quant Screener + News", "📰 Mega News Aggregator"])
@@ -341,3 +324,4 @@ with tab_news:
             )
         else:
             st.error("Gagal menarik data RSS. Pastikan koneksi internet server stabil.")
+            
