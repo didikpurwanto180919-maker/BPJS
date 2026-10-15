@@ -1,0 +1,1012 @@
+﻿No,Kode_Saham,Ticker_BEI,Ticker_TradingView,Ticker_Yahoo_Finance,Ticker_Google_Finance,Ticker_Bloomberg,Nama_Perusahaan,Sektor_IDX_IC,Sektor_Indonesia,Papan_Pencatatan,Tanggal_IPO_ISO,Tanggal_IPO_Teks,Jumlah_Saham_Tercatat,Indeks_Utama,Status_Pencatatan
+1,AADI,BEI:AADI,IDX:AADI,AADI.JK,IDX:AADI,AADI:IJ,Adaro Andalan Indonesia Tbk.,Energy,Energi,Utama,2024-12-05,5 Desember 2024,7786891760,"LQ45, KOMPAS100",Aktif
+2,AALI,BEI:AALI,IDX:AALI,AALI.JK,IDX:AALI,AALI:IJ,Astra Agro Lestari Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1997-12-09,9 Desember 1997,1924688333,-,Aktif
+3,ABBA,BEI:ABBA,IDX:ABBA,ABBA.JK,IDX:ABBA,ABBA:IJ,Mahaka Media Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2002-04-03,3 April 2002,3935892857,-,Aktif
+4,ABDA,BEI:ABDA,IDX:ABDA,ABDA.JK,IDX:ABDA,ABDA:IJ,Asuransi Bina Dana Arta Tbk.,Financials,Keuangan,Pemantauan Khusus,1989-07-06,6 Juli 1989,620806680,-,Aktif
+5,ABMM,BEI:ABMM,IDX:ABMM,ABMM.JK,IDX:ABMM,ABMM:IJ,ABM Investama Tbk.,Energy,Energi,Utama,2011-12-06,6 Desember 2011,2753165000,-,Aktif
+6,ACES,BEI:ACES,IDX:ACES,ACES.JK,IDX:ACES,ACES:IJ,Aspirasi Hidup Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2007-11-06,6 November 2007,17120389700,"KOMPAS100, PEFINDO25",Aktif
+7,ACRO,BEI:ACRO,IDX:ACRO,ACRO.JK,IDX:ACRO,ACRO:IJ,Samcro Hyosung Adilestari Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2024-01-11,11 Januari 2024,3469157288,-,Aktif
+8,ACST,BEI:ACST,IDX:ACST,ACST.JK,IDX:ACST,ACST:IJ,Acset Indonusa Tbk.,Infrastructure,Infrastruktur,Pengembangan,2013-06-24,24 Juni 2013,12675160000,-,Aktif
+9,ADCP,BEI:ADCP,IDX:ADCP,ADCP.JK,IDX:ADCP,ADCP:IJ,Adhi Commuter Properti Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2021-05-21,21 Mei 2021,22222222200,-,Aktif
+10,ADES,BEI:ADES,IDX:ADES,ADES.JK,IDX:ADES,ADES:IJ,Akasha Wira International Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1994-06-13,13 Juni 1994,589896800,-,Aktif
+11,ADHI,BEI:ADHI,IDX:ADHI,ADHI.JK,IDX:ADHI,ADHI:IJ,Adhi Karya (Persero) Tbk.,Infrastructure,Infrastruktur,Utama,2004-03-18,18 Maret 2004,8407608979,-,Aktif
+12,ADMF,BEI:ADMF,IDX:ADMF,ADMF.JK,IDX:ADMF,ADMF:IJ,Adira Dinamika Multi Finance Tbk,Financials,Keuangan,Pengembangan,2004-03-31,31 Maret 2004,1000000000,-,Aktif
+13,ADMG,BEI:ADMG,IDX:ADMG,ADMG.JK,IDX:ADMG,ADMG:IJ,Polychem Indonesia Tbk,Basic Materials,Barang Baku,Pengembangan,1993-10-20,20 Oktober 1993,3889179559,-,Aktif
+14,ADMR,BEI:ADMR,IDX:ADMR,ADMR.JK,IDX:ADMR,ADMR:IJ,Alamtri Minerals Indonesia Tbk,Energy,Energi,Utama,2022-01-03,3 Januari 2022,40882331500,"LQ45, KOMPAS100",Aktif
+15,ADRO,BEI:ADRO,IDX:ADRO,ADRO.JK,IDX:ADRO,ADRO:IJ,Adaro Energy Tbk,Energy,Energi,Utama,2008-07-16,16 Juli 2008,30758665900,"LQ45, KOMPAS100",Aktif
+16,AEGS,BEI:AEGS,IDX:AEGS,AEGS.JK,IDX:AEGS,AEGS:IJ,Anugerah Spareparts Sejahtera Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2023-09-11,11 September 2023,1006080721,-,Aktif
+17,AGAR,BEI:AGAR,IDX:AGAR,AGAR.JK,IDX:AGAR,AGAR:IJ,Asia Sejahtera Mina Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2019-12-02,2 Desember 2019,1000000000,-,Aktif
+18,AGII,BEI:AGII,IDX:AGII,AGII.JK,IDX:AGII,AGII:IJ,Samator Indo Gas Tbk.,Basic Materials,Barang Baku,Pengembangan,2016-09-28,28 September 2016,3066660000,-,Aktif
+19,AGRO,BEI:AGRO,IDX:AGRO,AGRO.JK,IDX:AGRO,AGRO:IJ,Bank Raya Indonesia Tbk.,Financials,Keuangan,Utama,2003-08-08,8 Agustus 2003,24493093216,-,Aktif
+20,AGRS,BEI:AGRS,IDX:AGRS,AGRS.JK,IDX:AGRS,AGRS:IJ,Bank IBK Indonesia Tbk.,Financials,Keuangan,Pengembangan,2014-12-22,22 Desember 2014,47367057874,-,Aktif
+21,AHAP,BEI:AHAP,IDX:AHAP,AHAP.JK,IDX:AHAP,AHAP:IJ,Asuransi Harta Aman Pratama Tbk.,Financials,Keuangan,Pengembangan,1990-09-14,14 September 1990,4900000000,-,Aktif
+22,AIMS,BEI:AIMS,IDX:AIMS,AIMS.JK,IDX:AIMS,AIMS:IJ,Artha Mahiya Investama Tbk.,Energy,Energi,Pengembangan,2001-07-20,20 Juli 2001,220000000,-,Aktif
+23,AISA,BEI:AISA,IDX:AISA,AISA.JK,IDX:AISA,AISA:IJ,FKS Food Sejahtera Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1997-06-11,11 Juni 1997,9311800000,-,Aktif
+24,AKKU,BEI:AKKU,IDX:AKKU,AKKU.JK,IDX:AKKU,AKKU:IJ,Anugerah Kagum Karya Utama Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2004-11-01,1 November 2004,6449463636,-,Aktif
+25,AKPI,BEI:AKPI,IDX:AKPI,AKPI.JK,IDX:AKPI,AKPI:IJ,Argha Karya Prima Industry Tbk,Basic Materials,Barang Baku,Pengembangan,1992-12-18,18 Desember 1992,612248000,-,Aktif
+26,AKRA,BEI:AKRA,IDX:AKRA,AKRA.JK,IDX:AKRA,AKRA:IJ,AKR Corporindo Tbk.,Energy,Energi,Utama,1994-10-03,3 Oktober 1994,20073474600,"LQ45, KOMPAS100",Aktif
+27,AKSI,BEI:AKSI,IDX:AKSI,AKSI.JK,IDX:AKSI,AKSI:IJ,Mineral Sumberdaya Mandiri Tbk,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2001-07-13,13 Juli 2001,720000000,-,Aktif
+28,ALDO,BEI:ALDO,IDX:ALDO,ALDO.JK,IDX:ALDO,ALDO:IJ,Alkindo Naratama Tbk.,Basic Materials,Barang Baku,Pengembangan,2011-07-12,12 Juli 2011,2700713744,-,Aktif
+29,ALII,BEI:ALII,IDX:ALII,ALII.JK,IDX:ALII,ALII:IJ,Ancara Logistics Indonesia Tbk,Energy,Energi,Utama,2024-02-07,7 Februari 2024,15825800000,-,Aktif
+30,ALKA,BEI:ALKA,IDX:ALKA,ALKA.JK,IDX:ALKA,ALKA:IJ,Alakasa Industrindo Tbk,Basic Materials,Barang Baku,Pengembangan,1990-07-12,12 Juli 1990,507665055,-,Aktif
+31,ALMI,BEI:ALMI,IDX:ALMI,ALMI.JK,IDX:ALMI,ALMI:IJ,Alumindo Light Metal Industry Tbk,Basic Materials,Barang Baku,Pemantauan Khusus,1997-01-02,2 Januari 1997,3816000000,-,Aktif
+32,ALTO,BEI:ALTO,IDX:ALTO,ALTO.JK,IDX:ALTO,ALTO:IJ,Tri Banyan Tirta Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2012-07-10,10 Juli 2012,2191870558,-,Aktif
+33,AMAG,BEI:AMAG,IDX:AMAG,AMAG.JK,IDX:AMAG,AMAG:IJ,Asuransi Multi Artha Guna Tbk.,Financials,Keuangan,Pengembangan,2005-12-23,23 Desember 2005,5001552516,-,Aktif
+34,AMAN,BEI:AMAN,IDX:AMAN,AMAN.JK,IDX:AMAN,AMAN:IJ,Makmur Berkah Amanda Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2020-03-13,13 Maret 2020,3873500000,-,Aktif
+35,AMAR,BEI:AMAR,IDX:AMAR,AMAR.JK,IDX:AMAR,AMAR:IJ,Bank Amar Indonesia Tbk.,Financials,Keuangan,Pengembangan,2020-01-09,9 Januari 2020,18197283760,-,Aktif
+36,AMFG,BEI:AMFG,IDX:AMFG,AMFG.JK,IDX:AMFG,AMFG:IJ,Asahimas Flat Glass Tbk.,Industrials,Perindustrian,Utama,1995-11-08,8 November 1995,434000000,-,Aktif
+37,AMIN,BEI:AMIN,IDX:AMIN,AMIN.JK,IDX:AMIN,AMIN:IJ,Ateliers Mecaniques Dâ€™Indonesie Tbk.,Industrials,Perindustrian,Pengembangan,2015-12-10,10 Desember 2015,1080000000,-,Aktif
+38,AMMN,BEI:AMMN,IDX:AMMN,AMMN.JK,IDX:AMMN,AMMN:IJ,Amman Mineral Internasional Tbk.,Basic Materials,Barang Baku,Utama,2023-07-07,7 Juli 2023,72518217656,"LQ45, KOMPAS100",Aktif
+39,AMMS,BEI:AMMS,IDX:AMMS,AMMS.JK,IDX:AMMS,AMMS:IJ,Agung Menjangan Mas Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2022-08-04,4 Agustus 2022,1200056021,-,Aktif
+40,AMOR,BEI:AMOR,IDX:AMOR,AMOR.JK,IDX:AMOR,AMOR:IJ,Ashmore Asset Management Indonesia Tbk,Financials,Keuangan,Pengembangan,2020-01-14,14 Januari 2020,2222222400,-,Aktif
+41,AMRT,BEI:AMRT,IDX:AMRT,AMRT.JK,IDX:AMRT,AMRT:IJ,Sumber Alfaria Trijaya Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2009-01-15,15 Januari 2009,41524501700,"LQ45, KOMPAS100",Aktif
+42,ANDI,BEI:ANDI,IDX:ANDI,ANDI.JK,IDX:ANDI,ANDI:IJ,Andira Agro Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2018-08-16,16 Agustus 2018,9350000000,-,Aktif
+43,ANJT,BEI:ANJT,IDX:ANJT,ANJT.JK,IDX:ANJT,ANJT:IJ,Austindo Nusantara Jaya Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2013-05-08,8 Mei 2013,3354175000,-,Aktif
+44,ANTM,BEI:ANTM,IDX:ANTM,ANTM.JK,IDX:ANTM,ANTM:IJ,Aneka Tambang Tbk.,Basic Materials,Barang Baku,Utama,1997-11-27,27 November 1997,24030764725,"LQ45, KOMPAS100",Aktif
+45,APEX,BEI:APEX,IDX:APEX,APEX.JK,IDX:APEX,APEX:IJ,Apexindo Pratama Duta Tbk.,Energy,Energi,Pengembangan,2013-06-05,5 Juni 2013,3546466661,-,Aktif
+46,APIC,BEI:APIC,IDX:APIC,APIC.JK,IDX:APIC,APIC:IJ,Pacific Strategic Financial Tbk,Financials,Keuangan,Pengembangan,2002-12-18,18 Desember 2002,11766313488,-,Aktif
+47,APII,BEI:APII,IDX:APII,APII.JK,IDX:APII,APII:IJ,Arita Prima Indonesia Tbk.,Industrials,Perindustrian,Pengembangan,2013-10-29,29 Oktober 2013,1075760000,-,Aktif
+48,APLI,BEI:APLI,IDX:APLI,APLI.JK,IDX:APLI,APLI:IJ,Asiaplast Industries Tbk.,Basic Materials,Barang Baku,Pengembangan,2000-05-01,1 Mei 2000,1362671400,-,Aktif
+49,APLN,BEI:APLN,IDX:APLN,APLN.JK,IDX:APLN,APLN:IJ,Agung Podomoro Land Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,2010-11-11,11 November 2010,22699326779,-,Aktif
+50,ARCI,BEI:ARCI,IDX:ARCI,ARCI.JK,IDX:ARCI,ARCI:IJ,Archi Indonesia Tbk.,Basic Materials,Barang Baku,Pengembangan,2021-06-28,28 Juni 2021,24835000000,KOMPAS100,Aktif
+51,AREA,BEI:AREA,IDX:AREA,AREA.JK,IDX:AREA,AREA:IJ,Dunia Virtual Online Tbk.,Technology,Teknologi,Pengembangan,2024-04-01,1 April 2024,2539601000,-,Aktif
+52,ARGO,BEI:ARGO,IDX:ARGO,ARGO.JK,IDX:ARGO,ARGO:IJ,Argo Pantes Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1991-01-07,7 Januari 1991,3174339029,-,Aktif
+53,ARII,BEI:ARII,IDX:ARII,ARII.JK,IDX:ARII,ARII:IJ,Atlas Resources Tbk.,Energy,Energi,Pengembangan,2011-11-08,8 November 2011,3431000000,-,Aktif
+54,ARKA,BEI:ARKA,IDX:ARKA,ARKA.JK,IDX:ARKA,ARKA:IJ,Arkha Jayanti Persada Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2019-07-10,10 Juli 2019,2000000000,-,Aktif
+55,ARKO,BEI:ARKO,IDX:ARKO,ARKO.JK,IDX:ARKO,ARKO:IJ,Arkora Hydro Tbk.,Infrastructure,Infrastruktur,Pengembangan,2022-07-08,8 Juli 2022,2928495000,-,Aktif
+56,ARMY,BEI:ARMY,IDX:ARMY,ARMY.JK,IDX:ARMY,ARMY:IJ,Armidian Karyatama Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2017-06-21,21 Juni 2017,9006250000,-,Aktif
+57,ARNA,BEI:ARNA,IDX:ARNA,ARNA.JK,IDX:ARNA,ARNA:IJ,Arwana Citramulia Tbk.,Industrials,Perindustrian,Utama,2001-07-17,17 Juli 2001,7341430976,-,Aktif
+58,ARTA,BEI:ARTA,IDX:ARTA,ARTA.JK,IDX:ARTA,ARTA:IJ,Arthavest Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2002-11-05,5 November 2002,446674175,-,Aktif
+59,ARTI,BEI:ARTI,IDX:ARTI,ARTI.JK,IDX:ARTI,ARTI:IJ,Ratu Prabu Energi Tbk,Energy,Energi,Pemantauan Khusus,2003-04-30,30 April 2003,7840000000,-,Aktif
+60,ARTO,BEI:ARTO,IDX:ARTO,ARTO.JK,IDX:ARTO,ARTO:IJ,Bank Jago Tbk.,Financials,Keuangan,Utama,2016-01-12,12 Januari 2016,13718448700,KOMPAS100,Aktif
+61,ASBI,BEI:ASBI,IDX:ASBI,ASBI.JK,IDX:ASBI,ASBI:IJ,Asuransi Bintang Tbk.,Financials,Keuangan,Pengembangan,1989-11-29,29 November 1989,348386472,-,Aktif
+62,ASDM,BEI:ASDM,IDX:ASDM,ASDM.JK,IDX:ASDM,ASDM:IJ,Asuransi Dayin Mitra Tbk.,Financials,Keuangan,Pengembangan,1989-12-15,15 Desember 1989,384000000,-,Aktif
+63,ASGR,BEI:ASGR,IDX:ASGR,ASGR.JK,IDX:ASGR,ASGR:IJ,Astra Graphia Tbk.,Industrials,Perindustrian,Utama,1989-11-15,15 November 1989,1348780500,-,Aktif
+64,ASHA,BEI:ASHA,IDX:ASHA,ASHA.JK,IDX:ASHA,ASHA:IJ,Cilacap Samudera Fishing Industry Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2022-05-27,27 Mei 2022,5000000000,-,Aktif
+65,ASII,BEI:ASII,IDX:ASII,ASII.JK,IDX:ASII,ASII:IJ,Astra International Tbk.,Industrials,Perindustrian,Utama,1990-04-04,4 April 1990,40483553140,"LQ45, KOMPAS100",Aktif
+66,ASJT,BEI:ASJT,IDX:ASJT,ASJT.JK,IDX:ASJT,ASJT:IJ,Asuransi Jasa Tania Tbk.,Financials,Keuangan,Pengembangan,2003-12-23,23 Desember 2003,1400000000,-,Aktif
+67,ASLC,BEI:ASLC,IDX:ASLC,ASLC.JK,IDX:ASLC,ASLC:IJ,Autopedia Sukses Lestari Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2022-01-25,25 Januari 2022,12746354780,-,Aktif
+68,ASLI,BEI:ASLI,IDX:ASLI,ASLI.JK,IDX:ASLI,ASLI:IJ,Asri Karya Lestari Tbk.,Infrastructure,Infrastruktur,Pengembangan,2024-01-05,5 Januari 2024,6250000000,-,Aktif
+69,ASMI,BEI:ASMI,IDX:ASMI,ASMI.JK,IDX:ASMI,ASMI:IJ,Asuransi Kresna Mitra Tbk.,Financials,Keuangan,Pemantauan Khusus,2014-01-16,16 Januari 2014,8958380460,-,Aktif
+70,ASPI,BEI:ASPI,IDX:ASPI,ASPI.JK,IDX:ASPI,ASPI:IJ,Andalan Sakti Primaindo Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2020-02-17,17 Februari 2020,681823317,-,Aktif
+71,ASPR,BEI:ASPR,IDX:ASPR,ASPR.JK,IDX:ASPR,ASPR:IJ,Asia Pramulia Tbk.,Basic Materials,Barang Baku,Pengembangan,2025-07-08,8 Juli 2025,2712000000,-,Aktif
+72,ASRI,BEI:ASRI,IDX:ASRI,ASRI.JK,IDX:ASRI,ASRI:IJ,Alam Sutera Realty Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,2007-12-18,18 Desember 2007,19649411888,PEFINDO25,Aktif
+73,ASRM,BEI:ASRM,IDX:ASRM,ASRM.JK,IDX:ASRM,ASRM:IJ,Asuransi Ramayana Tbk.,Financials,Keuangan,Pengembangan,1990-03-19,19 Maret 1990,1217135360,-,Aktif
+74,ASSA,BEI:ASSA,IDX:ASSA,ASSA.JK,IDX:ASSA,ASSA:IJ,Adi Sarana Armada Tbk.,Transportation & Logistics,Transportasi & Logistik,Utama,2012-11-12,12 November 2012,3691137517,-,Aktif
+75,ATAP,BEI:ATAP,IDX:ATAP,ATAP.JK,IDX:ATAP,ATAP:IJ,Trimitra Prawara Goldland Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2020-12-11,11 Desember 2020,1250000000,-,Aktif
+76,ATIC,BEI:ATIC,IDX:ATIC,ATIC.JK,IDX:ATIC,ATIC:IJ,Anabatic Technologies Tbk.,Technology,Teknologi,Pengembangan,2015-07-08,8 Juli 2015,2315361355,-,Aktif
+77,ATLA,BEI:ATLA,IDX:ATLA,ATLA.JK,IDX:ATLA,ATLA:IJ,Atlantis Subsea Indonesia Tbk.,Energy,Energi,Pengembangan,2024-04-16,16 April 2024,6199526452,-,Aktif
+78,AUTO,BEI:AUTO,IDX:AUTO,AUTO.JK,IDX:AUTO,AUTO:IJ,Astra Otoparts Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,1998-06-15,15 Juni 1998,4819733000,PEFINDO25,Aktif
+79,AVIA,BEI:AVIA,IDX:AVIA,AVIA.JK,IDX:AVIA,AVIA:IJ,Avia Avian Tbk.,Basic Materials,Barang Baku,Utama,2021-12-08,8 Desember 2021,61953555600,PEFINDO25,Aktif
+80,AWAN,BEI:AWAN,IDX:AWAN,AWAN.JK,IDX:AWAN,AWAN:IJ,Era Digital Media Tbk.,Technology,Teknologi,Pengembangan,2023-04-18,18 April 2023,3435000000,-,Aktif
+81,AXIO,BEI:AXIO,IDX:AXIO,AXIO.JK,IDX:AXIO,AXIO:IJ,Tera Data Indonusa Tbk.,Technology,Teknologi,Utama,2022-07-20,20 Juli 2022,5840126500,-,Aktif
+82,AYAM,BEI:AYAM,IDX:AYAM,AYAM.JK,IDX:AYAM,AYAM:IJ,Janu Putra Sejahtera Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2023-11-30,30 November 2023,4000000000,-,Aktif
+83,AYLS,BEI:AYLS,IDX:AYLS,AYLS.JK,IDX:AYLS,AYLS:IJ,Arkayana Lestari Grup Tbk,Basic Materials,Barang Baku,Pengembangan,2020-02-12,12 Februari 2020,853423236,-,Aktif
+84,BABP,BEI:BABP,IDX:BABP,BABP.JK,IDX:BABP,BABP:IJ,Bank MNC Internasional Tbk.,Financials,Keuangan,Pengembangan,2002-07-15,15 Juli 2002,44014333126,-,Aktif
+85,BABY,BEI:BABY,IDX:BABY,BABY.JK,IDX:BABY,BABY:IJ,Multitrend Indo Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2023-09-07,7 September 2023,2616226706,-,Aktif
+86,BACA,BEI:BACA,IDX:BACA,BACA.JK,IDX:BACA,BACA:IJ,Bank Capital Indonesia Tbk.,Financials,Keuangan,Utama,2007-10-04,4 Oktober 2007,19753494636,-,Aktif
+87,BACH,BEI:BACH,IDX:BACH,BACH.JK,IDX:BACH,BACH:IJ,Bach Multi Global Tbk.,Industrials,Perindustrian,Utama,2026-07-08,8 Juli 2026,4083665300,-,Aktif
+88,BAIK,BEI:BAIK,IDX:BAIK,BAIK.JK,IDX:BAIK,BAIK:IJ,Bersama Mencapai Puncak Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2024-02-15,15 Februari 2024,1125000000,-,Aktif
+89,BAJA,BEI:BAJA,IDX:BAJA,BAJA.JK,IDX:BAJA,BAJA:IJ,Saranacentral Bajatama Tbk.,Basic Materials,Barang Baku,Pengembangan,2011-12-21,21 Desember 2011,1800000000,-,Aktif
+90,BALI,BEI:BALI,IDX:BALI,BALI.JK,IDX:BALI,BALI:IJ,Bali Towerindo Sentra Tbk.,Infrastructure,Infrastruktur,Utama,2014-03-13,13 Maret 2014,3934592500,-,Aktif
+91,BANK,BEI:BANK,IDX:BANK,BANK.JK,IDX:BANK,BANK:IJ,Bank Aladin Syariah Tbk.,Financials,Keuangan,Utama,2021-02-01,1 Februari 2021,14621940588,-,Aktif
+92,BAPA,BEI:BAPA,IDX:BAPA,BAPA.JK,IDX:BAPA,BAPA:IJ,Bekasi Asri Pemula Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2008-01-14,14 Januari 2008,661784520,-,Aktif
+93,BAPI,BEI:BAPI,IDX:BAPI,BAPI.JK,IDX:BAPI,BAPI:IJ,Bhakti Agung Propertindo Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2019-09-16,16 September 2019,5591980103,-,Aktif
+94,BATA,BEI:BATA,IDX:BATA,BATA.JK,IDX:BATA,BATA:IJ,Sepatu Bata Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1982-03-24,24 Maret 1982,1300000000,-,Aktif
+95,BATR,BEI:BATR,IDX:BATR,BATR.JK,IDX:BATR,BATR:IJ,Benteng Api Technic Tbk.,Basic Materials,Barang Baku,Pengembangan,2024-06-10,10 Juni 2024,3025000000,-,Aktif
+96,BAUT,BEI:BAUT,IDX:BAUT,BAUT.JK,IDX:BAUT,BAUT:IJ,Mitra Angkasa Sejahtera Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2022-01-28,28 Januari 2022,4800139307,-,Aktif
+97,BAYU,BEI:BAYU,IDX:BAYU,BAYU.JK,IDX:BAYU,BAYU:IJ,Bayu Buana Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1989-10-30,30 Oktober 1989,353220780,-,Aktif
+98,BBCA,BEI:BBCA,IDX:BBCA,BBCA.JK,IDX:BBCA,BBCA:IJ,Bank Central Asia Tbk.,Financials,Keuangan,Utama,2000-05-31,31 Mei 2000,122042299500,"LQ45, KOMPAS100",Aktif
+99,BBHI,BEI:BBHI,IDX:BBHI,BBHI.JK,IDX:BBHI,BBHI:IJ,Allo Bank Indonesia Tbk.,Financials,Keuangan,Utama,2015-08-12,12 Agustus 2015,21512953877,-,Aktif
+100,BBKP,BEI:BBKP,IDX:BBKP,BBKP.JK,IDX:BBKP,BBKP:IJ,Bank KB Bukopin Tbk.,Financials,Keuangan,Utama,2006-07-10,10 Juli 2006,185819884852,-,Aktif
+101,BBLD,BEI:BBLD,IDX:BBLD,BBLD.JK,IDX:BBLD,BBLD:IJ,Buana Finance Tbk.,Financials,Keuangan,Pengembangan,1990-05-07,7 Mei 1990,1645796054,-,Aktif
+102,BBMD,BEI:BBMD,IDX:BBMD,BBMD.JK,IDX:BBMD,BBMD:IJ,Bank Mestika Dharma Tbk.,Financials,Keuangan,Pengembangan,2013-07-08,8 Juli 2013,4049189100,-,Aktif
+103,BBNI,BEI:BBNI,IDX:BBNI,BBNI.JK,IDX:BBNI,BBNI:IJ,Bank Negara Indonesia (Persero) Tbk.,Financials,Keuangan,Utama,1996-11-25,25 November 1996,36924339786,"LQ45, KOMPAS100",Aktif
+104,BBRI,BEI:BBRI,IDX:BBRI,BBRI.JK,IDX:BBRI,BBRI:IJ,Bank Rakyat Indonesia (Persero) Tbk.,Financials,Keuangan,Utama,2003-11-10,10 November 2003,150043411587,"LQ45, KOMPAS100",Aktif
+105,BBRM,BEI:BBRM,IDX:BBRM,BBRM.JK,IDX:BBRM,BBRM:IJ,Pelayaran Nasional Bina Buana Raya Tbk,Energy,Energi,Pengembangan,2013-01-09,9 Januari 2013,8479490328,-,Aktif
+106,BBSI,BEI:BBSI,IDX:BBSI,BBSI.JK,IDX:BBSI,BBSI:IJ,Krom Bank Indonesia Tbk.,Financials,Keuangan,Pengembangan,2020-09-07,7 September 2020,3637976068,-,Aktif
+107,BBSS,BEI:BBSS,IDX:BBSS,BBSS.JK,IDX:BBSS,BBSS:IJ,Bumi Benowo Sukses Sejahtera Tbk,Properties & Real Estate,Properti & Real Estat,Pengembangan,2020-04-15,15 April 2020,4800016020,-,Aktif
+108,BBTN,BEI:BBTN,IDX:BBTN,BBTN.JK,IDX:BBTN,BBTN:IJ,Bank Tabungan Negara (Persero) Tbk,Financials,Keuangan,Utama,2009-12-17,17 Desember 2009,13894099969,"LQ45, KOMPAS100",Aktif
+109,BBYB,BEI:BBYB,IDX:BBYB,BBYB.JK,IDX:BBYB,BBYB:IJ,Bank Neo Commerce Tbk.,Financials,Keuangan,Utama,2015-01-13,13 Januari 2015,13216977523,KOMPAS100,Aktif
+110,BCAP,BEI:BCAP,IDX:BCAP,BCAP.JK,IDX:BCAP,BCAP:IJ,MNC Kapital Indonesia Tbk.,Financials,Keuangan,Utama,2001-06-08,8 Juni 2001,42618850927,-,Aktif
+111,BCIC,BEI:BCIC,IDX:BCIC,BCIC.JK,IDX:BCIC,BCIC:IJ,Bank JTrust Indonesia Tbk.,Financials,Keuangan,Pengembangan,1997-06-25,25 Juni 1997,17926071041,-,Aktif
+112,BCIP,BEI:BCIP,IDX:BCIP,BCIP.JK,IDX:BCIP,BCIP:IJ,Bumi Citra Permai Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2009-12-11,11 Desember 2009,1429915525,-,Aktif
+113,BDKR,BEI:BDKR,IDX:BDKR,BDKR.JK,IDX:BDKR,BDKR:IJ,Berdikari Pondasi Perkasa Tbk.,Infrastructure,Infrastruktur,Utama,2023-03-03,3 Maret 2023,4725101522,-,Aktif
+114,BDMN,BEI:BDMN,IDX:BDMN,BDMN.JK,IDX:BDMN,BDMN:IJ,Bank Danamon Indonesia Tbk.,Financials,Keuangan,Utama,1989-12-06,6 Desember 1989,9675817341,-,Aktif
+115,BEBS,BEI:BEBS,IDX:BEBS,BEBS.JK,IDX:BEBS,BEBS:IJ,Berkah Beton Sadaya Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2021-03-10,10 Maret 2021,45000000000,-,Aktif
+116,BEEF,BEI:BEEF,IDX:BEEF,BEEF.JK,IDX:BEEF,BEEF:IJ,Estika Tata Tiara Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2019-01-10,10 Januari 2019,7186061591,-,Aktif
+117,BEER,BEI:BEER,IDX:BEER,BEER.JK,IDX:BEER,BEER:IJ,Jobubu Jarum Minahasa Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2023-01-06,6 Januari 2023,4000000000,-,Aktif
+118,BEKS,BEI:BEKS,IDX:BEKS,BEKS.JK,IDX:BEKS,BEKS:IJ,BPD Banten Tbk.,Financials,Keuangan,Pemantauan Khusus,2001-07-13,13 Juli 2001,51351733883,-,Aktif
+119,BELI,BEI:BELI,IDX:BELI,BELI.JK,IDX:BELI,BELI:IJ,Global Digital Niaga Tbk.,Technology,Teknologi,Ekonomi Baru,2022-11-08,8 November 2022,128110737143,-,Aktif
+120,BELL,BEI:BELL,IDX:BELL,BELL.JK,IDX:BELL,BELL:IJ,Trisula Textile Industries Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2017-10-03,3 Oktober 2017,7250000000,-,Aktif
+121,BESS,BEI:BESS,IDX:BESS,BESS.JK,IDX:BESS,BESS:IJ,Batulicin Nusantara Maritim Tbk.,Energy,Energi,Pengembangan,2020-03-09,9 Maret 2020,3440455528,-,Aktif
+122,BEST,BEI:BEST,IDX:BEST,BEST.JK,IDX:BEST,BEST:IJ,Bekasi Fajar Industrial Estate Tbk,Properties & Real Estate,Properti & Real Estat,Utama,2012-04-10,10 April 2012,9647311150,-,Aktif
+123,BFIN,BEI:BFIN,IDX:BFIN,BFIN.JK,IDX:BFIN,BFIN:IJ,BFI Finance Indonesia Tbk.,Financials,Keuangan,Utama,1990-05-16,16 Mei 1990,15967115620,"KOMPAS100, PEFINDO25",Aktif
+124,BGTG,BEI:BGTG,IDX:BGTG,BGTG.JK,IDX:BGTG,BGTG:IJ,Bank Ganesha Tbk.,Financials,Keuangan,Pengembangan,2016-05-12,12 Mei 2016,23731287132,-,Aktif
+125,BHAT,BEI:BHAT,IDX:BHAT,BHAT.JK,IDX:BHAT,BHAT:IJ,Bhakti Multi Artha Tbk.,Financials,Keuangan,Pengembangan,2020-04-15,15 April 2020,5000000000,-,Aktif
+126,BHIT,BEI:BHIT,IDX:BHIT,BHIT.JK,IDX:BHIT,BHIT:IJ,MNC Asia Holding Tbk.,Industrials,Perindustrian,Pemantauan Khusus,1997-11-24,24 November 1997,86068156705,-,Aktif
+127,BIKA,BEI:BIKA,IDX:BIKA,BIKA.JK,IDX:BIKA,BIKA:IJ,Binakarya Jaya Abadi Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2015-07-14,14 Juli 2015,592280000,-,Aktif
+128,BIKE,BEI:BIKE,IDX:BIKE,BIKE.JK,IDX:BIKE,BIKE:IJ,Sepeda Bersama Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2022-03-21,21 Maret 2022,1293916404,-,Aktif
+129,BIMA,BEI:BIMA,IDX:BIMA,BIMA.JK,IDX:BIMA,BIMA:IJ,Primarindo Asia Infrastructure Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1994-08-30,30 Agustus 1994,608175716,-,Aktif
+130,BINA,BEI:BINA,IDX:BINA,BINA.JK,IDX:BINA,BINA:IJ,Bank Ina Perdana Tbk.,Financials,Keuangan,Utama,2014-01-16,16 Januari 2014,6073369498,-,Aktif
+131,BINO,BEI:BINO,IDX:BINO,BINO.JK,IDX:BINO,BINO:IJ,Perma Plasindo Tbk.,Industrials,Perindustrian,Pengembangan,2021-11-25,25 November 2021,2275316111,-,Aktif
+132,BIPI,BEI:BIPI,IDX:BIPI,BIPI.JK,IDX:BIPI,BIPI:IJ,Benakat Integra Tbk,Energy,Energi,Pengembangan,2010-02-11,11 Februari 2010,63710196917,KOMPAS100,Aktif
+133,BIPP,BEI:BIPP,IDX:BIPP,BIPP.JK,IDX:BIPP,BIPP:IJ,Bhuwanatala Indah Permai Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1995-10-23,23 Oktober 1995,5028669376,-,Aktif
+134,BIRD,BEI:BIRD,IDX:BIRD,BIRD.JK,IDX:BIRD,BIRD:IJ,Blue Bird Tbk.,Transportation & Logistics,Transportasi & Logistik,Utama,2014-11-05,5 November 2014,2502100000,-,Aktif
+135,BISI,BEI:BISI,IDX:BISI,BISI.JK,IDX:BISI,BISI:IJ,BISI International Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2007-05-28,28 Mei 2007,3000000000,-,Aktif
+136,BJBR,BEI:BJBR,IDX:BJBR,BJBR.JK,IDX:BJBR,BJBR:IJ,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,Financials,Keuangan,Utama,2010-07-08,8 Juli 2010,10416229249,-,Aktif
+137,BJTM,BEI:BJTM,IDX:BJTM,BJTM.JK,IDX:BJTM,BJTM:IJ,Bank Pembangunan Timur Tbk.,Financials,Keuangan,Utama,2012-07-12,12 Juli 2012,14865343101,-,Aktif
+138,BKDP,BEI:BKDP,IDX:BKDP,BKDP.JK,IDX:BKDP,BKDP:IJ,Bukit Darmo Property Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2007-06-15,15 Juni 2007,7513992252,-,Aktif
+139,BKSL,BEI:BKSL,IDX:BKSL,BKSL.JK,IDX:BKSL,BKSL:IJ,Sentul City Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1997-07-28,28 Juli 1997,167708902705,KOMPAS100,Aktif
+140,BKSW,BEI:BKSW,IDX:BKSW,BKSW.JK,IDX:BKSW,BKSW:IJ,Bank QNB Indonesia Tbk.,Financials,Keuangan,Pengembangan,2002-11-21,21 November 2002,34806467881,-,Aktif
+141,BLES,BEI:BLES,IDX:BLES,BLES.JK,IDX:BLES,BLES:IJ,Superior Prima Sukses Tbk.,Basic Materials,Barang Baku,Utama,2024-07-08,8 Juli 2024,8890206400,-,Aktif
+142,BLOG,BEI:BLOG,IDX:BLOG,BLOG.JK,IDX:BLOG,BLOG:IJ,Trimitra Trans Persada Tbk.,Transportation & Logistics,Transportasi & Logistik,Utama,2025-07-10,10 Juli 2025,3379487200,-,Aktif
+143,BLTA,BEI:BLTA,IDX:BLTA,BLTA.JK,IDX:BLTA,BLTA:IJ,Berlian Laju Tanker Tbk,Transportation & Logistics,Transportasi & Logistik,Pemantauan Khusus,1990-03-26,26 Maret 1990,25940187103,-,Aktif
+144,BLTZ,BEI:BLTZ,IDX:BLTZ,BLTZ.JK,IDX:BLTZ,BLTZ:IJ,Graha Layar Prima Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2014-04-10,10 April 2014,873937142,-,Aktif
+145,BLUE,BEI:BLUE,IDX:BLUE,BLUE.JK,IDX:BLUE,BLUE:IJ,Berkah Prima Perkasa Tbk.,Industrials,Perindustrian,Pengembangan,2019-07-08,8 Juli 2019,418000000,-,Aktif
+146,BMAS,BEI:BMAS,IDX:BMAS,BMAS.JK,IDX:BMAS,BMAS:IJ,Bank Maspion Indonesia Tbk.,Financials,Keuangan,Pemantauan Khusus,2013-07-11,11 Juli 2013,17921635680,-,Aktif
+147,BMBL,BEI:BMBL,IDX:BMBL,BMBL.JK,IDX:BMBL,BMBL:IJ,Lavender Bina Cendikia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2023-01-11,11 Januari 2023,1030080995,-,Aktif
+148,BMHS,BEI:BMHS,IDX:BMHS,BMHS.JK,IDX:BMHS,BMHS:IJ,Bundamedik Tbk.,Healthcare,Kesehatan,Utama,2021-07-06,6 Juli 2021,8603416176,-,Aktif
+149,BMRI,BEI:BMRI,IDX:BMRI,BMRI.JK,IDX:BMRI,BMRI:IJ,Bank Mandiri (Persero) Tbk.,Financials,Keuangan,Utama,2003-07-14,14 Juli 2003,92399999996,"LQ45, KOMPAS100",Aktif
+150,BMSR,BEI:BMSR,IDX:BMSR,BMSR.JK,IDX:BMSR,BMSR:IJ,Bintang Mitra Semestaraya Tbk,Basic Materials,Barang Baku,Pengembangan,1999-12-29,29 Desember 1999,1159200024,-,Aktif
+151,BMTR,BEI:BMTR,IDX:BMTR,BMTR.JK,IDX:BMTR,BMTR:IJ,Global Mediacom Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,1995-07-17,17 Juli 1995,16583997586,-,Aktif
+152,BNBA,BEI:BNBA,IDX:BNBA,BNBA.JK,IDX:BNBA,BNBA:IJ,Bank Bumi Arta Tbk.,Financials,Keuangan,Pengembangan,2006-06-01,1 Juni 2006,3354120000,-,Aktif
+153,BNBR,BEI:BNBR,IDX:BNBR,BNBR.JK,IDX:BNBR,BNBR:IJ,Bakrie & Brothers Tbk,Industrials,Perindustrian,Pemantauan Khusus,1989-08-28,28 Agustus 1989,160057457509,KOMPAS100,Aktif
+154,BNGA,BEI:BNGA,IDX:BNGA,BNGA.JK,IDX:BNGA,BNGA:IJ,Bank CIMB Niaga Tbk.,Financials,Keuangan,Utama,1989-11-29,29 November 1989,24890783784,-,Aktif
+155,BNII,BEI:BNII,IDX:BNII,BNII.JK,IDX:BNII,BNII:IJ,Bank Maybank Indonesia Tbk.,Financials,Keuangan,Utama,1989-11-21,21 November 1989,75357433911,-,Aktif
+156,BNLI,BEI:BNLI,IDX:BNLI,BNLI.JK,IDX:BNLI,BNLI:IJ,Bank Permata Tbk.,Financials,Keuangan,Pengembangan,1990-01-15,15 Januari 1990,35819545925,-,Aktif
+157,BOAT,BEI:BOAT,IDX:BOAT,BOAT.JK,IDX:BOAT,BOAT:IJ,Newport Marine Services Tbk.,Energy,Energi,Pengembangan,2024-11-12,12 November 2024,3501680000,-,Aktif
+158,BOBA,BEI:BOBA,IDX:BOBA,BOBA.JK,IDX:BOBA,BOBA:IJ,Formosa Ingredient Factory Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2021-11-01,1 November 2021,1155750000,-,Aktif
+159,BOGA,BEI:BOGA,IDX:BOGA,BOGA.JK,IDX:BOGA,BOGA:IJ,Apollo Global Interactive Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2016-12-19,19 Desember 2016,3803526210,-,Aktif
+160,BOLA,BEI:BOLA,IDX:BOLA,BOLA.JK,IDX:BOLA,BOLA:IJ,Bali Bintang Sejahtera Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2019-06-17,17 Juni 2019,6000000000,-,Aktif
+161,BOLT,BEI:BOLT,IDX:BOLT,BOLT.JK,IDX:BOLT,BOLT:IJ,Garuda Metalindo Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2015-07-07,7 Juli 2015,2343750000,-,Aktif
+162,BOSS,BEI:BOSS,IDX:BOSS,BOSS.JK,IDX:BOSS,BOSS:IJ,Borneo Olah Sarana Sukses Tbk.,Energy,Energi,Pemantauan Khusus,2018-02-15,15 Februari 2018,1400000000,-,Aktif
+163,BPFI,BEI:BPFI,IDX:BPFI,BPFI.JK,IDX:BPFI,BPFI:IJ,Woori Finance Indonesia Tbk.,Financials,Keuangan,Pengembangan,2009-06-01,1 Juni 2009,2673995362,-,Aktif
+164,BPII,BEI:BPII,IDX:BPII,BPII.JK,IDX:BPII,BPII:IJ,Batavia Prosperindo Internasional Tbk.,Financials,Keuangan,Pengembangan,2014-07-08,8 Juli 2014,10309973240,-,Aktif
+165,BPTR,BEI:BPTR,IDX:BPTR,BPTR.JK,IDX:BPTR,BPTR:IJ,Batavia Prosperindo Trans Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2018-07-09,9 Juli 2018,3534000000,-,Aktif
+166,BRAM,BEI:BRAM,IDX:BRAM,BRAM.JK,IDX:BRAM,BRAM:IJ,Indo Kordsa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1990-09-05,5 September 1990,450056980,-,Aktif
+167,BREN,BEI:BREN,IDX:BREN,BREN.JK,IDX:BREN,BREN:IJ,Barito Renewables Energy Tbk.,Infrastructure,Infrastruktur,Utama,2023-10-09,9 Oktober 2023,133786220000,-,Aktif
+168,BRIS,BEI:BRIS,IDX:BRIS,BRIS.JK,IDX:BRIS,BRIS:IJ,Bank Syariah Indonesia Tbk.,Financials,Keuangan,Utama,2018-05-09,9 Mei 2018,45667877639,KOMPAS100,Aktif
+169,BRMS,BEI:BRMS,IDX:BRMS,BRMS.JK,IDX:BRMS,BRMS:IJ,Bumi Resources Minerals Tbk.,Basic Materials,Barang Baku,Utama,2010-12-09,9 Desember 2010,141784040338,"KOMPAS100, PEFINDO25",Aktif
+170,BRNA,BEI:BRNA,IDX:BRNA,BRNA.JK,IDX:BRNA,BRNA:IJ,Berlina Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,1989-11-06,6 November 1989,979110000,-,Aktif
+171,BRPT,BEI:BRPT,IDX:BRPT,BRPT.JK,IDX:BRPT,BRPT:IJ,Barito Pacific Tbk.,Basic Materials,Barang Baku,Utama,1993-10-01,1 Oktober 1993,93747218044,"LQ45, KOMPAS100",Aktif
+172,BRRC,BEI:BRRC,IDX:BRRC,BRRC.JK,IDX:BRRC,BRRC:IJ,Raja Roti Cemerlang Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2025-01-09,9 Januari 2025,971500000,-,Aktif
+173,BSBK,BEI:BSBK,IDX:BSBK,BSBK.JK,IDX:BSBK,BSBK:IJ,Wulandari Bangun Laksana Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,2022-11-08,8 November 2022,25091882375,-,Aktif
+174,BSDE,BEI:BSDE,IDX:BSDE,BSDE.JK,IDX:BSDE,BSDE:IJ,Bumi Serpong Damai Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,2008-06-06,6 Juni 2008,21171365812,KOMPAS100,Aktif
+175,BSIM,BEI:BSIM,IDX:BSIM,BSIM.JK,IDX:BSIM,BSIM:IJ,Bank Sinarmas Tbk.,Financials,Keuangan,Utama,2010-12-13,13 Desember 2010,19517921842,-,Aktif
+176,BSML,BEI:BSML,IDX:BSML,BSML.JK,IDX:BSML,BSML:IJ,Bintang Samudera Mandiri Lines Tbk,Energy,Energi,Pengembangan,2021-12-16,16 Desember 2021,1850225000,-,Aktif
+177,BSSR,BEI:BSSR,IDX:BSSR,BSSR.JK,IDX:BSSR,BSSR:IJ,Baramulti Suksessarana Tbk.,Energy,Energi,Pengembangan,2012-11-08,8 November 2012,2616500000,-,Aktif
+178,BSWD,BEI:BSWD,IDX:BSWD,BSWD.JK,IDX:BSWD,BSWD:IJ,Bank Of India Indonesia Tbk.,Financials,Keuangan,Pemantauan Khusus,2002-05-01,1 Mei 2002,3651978177,-,Aktif
+179,BTEK,BEI:BTEK,IDX:BTEK,BTEK.JK,IDX:BTEK,BTEK:IJ,Bumi Teknokultura Unggul Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2004-05-14,14 Mei 2004,46277496376,-,Aktif
+180,BTEL,BEI:BTEL,IDX:BTEL,BTEL.JK,IDX:BTEL,BTEL:IJ,Bakrie Telecom Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2006-02-03,3 Februari 2006,36822665755,-,Aktif
+181,BTON,BEI:BTON,IDX:BTON,BTON.JK,IDX:BTON,BTON:IJ,Betonjaya Manunggal Tbk.,Basic Materials,Barang Baku,Pengembangan,2001-07-18,18 Juli 2001,720000000,-,Aktif
+182,BTPN,BEI:BTPN,IDX:BTPN,BTPN.JK,IDX:BTPN,BTPN:IJ,Bank SMBC Indonesia Tbk.,Financials,Keuangan,Utama,2008-03-12,12 Maret 2008,10536203690,-,Aktif
+183,BTPS,BEI:BTPS,IDX:BTPS,BTPS.JK,IDX:BTPS,BTPS:IJ,Bank BTPN Syariah Tbk.,Financials,Keuangan,Utama,2018-05-08,8 Mei 2018,7626663000,PEFINDO25,Aktif
+184,BUAH,BEI:BUAH,IDX:BUAH,BUAH.JK,IDX:BUAH,BUAH:IJ,Segar Kumala Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2022-08-09,9 Agustus 2022,1000000000,-,Aktif
+185,BUDI,BEI:BUDI,IDX:BUDI,BUDI.JK,IDX:BUDI,BUDI:IJ,Budi Starch & Sweetener Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1995-05-08,8 Mei 1995,4498997362,-,Aktif
+186,BUKA,BEI:BUKA,IDX:BUKA,BUKA.JK,IDX:BUKA,BUKA:IJ,Bukalapak.com Tbk.,Technology,Teknologi,Ekonomi Baru,2021-08-06,6 Agustus 2021,103121636167,KOMPAS100,Aktif
+187,BUKK,BEI:BUKK,IDX:BUKK,BUKK.JK,IDX:BUKK,BUKK:IJ,Bukaka Teknik Utama Tbk.,Infrastructure,Infrastruktur,Pengembangan,2015-06-29,29 Juni 2015,2640452000,-,Aktif
+188,BULL,BEI:BULL,IDX:BULL,BULL.JK,IDX:BULL,BULL:IJ,Buana Lintas Lautan Tbk.,Energy,Energi,Pengembangan,2011-05-23,23 Mei 2011,14117801449,KOMPAS100,Aktif
+189,BUMI,BEI:BUMI,IDX:BUMI,BUMI.JK,IDX:BUMI,BUMI:IJ,Bumi Resources Tbk.,Energy,Energi,Utama,1990-07-30,30 Juli 1990,371322136553,"LQ45, KOMPAS100",Aktif
+190,BUVA,BEI:BUVA,IDX:BUVA,BUVA.JK,IDX:BUVA,BUVA:IJ,Bukit Uluwatu Villa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2010-07-12,12 Juli 2010,20590473213,KOMPAS100,Aktif
+191,BVIC,BEI:BVIC,IDX:BVIC,BVIC.JK,IDX:BVIC,BVIC:IJ,Bank Victoria International Tbk,Financials,Keuangan,Utama,1999-06-30,30 Juni 1999,15690050343,-,Aktif
+192,BWPT,BEI:BWPT,IDX:BWPT,BWPT.JK,IDX:BWPT,BWPT:IJ,Eagle High Plantations Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2009-10-27,27 Oktober 2009,31525291000,-,Aktif
+193,BYAN,BEI:BYAN,IDX:BYAN,BYAN.JK,IDX:BYAN,BYAN:IJ,Bayan Resources Tbk.,Energy,Energi,Utama,2008-08-12,12 Agustus 2008,33333335000,-,Aktif
+194,CAKK,BEI:CAKK,IDX:CAKK,CAKK.JK,IDX:CAKK,CAKK:IJ,Cahayaputra Asa Keramik Tbk.,Industrials,Perindustrian,Pengembangan,2018-10-31,31 Oktober 2018,1203300219,-,Aktif
+195,CAMP,BEI:CAMP,IDX:CAMP,CAMP.JK,IDX:CAMP,CAMP:IJ,Campina Ice Cream Industry Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2017-12-19,19 Desember 2017,5885000000,-,Aktif
+196,CANI,BEI:CANI,IDX:CANI,CANI.JK,IDX:CANI,CANI:IJ,Capitol Nusantara Indonesia Tbk,Energy,Energi,Pemantauan Khusus,2014-01-16,16 Januari 2014,833440000,-,Aktif
+197,CARE,BEI:CARE,IDX:CARE,CARE.JK,IDX:CARE,CARE:IJ,Metro Healthcare Indonesia Tbk,Healthcare,Kesehatan,Pengembangan,2020-03-13,13 Maret 2020,33250000000,-,Aktif
+198,CARS,BEI:CARS,IDX:CARS,CARS.JK,IDX:CARS,CARS:IJ,"Industri Dan Perdagangan Bintraco Dharma, Tbk",Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2017-04-10,10 April 2017,15000000000,-,Aktif
+199,CASA,BEI:CASA,IDX:CASA,CASA.JK,IDX:CASA,CASA:IJ,Capital Financial Indonesia Tbk,Financials,Keuangan,Pengembangan,2016-07-19,19 Juli 2016,54476269803,-,Aktif
+200,CASH,BEI:CASH,IDX:CASH,CASH.JK,IDX:CASH,CASH:IJ,Cashlez Worldwide Indonesia Tbk.,Technology,Teknologi,Akselerasi,2020-05-04,4 Mei 2020,1431125517,-,Aktif
+201,CASS,BEI:CASS,IDX:CASS,CASS.JK,IDX:CASS,CASS:IJ,Cardig Aero Services Tbk.,Infrastructure,Infrastruktur,Utama,2011-12-05,5 Desember 2011,2086950000,-,Aktif
+202,CBDK,BEI:CBDK,IDX:CBDK,CBDK.JK,IDX:CBDK,CBDK:IJ,Bangun Kosambi Sukses Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,2025-01-13,13 Januari 2025,5668944500,KOMPAS100,Aktif
+203,CBMF,BEI:CBMF,IDX:CBMF,CBMF.JK,IDX:CBMF,CBMF:IJ,Cahaya Bintang Medan Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2020-04-09,9 April 2020,1875000000,-,Aktif
+204,CBPE,BEI:CBPE,IDX:CBPE,CBPE.JK,IDX:CBPE,CBPE:IJ,Citra Buana Prasida Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2023-01-06,6 Januari 2023,1356250000,-,Aktif
+205,CBRE,BEI:CBRE,IDX:CBRE,CBRE.JK,IDX:CBRE,CBRE:IJ,Cakra Buana Resources Energi Tbk,Energy,Energi,Pemantauan Khusus,2023-01-09,9 Januari 2023,4538057561,-,Aktif
+206,CBUT,BEI:CBUT,IDX:CBUT,CBUT.JK,IDX:CBUT,CBUT:IJ,Citra Borneo Utama Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2022-11-08,8 November 2022,3125000000,-,Aktif
+207,CCSI,BEI:CCSI,IDX:CCSI,CCSI.JK,IDX:CCSI,CCSI:IJ,Communication Cable Systems Tbk.,Industrials,Perindustrian,Pengembangan,2019-06-18,18 Juni 2019,1199999998,-,Aktif
+208,CDIA,BEI:CDIA,IDX:CDIA,CDIA.JK,IDX:CDIA,CDIA:IJ,Chandra Daya Investasi Tbk.,Infrastructure,Infrastruktur,Pengembangan,2025-07-09,9 Juli 2025,124829000000,-,Aktif
+209,CEKA,BEI:CEKA,IDX:CEKA,CEKA.JK,IDX:CEKA,CEKA:IJ,Wilmar Cahaya Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1996-07-09,9 Juli 1996,595000000,-,Aktif
+210,CENT,BEI:CENT,IDX:CENT,CENT.JK,IDX:CENT,CENT:IJ,Centratama Telekom Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2001-11-01,1 November 2001,31183464900,-,Aktif
+211,CFIN,BEI:CFIN,IDX:CFIN,CFIN.JK,IDX:CFIN,CFIN:IJ,Clipan Finance Indonesia Tbk.,Financials,Keuangan,Utama,1990-08-27,27 Agustus 1990,3984520457,PEFINDO25,Aktif
+212,CGAS,BEI:CGAS,IDX:CGAS,CGAS.JK,IDX:CGAS,CGAS:IJ,Citra Nusantara Gemilang Tbk.,Energy,Energi,Pengembangan,2024-01-08,8 Januari 2024,1771485574,-,Aktif
+213,CHEK,BEI:CHEK,IDX:CHEK,CHEK.JK,IDX:CHEK,CHEK:IJ,Diastika Biotekindo Tbk.,Healthcare,Kesehatan,Pengembangan,2025-07-10,10 Juli 2025,4113331485,-,Aktif
+214,CHEM,BEI:CHEM,IDX:CHEM,CHEM.JK,IDX:CHEM,CHEM:IJ,Chemstar Indonesia Tbk.,Basic Materials,Barang Baku,Pengembangan,2022-07-08,8 Juli 2022,1700014594,-,Aktif
+215,CHIP,BEI:CHIP,IDX:CHIP,CHIP.JK,IDX:CHIP,CHIP:IJ,Pelita Teknologi Global Tbk.,Technology,Teknologi,Akselerasi,2023-02-08,8 Februari 2023,806000000,-,Aktif
+216,CINT,BEI:CINT,IDX:CINT,CINT.JK,IDX:CINT,CINT:IJ,Chitose Internasional Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2014-06-27,27 Juni 2014,1000000000,-,Aktif
+217,CITA,BEI:CITA,IDX:CITA,CITA.JK,IDX:CITA,CITA:IJ,Cita Mineral Investindo Tbk.,Basic Materials,Barang Baku,Pengembangan,2002-03-20,20 Maret 2002,3960361250,-,Aktif
+218,CITY,BEI:CITY,IDX:CITY,CITY.JK,IDX:CITY,CITY:IJ,Natura City Developments Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2018-09-28,28 September 2018,5405188966,-,Aktif
+219,CLAY,BEI:CLAY,IDX:CLAY,CLAY.JK,IDX:CLAY,CLAY:IJ,Citra Putra Realty Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2019-01-18,18 Januari 2019,2570000000,-,Aktif
+220,CLEO,BEI:CLEO,IDX:CLEO,CLEO.JK,IDX:CLEO,CLEO:IJ,Sariguna Primatirta Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2017-05-05,5 Mei 2017,12000000000,-,Aktif
+221,CLPI,BEI:CLPI,IDX:CLPI,CLPI.JK,IDX:CLPI,CLPI:IJ,Colorpak Indonesia Tbk.,Basic Materials,Barang Baku,Pengembangan,2001-11-30,30 November 2001,306338500,-,Aktif
+222,CMNP,BEI:CMNP,IDX:CMNP,CMNP.JK,IDX:CMNP,CMNP:IJ,Citra Marga Nusaphala Persada Tbk,Infrastructure,Infrastruktur,Utama,1995-01-10,10 Januari 1995,5437498079,-,Aktif
+223,CMNT,BEI:CMNT,IDX:CMNT,CMNT.JK,IDX:CMNT,CMNT:IJ,Cemindo Gemilang Tbk.,Basic Materials,Barang Baku,Utama,2021-09-08,8 September 2021,17125504000,-,Aktif
+224,CMPP,BEI:CMPP,IDX:CMPP,CMPP.JK,IDX:CMPP,CMPP:IJ,AirAsia Indonesia Tbk.,Transportation & Logistics,Transportasi & Logistik,Pemantauan Khusus,1994-12-08,8 Desember 1994,10685124441,-,Aktif
+225,CMRY,BEI:CMRY,IDX:CMRY,CMRY.JK,IDX:CMRY,CMRY:IJ,Cisarua Mountain Dairy Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2021-12-06,6 Desember 2021,7934683000,KOMPAS100,Aktif
+226,CNKO,BEI:CNKO,IDX:CNKO,CNKO.JK,IDX:CNKO,CNKO:IJ,Exploitasi Energi Indonesia Tbk,Energy,Energi,Pemantauan Khusus,2001-11-20,20 November 2001,8956361206,-,Aktif
+227,CNMA,BEI:CNMA,IDX:CNMA,CNMA.JK,IDX:CNMA,CNMA:IJ,Nusantara Sejahtera Raya Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2023-08-02,2 Agustus 2023,83345000000,-,Aktif
+228,CNTX,BEI:CNTX,IDX:CNTX,CNTX.JK,IDX:CNTX,CNTX:IJ,Century Textile Industry Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1979-05-22,22 Mei 1979,70000000,-,Aktif
+229,COAL,BEI:COAL,IDX:COAL,COAL.JK,IDX:COAL,COAL:IJ,Black Diamond Resources Tbk.,Energy,Energi,Pemantauan Khusus,2022-09-07,7 September 2022,6250000000,-,Aktif
+230,COCO,BEI:COCO,IDX:COCO,COCO.JK,IDX:COCO,COCO:IJ,Wahana Interfood Nusantara Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2019-03-20,20 Maret 2019,889863981,-,Aktif
+231,COIN,BEI:COIN,IDX:COIN,COIN.JK,IDX:COIN,COIN:IJ,Indokripto Koin Semesta Tbk.,Financials,Keuangan,Pengembangan,2025-07-09,9 Juli 2025,14705882400,KOMPAS100,Aktif
+232,COWL,BEI:COWL,IDX:COWL,COWL.JK,IDX:COWL,COWL:IJ,Cowell Development Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2007-12-19,19 Desember 2007,4871214021,-,Aktif
+233,CPIN,BEI:CPIN,IDX:CPIN,CPIN.JK,IDX:CPIN,CPIN:IJ,Charoen Pokphand Indonesia Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1991-03-18,18 Maret 1991,16398000000,"LQ45, KOMPAS100",Aktif
+234,CPRI,BEI:CPRI,IDX:CPRI,CPRI.JK,IDX:CPRI,CPRI:IJ,Capri Nusa Satu Properti Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2019-04-11,11 April 2019,2433379958,-,Aktif
+235,CPRO,BEI:CPRO,IDX:CPRO,CPRO.JK,IDX:CPRO,CPRO:IJ,Central Proteina Prima Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2006-11-28,28 November 2006,59572382787,-,Aktif
+236,CRAB,BEI:CRAB,IDX:CRAB,CRAB.JK,IDX:CRAB,CRAB:IJ,Toba Surimi Industries Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2022-08-10,10 Agustus 2022,1950000000,-,Aktif
+237,CRSN,BEI:CRSN,IDX:CRSN,CRSN.JK,IDX:CRSN,CRSN:IJ,Carsurin Tbk.,Industrials,Perindustrian,Pengembangan,2023-07-10,10 Juli 2023,2892000000,-,Aktif
+238,CSAP,BEI:CSAP,IDX:CSAP,CSAP.JK,IDX:CSAP,CSAP:IJ,Catur Sentosa Adiprana Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2007-12-12,12 Desember 2007,5683175151,-,Aktif
+239,CSIS,BEI:CSIS,IDX:CSIS,CSIS.JK,IDX:CSIS,CSIS:IJ,"Cahayasakti Investindo Sukses, Tbk",Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2017-05-10,10 Mei 2017,1307000000,-,Aktif
+240,CSMI,BEI:CSMI,IDX:CSMI,CSMI.JK,IDX:CSMI,CSMI:IJ,Cia Selera Murni Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2020-04-09,9 April 2020,816061500,-,Aktif
+241,CSRA,BEI:CSRA,IDX:CSRA,CSRA.JK,IDX:CSRA,CSRA:IJ,Cisadane Sawit Raya Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2020-01-09,9 Januari 2020,2050000000,-,Aktif
+242,CTBN,BEI:CTBN,IDX:CTBN,CTBN.JK,IDX:CTBN,CTBN:IJ,Citra Tubindo Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,1989-11-28,28 November 1989,800371500,-,Aktif
+243,CTRA,BEI:CTRA,IDX:CTRA,CTRA.JK,IDX:CTRA,CTRA:IJ,Ciputra Development Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,1994-03-28,28 Maret 1994,18535695255,KOMPAS100,Aktif
+244,CTTH,BEI:CTTH,IDX:CTTH,CTTH.JK,IDX:CTTH,CTTH:IJ,Citatah Tbk.,Industrials,Perindustrian,Pemantauan Khusus,1996-07-03,3 Juli 1996,1230839821,-,Aktif
+245,CUAN,BEI:CUAN,IDX:CUAN,CUAN.JK,IDX:CUAN,CUAN:IJ,Petrindo Jaya Kreasi Tbk.,Energy,Energi,Utama,2023-03-08,8 Maret 2023,11241890000,"LQ45, KOMPAS100",Aktif
+246,CYBR,BEI:CYBR,IDX:CYBR,CYBR.JK,IDX:CYBR,CYBR:IJ,ITSEC Asia Tbk.,Technology,Teknologi,Pengembangan,2023-08-08,8 Agustus 2023,6449584143,-,Aktif
+247,DAAZ,BEI:DAAZ,IDX:DAAZ,DAAZ.JK,IDX:DAAZ,DAAZ:IJ,Daaz Bara Lestari Tbk.,Basic Materials,Barang Baku,Utama,2024-11-11,11 November 2024,1997000000,-,Aktif
+248,DADA,BEI:DADA,IDX:DADA,DADA.JK,IDX:DADA,DADA:IJ,Diamond Citra Propertindo Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2020-02-14,14 Februari 2020,7431530800,-,Aktif
+249,DART,BEI:DART,IDX:DART,DART.JK,IDX:DART,DART:IJ,Duta Anggada Realty Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,1990-05-08,8 Mei 1990,3141390962,-,Aktif
+250,DATA,BEI:DATA,IDX:DATA,DATA.JK,IDX:DATA,DATA:IJ,Remala Abadi Tbk.,Infrastructure,Infrastruktur,Pengembangan,2024-05-07,7 Mei 2024,1375000000,-,Aktif
+251,DAYA,BEI:DAYA,IDX:DAYA,DAYA.JK,IDX:DAYA,DAYA:IJ,Duta Intidaya Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2016-06-28,28 Juni 2016,2420547025,-,Aktif
+252,DCII,BEI:DCII,IDX:DCII,DCII.JK,IDX:DCII,DCII:IJ,DCI Indonesia Tbk.,Technology,Teknologi,Pengembangan,2021-01-06,6 Januari 2021,2383745900,-,Aktif
+253,DEAL,BEI:DEAL,IDX:DEAL,DEAL.JK,IDX:DEAL,DEAL:IJ,Dewata Freight Tbk.,Transportation & Logistics,Transportasi & Logistik,Pemantauan Khusus,2018-11-11,11 November 2018,1146170959,-,Aktif
+254,DEFI,BEI:DEFI,IDX:DEFI,DEFI.JK,IDX:DEFI,DEFI:IJ,Danasupra Erapacific Tbk.,Financials,Keuangan,Pemantauan Khusus,2001-07-06,6 Juli 2001,687266666,-,Aktif
+255,DEPO,BEI:DEPO,IDX:DEPO,DEPO.JK,IDX:DEPO,DEPO:IJ,Caturkarda Depo Bangunan Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2021-11-25,25 November 2021,6790000000,-,Aktif
+256,DEWA,BEI:DEWA,IDX:DEWA,DEWA.JK,IDX:DEWA,DEWA:IJ,Darma Henwa Tbk,Energy,Energi,Utama,2007-09-26,26 September 2007,21853733792,"LQ45, KOMPAS100",Aktif
+257,DEWI,BEI:DEWI,IDX:DEWI,DEWI.JK,IDX:DEWI,DEWI:IJ,Dewi Shri Farmindo Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2022-07-18,18 Juli 2022,2000000000,-,Aktif
+258,DFAM,BEI:DFAM,IDX:DFAM,DFAM.JK,IDX:DFAM,DFAM:IJ,Dafam Property Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2018-04-27,27 April 2018,1899852850,-,Aktif
+259,DGIK,BEI:DGIK,IDX:DGIK,DGIK.JK,IDX:DGIK,DGIK:IJ,Nusa Konstruksi Enjiniring Tbk,Infrastructure,Infrastruktur,Pengembangan,2007-12-19,19 Desember 2007,5541165000,-,Aktif
+260,DGNS,BEI:DGNS,IDX:DGNS,DGNS.JK,IDX:DGNS,DGNS:IJ,Diagnos Laboratorium Utama Tbk,Healthcare,Kesehatan,Pengembangan,2021-01-15,15 Januari 2021,1250000000,-,Aktif
+261,DGWG,BEI:DGWG,IDX:DGWG,DGWG.JK,IDX:DGWG,DGWG:IJ,Delta Giri Wacana Tbk.,Basic Materials,Barang Baku,Utama,2025-01-13,13 Januari 2025,5882353000,-,Aktif
+262,DIGI,BEI:DIGI,IDX:DIGI,DIGI.JK,IDX:DIGI,DIGI:IJ,Arkadia Digital Media Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2018-09-18,18 September 2018,1625000000,-,Aktif
+263,DILD,BEI:DILD,IDX:DILD,DILD.JK,IDX:DILD,DILD:IJ,Intiland Development Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,1991-09-04,4 September 1991,10365854185,-,Aktif
+264,DIVA,BEI:DIVA,IDX:DIVA,DIVA.JK,IDX:DIVA,DIVA:IJ,Nusantara Voucher Tbk.,Technology,Teknologi,Pengembangan,2018-11-27,27 November 2018,1428571400,-,Aktif
+265,DKFT,BEI:DKFT,IDX:DKFT,DKFT.JK,IDX:DKFT,DKFT:IJ,Central Omega Resources Tbk.,Basic Materials,Barang Baku,Pengembangan,1997-11-21,21 November 1997,5638246600,-,Aktif
+266,DKHH,BEI:DKHH,IDX:DKHH,DKHH.JK,IDX:DKHH,DKHH:IJ,Cipta Sarana Medika Tbk.,Healthcare,Kesehatan,Pengembangan,2025-05-08,8 Mei 2025,2550000000,-,Aktif
+267,DLTA,BEI:DLTA,IDX:DLTA,DLTA.JK,IDX:DLTA,DLTA:IJ,Delta Djakarta Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1984-02-27,27 Februari 1984,800659050,-,Aktif
+268,DMAS,BEI:DMAS,IDX:DMAS,DMAS.JK,IDX:DMAS,DMAS:IJ,Puradelta Lestari Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,2015-05-29,29 Mei 2015,48198111100,-,Aktif
+269,DMMX,BEI:DMMX,IDX:DMMX,DMMX.JK,IDX:DMMX,DMMX:IJ,Digital Mediatama Maxima Tbk.,Technology,Teknologi,Pengembangan,2019-10-21,21 Oktober 2019,7692307700,-,Aktif
+270,DMND,BEI:DMND,IDX:DMND,DMND.JK,IDX:DMND,DMND:IJ,Diamond Food Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2020-01-22,22 Januari 2020,9468359000,-,Aktif
+271,DNAR,BEI:DNAR,IDX:DNAR,DNAR.JK,IDX:DNAR,DNAR:IJ,Bank Oke Indonesia Tbk.,Financials,Keuangan,Pengembangan,2014-07-11,11 Juli 2014,16867292274,-,Aktif
+272,DNET,BEI:DNET,IDX:DNET,DNET.JK,IDX:DNET,DNET:IJ,Indoritel Makmur Internasional Tbk,Financials,Keuangan,Pengembangan,2000-12-11,11 Desember 2000,14184000000,-,Aktif
+273,DOID,BEI:DOID,IDX:DOID,DOID.JK,IDX:DOID,DOID:IJ,Delta Dunia Makmur Tbk.,Energy,Energi,Utama,2001-06-15,15 Juni 2001,7651007132,-,Aktif
+274,DOOH,BEI:DOOH,IDX:DOOH,DOOH.JK,IDX:DOOH,DOOH:IJ,Era Media Sejahtera Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2023-05-08,8 Mei 2023,7737562251,-,Aktif
+275,DOSS,BEI:DOSS,IDX:DOSS,DOSS.JK,IDX:DOSS,DOSS:IJ,Global Sukses Digital Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2024-08-07,7 Agustus 2024,1725000000,-,Aktif
+276,DPNS,BEI:DPNS,IDX:DPNS,DPNS.JK,IDX:DPNS,DPNS:IJ,Duta Pertiwi Nusantara Tbk.,Basic Materials,Barang Baku,Pengembangan,1990-08-08,8 Agustus 1990,331129952,-,Aktif
+277,DPUM,BEI:DPUM,IDX:DPUM,DPUM.JK,IDX:DPUM,DPUM:IJ,Dua Putra Utama Makmur Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2015-12-08,8 Desember 2015,4175000000,-,Aktif
+278,DRMA,BEI:DRMA,IDX:DRMA,DRMA.JK,IDX:DRMA,DRMA:IJ,Dharma Polimetal Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2021-12-20,20 Desember 2021,4705882300,-,Aktif
+279,DSFI,BEI:DSFI,IDX:DSFI,DSFI.JK,IDX:DSFI,DSFI:IJ,Dharma Samudera Fishing Industries Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2000-03-24,24 Maret 2000,1857135500,-,Aktif
+280,DSNG,BEI:DSNG,IDX:DSNG,DSNG.JK,IDX:DSNG,DSNG:IJ,Dharma Satya Nusantara Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2013-06-14,14 Juni 2013,10599842400,KOMPAS100,Aktif
+281,DSSA,BEI:DSSA,IDX:DSSA,DSSA.JK,IDX:DSSA,DSSA:IJ,Dian Swastatika Sentosa Tbk,Energy,Energi,Utama,2009-12-10,10 Desember 2009,7705523200,-,Aktif
+282,DUCK,BEI:DUCK,IDX:DUCK,DUCK.JK,IDX:DUCK,DUCK:IJ,Jaya Bersama Indo Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2018-10-10,10 Oktober 2018,1283330000,-,Aktif
+283,DUTI,BEI:DUTI,IDX:DUTI,DUTI.JK,IDX:DUTI,DUTI:IJ,Duta Pertiwi Tbk,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1994-11-02,2 November 1994,1850000000,-,Aktif
+284,DVLA,BEI:DVLA,IDX:DVLA,DVLA.JK,IDX:DVLA,DVLA:IJ,Darya-Varia Laboratoria Tbk.,Healthcare,Kesehatan,Pengembangan,1994-11-11,11 November 1994,1120000000,-,Aktif
+285,DWGL,BEI:DWGL,IDX:DWGL,DWGL.JK,IDX:DWGL,DWGL:IJ,Dwi Guna Laksana Tbk.,Energy,Energi,Pengembangan,2017-12-13,13 Desember 2017,9252820991,-,Aktif
+286,DYAN,BEI:DYAN,IDX:DYAN,DYAN.JK,IDX:DYAN,DYAN:IJ,Dyandra Media International Tbk,Industrials,Perindustrian,Pengembangan,2013-03-25,25 Maret 2013,4272964279,-,Aktif
+287,EAST,BEI:EAST,IDX:EAST,EAST.JK,IDX:EAST,EAST:IJ,Eastparc Hotel Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2019-07-09,9 Juli 2019,4126405336,-,Aktif
+288,ECII,BEI:ECII,IDX:ECII,ECII.JK,IDX:ECII,ECII:IJ,Electronic City Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2013-07-03,3 Juli 2013,1334333000,-,Aktif
+289,EDGE,BEI:EDGE,IDX:EDGE,EDGE.JK,IDX:EDGE,EDGE:IJ,Indointernet Tbk.,Technology,Teknologi,Pengembangan,2021-02-08,8 Februari 2021,2020250000,-,Aktif
+290,EKAD,BEI:EKAD,IDX:EKAD,EKAD.JK,IDX:EKAD,EKAD:IJ,Ekadharma International Tbk.,Basic Materials,Barang Baku,Pengembangan,1990-08-14,14 Agustus 1990,3493875000,-,Aktif
+291,ELIT,BEI:ELIT,IDX:ELIT,ELIT.JK,IDX:ELIT,ELIT:IJ,Data Sinergitama Jaya Tbk.,Technology,Teknologi,Pengembangan,2023-01-06,6 Januari 2023,2031643057,-,Aktif
+292,ELPI,BEI:ELPI,IDX:ELPI,ELPI.JK,IDX:ELPI,ELPI:IJ,Pelayaran Nasional Ekalya Purnamasari Tbk,Transportation & Logistics,Transportasi & Logistik,Utama,2022-08-08,8 Agustus 2022,7412000000,-,Aktif
+293,ELSA,BEI:ELSA,IDX:ELSA,ELSA.JK,IDX:ELSA,ELSA:IJ,Elnusa Tbk.,Energy,Energi,Utama,2008-02-06,6 Februari 2008,7298500000,"KOMPAS100, PEFINDO25",Aktif
+294,ELTY,BEI:ELTY,IDX:ELTY,ELTY.JK,IDX:ELTY,ELTY:IJ,Bakrieland Development Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1995-10-30,30 Oktober 1995,43521913019,-,Aktif
+295,EMAS,BEI:EMAS,IDX:EMAS,EMAS.JK,IDX:EMAS,EMAS:IJ,Merdeka Gold Resources Tbk.,Basic Materials,Barang Baku,Pengembangan,2025-09-23,23 September 2025,16180232675,KOMPAS100,Aktif
+296,EMDE,BEI:EMDE,IDX:EMDE,EMDE.JK,IDX:EMDE,EMDE:IJ,Megapolitan Developments Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2011-01-12,12 Januari 2011,3350000000,-,Aktif
+297,EMMI,BEI:EMMI,IDX:EMMI,EMMI.JK,IDX:EMMI,EMMI:IJ,Esa Medika Mandiri Tbk.,Healthcare,Kesehatan,Pengembangan,2026-07-08,8 Juli 2026,1742857000,-,Aktif
+298,EMTK,BEI:EMTK,IDX:EMTK,EMTK.JK,IDX:EMTK,EMTK:IJ,Elang Mahkota Teknologi Tbk.,Technology,Teknologi,Utama,2010-01-12,12 Januari 2010,61316751483,"LQ45, KOMPAS100",Aktif
+299,ENAK,BEI:ENAK,IDX:ENAK,ENAK.JK,IDX:ENAK,ENAK:IJ,Champ Resto Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2022-02-08,8 Februari 2022,2166666800,-,Aktif
+300,ENRG,BEI:ENRG,IDX:ENRG,ENRG.JK,IDX:ENRG,ENRG:IJ,Energi Mega Persada Tbk.,Energy,Energi,Utama,2004-06-07,7 Juni 2004,24821230250,"KOMPAS100, PEFINDO25",Aktif
+301,ENVY,BEI:ENVY,IDX:ENVY,ENVY.JK,IDX:ENVY,ENVY:IJ,Envy Technologies Tbk.,Technology,Teknologi,Pemantauan Khusus,2019-07-08,8 Juli 2019,1800000000,-,Aktif
+302,ENZO,BEI:ENZO,IDX:ENZO,ENZO.JK,IDX:ENZO,ENZO:IJ,Morenzo Abadi Perkasa Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2020-09-14,14 September 2020,2162547122,-,Aktif
+303,EPAC,BEI:EPAC,IDX:EPAC,EPAC.JK,IDX:EPAC,EPAC:IJ,Megalestari Epack Sentosaraya Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2020-07-01,1 Juli 2020,3303400000,-,Aktif
+304,EPMT,BEI:EPMT,IDX:EPMT,EPMT.JK,IDX:EPMT,EPMT:IJ,Enseval Putera Megatrading Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1994-08-01,1 Agustus 1994,2708640000,-,Aktif
+305,ERAA,BEI:ERAA,IDX:ERAA,ERAA.JK,IDX:ERAA,ERAA:IJ,Erajaya Swasembada Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2011-12-14,14 Desember 2011,15950000000,"KOMPAS100, PEFINDO25",Aktif
+306,ERAL,BEI:ERAL,IDX:ERAL,ERAL.JK,IDX:ERAL,ERAL:IJ,Sinar Eka Selaras Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2023-08-08,8 Agustus 2023,5187500000,-,Aktif
+307,ERTX,BEI:ERTX,IDX:ERTX,ERTX.JK,IDX:ERTX,ERTX:IJ,Eratex Djaja Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1990-08-21,21 Agustus 1990,1286539792,-,Aktif
+308,ESIP,BEI:ESIP,IDX:ESIP,ESIP.JK,IDX:ESIP,ESIP:IJ,Sinergi Inti Plastindo Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2019-11-14,14 November 2019,1109953847,-,Aktif
+309,ESSA,BEI:ESSA,IDX:ESSA,ESSA.JK,IDX:ESSA,ESSA:IJ,ESSA Industries Indonesia Tbk.,Basic Materials,Barang Baku,Utama,2012-02-01,1 Februari 2012,17226975700,"LQ45, KOMPAS100, PEFINDO25",Aktif
+310,ESTA,BEI:ESTA,IDX:ESTA,ESTA.JK,IDX:ESTA,ESTA:IJ,Esta Multi Usaha Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2020-03-09,9 Maret 2020,2425354179,-,Aktif
+311,ESTI,BEI:ESTI,IDX:ESTI,ESTI.JK,IDX:ESTI,ESTI:IJ,Ever Shine Tex Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1992-10-13,13 Oktober 1992,2015208720,-,Aktif
+312,ETWA,BEI:ETWA,IDX:ETWA,ETWA.JK,IDX:ETWA,ETWA:IJ,Eterindo Wahanatama Tbk,Basic Materials,Barang Baku,Pemantauan Khusus,1997-05-16,16 Mei 1997,4668671400,-,Aktif
+313,EURO,BEI:EURO,IDX:EURO,EURO.JK,IDX:EURO,EURO:IJ,Estee Gold Feet Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2022-08-08,8 Agustus 2022,2548826428,-,Aktif
+314,EXCL,BEI:EXCL,IDX:EXCL,EXCL.JK,IDX:EXCL,EXCL:IJ,XLSMART Telecom Sejahtera Tbk,Infrastructure,Infrastruktur,Utama,2005-09-29,29 September 2005,13128430665,"LQ45, KOMPAS100",Aktif
+315,FAPA,BEI:FAPA,IDX:FAPA,FAPA.JK,IDX:FAPA,FAPA:IJ,FAP Agri Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2021-01-04,4 Januari 2021,3629411800,-,Aktif
+316,FAST,BEI:FAST,IDX:FAST,FAST.JK,IDX:FAST,FAST:IJ,Fast Food Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1993-05-11,11 Mei 1993,3990277158,-,Aktif
+317,FASW,BEI:FASW,IDX:FASW,FASW.JK,IDX:FASW,FASW:IJ,Fajar Surya Wisesa Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,1994-12-19,19 Desember 1994,2477888787,-,Aktif
+318,FILM,BEI:FILM,IDX:FILM,FILM.JK,IDX:FILM,FILM:IJ,MD Entertainment Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2018-08-07,7 Agustus 2018,9897787962,-,Aktif
+319,FIMP,BEI:FIMP,IDX:FIMP,FIMP.JK,IDX:FIMP,FIMP:IJ,Fimperkasa Utama Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2021-04-09,9 April 2021,400000975,-,Aktif
+320,FIRE,BEI:FIRE,IDX:FIRE,FIRE.JK,IDX:FIRE,FIRE:IJ,Alfa Energi Investama Tbk.,Energy,Energi,Pengembangan,2017-06-09,9 Juni 2017,1475363179,-,Aktif
+321,FISH,BEI:FISH,IDX:FISH,FISH.JK,IDX:FISH,FISH:IJ,FKS Multi Agro Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2002-01-18,18 Januari 2002,480000000,-,Aktif
+322,FITT,BEI:FITT,IDX:FITT,FITT.JK,IDX:FITT,FITT:IJ,Hotel Fitra International Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2019-06-11,11 Juni 2019,1304272051,-,Aktif
+323,FLMC,BEI:FLMC,IDX:FLMC,FLMC.JK,IDX:FLMC,FLMC:IJ,Falmaco Nonwoven Industri Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2021-07-08,8 Juli 2021,781250000,-,Aktif
+324,FMII,BEI:FMII,IDX:FMII,FMII.JK,IDX:FMII,FMII:IJ,Fortune Mate Indonesia Tbk,Properties & Real Estate,Properti & Real Estat,Pengembangan,2000-06-30,30 Juni 2000,6400000000,-,Aktif
+325,FOLK,BEI:FOLK,IDX:FOLK,FOLK.JK,IDX:FOLK,FOLK:IJ,Multi Garam Utama Tbk.,Industrials,Perindustrian,Pengembangan,2023-08-07,7 Agustus 2023,3948141464,-,Aktif
+326,FOOD,BEI:FOOD,IDX:FOOD,FOOD.JK,IDX:FOOD,FOOD:IJ,Sentra Food Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2019-01-08,8 Januari 2019,650000000,-,Aktif
+327,FORE,BEI:FORE,IDX:FORE,FORE.JK,IDX:FORE,FORE:IJ,Fore Kopi Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2025-04-14,14 April 2025,8918359270,-,Aktif
+328,FORU,BEI:FORU,IDX:FORU,FORU.JK,IDX:FORU,FORU:IJ,Fortune Indonesia Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2002-01-17,17 Januari 2002,465224000,-,Aktif
+329,FORZ,BEI:FORZ,IDX:FORZ,FORZ.JK,IDX:FORZ,FORZ:IJ,Forza Land Indonesia Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2017-04-28,28 April 2017,1984009887,-,Aktif
+330,FPNI,BEI:FPNI,IDX:FPNI,FPNI.JK,IDX:FPNI,FPNI:IJ,Lotte Chemical Titan Tbk.,Basic Materials,Barang Baku,Pengembangan,2002-03-21,21 Maret 2002,5566414000,-,Aktif
+331,FREN,BEI:FREN,IDX:FREN,FREN.JK,IDX:FREN,FREN:IJ,Smartfren Telecom Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2006-11-29,29 November 2006,476703804464,-,Aktif
+332,FUJI,BEI:FUJI,IDX:FUJI,FUJI.JK,IDX:FUJI,FUJI:IJ,Fuji Finance Indonesia Tbk.,Financials,Keuangan,Pengembangan,2019-07-09,9 Juli 2019,1300000000,-,Aktif
+333,FUTR,BEI:FUTR,IDX:FUTR,FUTR.JK,IDX:FUTR,FUTR:IJ,Futura Energi Global Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2023-02-27,27 Februari 2023,6390108330,-,Aktif
+334,FWCT,BEI:FWCT,IDX:FWCT,FWCT.JK,IDX:FWCT,FWCT:IJ,Wijaya Cahaya Timber Tbk.,Basic Materials,Barang Baku,Pengembangan,2023-02-01,1 Februari 2023,1875000000,-,Aktif
+335,GAMA,BEI:GAMA,IDX:GAMA,GAMA.JK,IDX:GAMA,GAMA:IJ,Aksara Global Development Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2012-07-11,11 Juli 2012,10011027656,-,Aktif
+336,GDST,BEI:GDST,IDX:GDST,GDST.JK,IDX:GDST,GDST:IJ,Gunawan Dianjaya Steel Tbk.,Basic Materials,Barang Baku,Pengembangan,2009-12-23,23 Desember 2009,9242500000,-,Aktif
+337,GDYR,BEI:GDYR,IDX:GDYR,GDYR.JK,IDX:GDYR,GDYR:IJ,Goodyear Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1980-12-22,22 Desember 1980,410000000,-,Aktif
+338,GEMA,BEI:GEMA,IDX:GEMA,GEMA.JK,IDX:GEMA,GEMA:IJ,Gema Grahasarana Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2002-08-12,12 Agustus 2002,1600000000,-,Aktif
+339,GEMS,BEI:GEMS,IDX:GEMS,GEMS.JK,IDX:GEMS,GEMS:IJ,Golden Energy Mines Tbk.,Energy,Energi,Utama,2011-11-17,17 November 2011,5882353000,-,Aktif
+340,GGRM,BEI:GGRM,IDX:GGRM,GGRM.JK,IDX:GGRM,GGRM:IJ,Gudang Garam Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1990-08-27,27 Agustus 1990,1924088000,KOMPAS100,Aktif
+341,GGRP,BEI:GGRP,IDX:GGRP,GGRP.JK,IDX:GGRP,GGRP:IJ,Gunung Raja Paksi Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2019-09-19,19 September 2019,12111376157,-,Aktif
+342,GHON,BEI:GHON,IDX:GHON,GHON.JK,IDX:GHON,GHON:IJ,Gihon Telekom Tbk.,Infrastructure,Infrastruktur,Pengembangan,2018-04-09,9 April 2018,550000000,-,Aktif
+343,GIAA,BEI:GIAA,IDX:GIAA,GIAA.JK,IDX:GIAA,GIAA:IJ,Garuda Indonesia (Persero) Tbk,Transportation & Logistics,Transportasi & Logistik,Pemantauan Khusus,2011-02-11,11 Februari 2011,91480783837,-,Aktif
+344,GJTL,BEI:GJTL,IDX:GJTL,GJTL.JK,IDX:GJTL,GJTL:IJ,Gajah Tunggal Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,1990-05-08,8 Mei 1990,3484800000,PEFINDO25,Aktif
+345,GLOB,BEI:GLOB,IDX:GLOB,GLOB.JK,IDX:GLOB,GLOB:IJ,Globe Kita Terang Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2012-07-10,10 Juli 2012,1111112000,-,Aktif
+346,GLVA,BEI:GLVA,IDX:GLVA,GLVA.JK,IDX:GLVA,GLVA:IJ,Galva Technologies Tbk.,Technology,Teknologi,Pengembangan,2019-12-23,23 Desember 2019,1500000000,-,Aktif
+347,GMFI,BEI:GMFI,IDX:GMFI,GMFI.JK,IDX:GMFI,GMFI:IJ,Garuda Maintenance Facility Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2017-10-10,10 Oktober 2017,28233511500,-,Aktif
+348,GMTD,BEI:GMTD,IDX:GMTD,GMTD.JK,IDX:GMTD,GMTD:IJ,Gowa Makassar Tourism Development Tbk,Properties & Real Estate,Properti & Real Estat,Pengembangan,2000-12-11,11 Desember 2000,1015380000,-,Aktif
+349,GOLD,BEI:GOLD,IDX:GOLD,GOLD.JK,IDX:GOLD,GOLD:IJ,Visi Telekomunikasi Tbk.,Infrastructure,Infrastruktur,Pengembangan,2010-07-07,7 Juli 2010,1277276000,-,Aktif
+350,GOLF,BEI:GOLF,IDX:GOLF,GOLF.JK,IDX:GOLF,GOLF:IJ,Intra Golflink Resorts Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2024-07-08,8 Juli 2024,19486760000,-,Aktif
+351,GOLL,BEI:GOLL,IDX:GOLL,GOLL.JK,IDX:GOLL,GOLL:IJ,Golden Plantation Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2014-12-23,23 Desember 2014,3665000759,-,Aktif
+352,GOOD,BEI:GOOD,IDX:GOOD,GOOD.JK,IDX:GOOD,GOOD:IJ,Garudafood Putra Putri Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2018-10-10,10 Oktober 2018,36897901455,-,Aktif
+353,GOTO,BEI:GOTO,IDX:GOTO,GOTO.JK,IDX:GOTO,GOTO:IJ,GoTo Gojek Tokopedia Tbk.,Technology,Teknologi,Ekonomi Baru,2022-04-11,11 April 2022,1140573267220,"LQ45, KOMPAS100",Aktif
+354,GPRA,BEI:GPRA,IDX:GPRA,GPRA.JK,IDX:GPRA,GPRA:IJ,Perdana Gapuraprima Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2007-10-10,10 Oktober 2007,4276655336,-,Aktif
+355,GPSO,BEI:GPSO,IDX:GPSO,GPSO.JK,IDX:GPSO,GPSO:IJ,Geoprima Solusi Tbk.,Industrials,Perindustrian,Pengembangan,2021-09-06,6 September 2021,666741103,-,Aktif
+356,GRIA,BEI:GRIA,IDX:GRIA,GRIA.JK,IDX:GRIA,GRIA:IJ,Ingria Pratama Capitalindo Tbk,Properties & Real Estate,Properti & Real Estat,Pengembangan,2023-08-08,8 Agustus 2023,7375720674,-,Aktif
+357,GRPH,BEI:GRPH,IDX:GRPH,GRPH.JK,IDX:GRPH,GRPH:IJ,Griha Putra Persada Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2024-01-17,17 Januari 2024,1000000000,-,Aktif
+358,GRPM,BEI:GRPM,IDX:GRPM,GRPM.JK,IDX:GRPM,GRPM:IJ,Graha Prima Mentari Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2023-07-10,10 Juli 2023,1545059559,-,Aktif
+359,GSMF,BEI:GSMF,IDX:GSMF,GSMF.JK,IDX:GSMF,GSMF:IJ,Equity Dev Inv Tbk.,Financials,Keuangan,Pengembangan,1989-10-23,23 Oktober 1989,14230399705,-,Aktif
+360,GTBO,BEI:GTBO,IDX:GTBO,GTBO.JK,IDX:GTBO,GTBO:IJ,Garda Tujuh Buana Tbk,Energy,Energi,Pengembangan,2009-07-09,9 Juli 2009,2500000000,-,Aktif
+361,GTRA,BEI:GTRA,IDX:GTRA,GTRA.JK,IDX:GTRA,GTRA:IJ,Grahaprima Suksesmandiri Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2023-03-30,30 Maret 2023,1894375000,-,Aktif
+362,GTSI,BEI:GTSI,IDX:GTSI,GTSI.JK,IDX:GTSI,GTSI:IJ,GTS Internasional Tbk.,Energy,Energi,Pemantauan Khusus,2021-09-08,8 September 2021,15819142767,-,Aktif
+363,GULA,BEI:GULA,IDX:GULA,GULA.JK,IDX:GULA,GULA:IJ,Aman Agrindo Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2022-08-03,3 Agustus 2022,1070362500,-,Aktif
+364,GUNA,BEI:GUNA,IDX:GUNA,GUNA.JK,IDX:GUNA,GUNA:IJ,Gunanusa Eramandiri Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2024-07-09,9 Juli 2024,2500000000,-,Aktif
+365,GWSA,BEI:GWSA,IDX:GWSA,GWSA.JK,IDX:GWSA,GWSA:IJ,Greenwood Sejahtera Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2011-12-23,23 Desember 2011,7800760000,-,Aktif
+366,GZCO,BEI:GZCO,IDX:GZCO,GZCO.JK,IDX:GZCO,GZCO:IJ,Gozco Plantations Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2008-05-15,15 Mei 2008,6000000000,-,Aktif
+367,HADE,BEI:HADE,IDX:HADE,HADE.JK,IDX:HADE,HADE:IJ,Himalaya Energi Perkasa Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2004-04-12,12 April 2004,2120000000,-,Aktif
+368,HAIS,BEI:HAIS,IDX:HAIS,HAIS.JK,IDX:HAIS,HAIS:IJ,Hasnur Internasional Shipping Tbk,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2021-09-01,1 September 2021,2626250000,-,Aktif
+369,HAJJ,BEI:HAJJ,IDX:HAJJ,HAJJ.JK,IDX:HAJJ,HAJJ:IJ,Arsy Buana Travelindo Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2023-04-05,5 April 2023,2290526380,-,Aktif
+370,HALO,BEI:HALO,IDX:HALO,HALO.JK,IDX:HALO,HALO:IJ,Haloni Jane Tbk.,Healthcare,Kesehatan,Pengembangan,2023-02-08,8 Februari 2023,5650014381,-,Aktif
+371,HATM,BEI:HATM,IDX:HATM,HATM.JK,IDX:HATM,HATM:IJ,Habco Trans Maritima Tbk.,Transportation & Logistics,Transportasi & Logistik,Utama,2022-07-26,26 Juli 2022,7000000000,-,Aktif
+372,HBAT,BEI:HBAT,IDX:HBAT,HBAT.JK,IDX:HBAT,HBAT:IJ,Minahasa Membangun Hebat Tbk.,Properties & Real Estate,Properti & Real Estat,Akselerasi,2023-08-07,7 Agustus 2023,1040740800,-,Aktif
+373,HDFA,BEI:HDFA,IDX:HDFA,HDFA.JK,IDX:HDFA,HDFA:IJ,Radana Bhaskara Finance Tbk.,Financials,Keuangan,Pengembangan,2011-05-10,10 Mei 2011,6542445783,-,Aktif
+374,HDIT,BEI:HDIT,IDX:HDIT,HDIT.JK,IDX:HDIT,HDIT:IJ,Hensel Davest Indonesia Tbk.,Technology,Teknologi,Pemantauan Khusus,2019-07-12,12 Juli 2019,1524680000,-,Aktif
+375,HDTX,BEI:HDTX,IDX:HDTX,HDTX.JK,IDX:HDTX,HDTX:IJ,Panasia Indo Resources Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1990-06-06,6 Juni 1990,3601462800,-,Aktif
+376,HEAL,BEI:HEAL,IDX:HEAL,HEAL.JK,IDX:HEAL,HEAL:IJ,Medikaloka Hermina Tbk.,Healthcare,Kesehatan,Utama,2018-05-16,16 Mei 2018,15365950000,"KOMPAS100, PEFINDO25",Aktif
+377,HELI,BEI:HELI,IDX:HELI,HELI.JK,IDX:HELI,HELI:IJ,Jaya Trishindo Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2018-03-27,27 Maret 2018,832862387,-,Aktif
+378,HERO,BEI:HERO,IDX:HERO,HERO.JK,IDX:HERO,HERO:IJ,DFI Retail Nusantara Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1989-08-21,21 Agustus 1989,4183634000,-,Aktif
+379,HEXA,BEI:HEXA,IDX:HEXA,HEXA.JK,IDX:HEXA,HEXA:IJ,Hexindo Adiperkasa Tbk.,Industrials,Perindustrian,Utama,1995-02-13,13 Februari 1995,840000000,-,Aktif
+380,HGII,BEI:HGII,IDX:HGII,HGII.JK,IDX:HGII,HGII:IJ,Hero Global Investment Tbk.,Infrastructure,Infrastruktur,Pengembangan,2025-01-09,9 Januari 2025,6500000000,-,Aktif
+381,HILL,BEI:HILL,IDX:HILL,HILL.JK,IDX:HILL,HILL:IJ,Hillcon Tbk.,Energy,Energi,Utama,2023-03-01,1 Maret 2023,2948300000,-,Aktif
+382,HITS,BEI:HITS,IDX:HITS,HITS.JK,IDX:HITS,HITS:IJ,Humpuss Intermoda Transportasi Tbk,Energy,Energi,Utama,1997-12-15,15 Desember 1997,7101084801,-,Aktif
+383,HKMU,BEI:HKMU,IDX:HKMU,HKMU.JK,IDX:HKMU,HKMU:IJ,HK Metals Utama Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2018-10-09,9 Oktober 2018,3221750000,-,Aktif
+384,HMSP,BEI:HMSP,IDX:HMSP,HMSP.JK,IDX:HMSP,HMSP:IJ,H.M. Sampoerna Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1990-08-15,15 Agustus 1990,116318076900,-,Aktif
+385,HOKI,BEI:HOKI,IDX:HOKI,HOKI.JK,IDX:HOKI,HOKI:IJ,Buyung Poetra Sembada Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2017-06-22,22 Juni 2017,9677752680,-,Aktif
+386,HOME,BEI:HOME,IDX:HOME,HOME.JK,IDX:HOME,HOME:IJ,Hotel Mandarine Regency Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2008-07-17,17 Juli 2008,22212194782,-,Aktif
+387,HOMI,BEI:HOMI,IDX:HOMI,HOMI.JK,IDX:HOMI,HOMI:IJ,Grand House Mulia Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2020-09-10,10 September 2020,1575000000,-,Aktif
+388,HOPE,BEI:HOPE,IDX:HOPE,HOPE.JK,IDX:HOPE,HOPE:IJ,Harapan Duta Pertiwi Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2021-05-24,24 Mei 2021,2130360203,-,Aktif
+389,HOTL,BEI:HOTL,IDX:HOTL,HOTL.JK,IDX:HOTL,HOTL:IJ,Saraswati Griya Lestari Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2013-01-10,10 Januari 2013,3550001452,-,Aktif
+390,HRME,BEI:HRME,IDX:HRME,HRME.JK,IDX:HRME,HRME:IJ,Menteng Heritage Realty Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2019-04-12,12 April 2019,5958750000,-,Aktif
+391,HRTA,BEI:HRTA,IDX:HRTA,HRTA.JK,IDX:HRTA,HRTA:IJ,Hartadinata Abadi Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2017-06-21,21 Juni 2017,4605262400,"LQ45, KOMPAS100",Aktif
+392,HRUM,BEI:HRUM,IDX:HRUM,HRUM.JK,IDX:HRUM,HRUM:IJ,Harum Energy Tbk.,Energy,Energi,Utama,2010-10-06,6 Oktober 2010,13518100000,KOMPAS100,Aktif
+393,HUMI,BEI:HUMI,IDX:HUMI,HUMI.JK,IDX:HUMI,HUMI:IJ,Humpuss Maritim Internasional Tbk,Energy,Energi,Utama,2023-08-09,9 Agustus 2023,18046497883,-,Aktif
+394,HYGN,BEI:HYGN,IDX:HYGN,HYGN.JK,IDX:HYGN,HYGN:IJ,Ecocare Indo Pasifik Tbk.,Industrials,Perindustrian,Pengembangan,2024-02-13,13 Februari 2024,2525000000,-,Aktif
+395,IATA,BEI:IATA,IDX:IATA,IATA.JK,IDX:IATA,IATA:IJ,MNC Energy Investments Tbk.,Energy,Energi,Pemantauan Khusus,2006-09-13,13 September 2006,25238245486,-,Aktif
+396,IBFN,BEI:IBFN,IDX:IBFN,IBFN.JK,IDX:IBFN,IBFN:IJ,Intan Baru Prana Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2014-12-22,22 Desember 2014,1517332349,-,Aktif
+397,IBOS,BEI:IBOS,IDX:IBOS,IBOS.JK,IDX:IBOS,IBOS:IJ,Indo Boga Sukses Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2022-04-25,25 April 2022,8065789529,-,Aktif
+398,IBST,BEI:IBST,IDX:IBST,IBST.JK,IDX:IBST,IBST:IJ,Inti Bangun Sejahtera Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2012-08-31,31 Agustus 2012,1350904927,-,Aktif
+399,ICBP,BEI:ICBP,IDX:ICBP,ICBP.JK,IDX:ICBP,ICBP:IJ,Indofood CBP Sukses Makmur Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2010-10-07,7 Oktober 2010,11661908000,"LQ45, KOMPAS100",Aktif
+400,ICON,BEI:ICON,IDX:ICON,ICON.JK,IDX:ICON,ICON:IJ,Island Conces Indonesia Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2005-07-08,8 Juli 2005,1089750000,-,Aktif
+401,IDEA,BEI:IDEA,IDX:IDEA,IDEA.JK,IDX:IDEA,IDEA:IJ,Idea Indonesia Akademi Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2021-09-09,9 September 2021,1062437500,-,Aktif
+402,IDPR,BEI:IDPR,IDX:IDPR,IDPR.JK,IDX:IDPR,IDPR:IJ,Indonesia Pondasi Raya Tbk.,Infrastructure,Infrastruktur,Pengembangan,2015-12-10,10 Desember 2015,2003000000,-,Aktif
+403,IFII,BEI:IFII,IDX:IFII,IFII.JK,IDX:IFII,IFII:IJ,Indonesia Fibreboard Industry Tbk,Basic Materials,Barang Baku,Pengembangan,2019-12-10,10 Desember 2019,9412000000,-,Aktif
+404,IFSH,BEI:IFSH,IDX:IFSH,IFSH.JK,IDX:IFSH,IFSH:IJ,Ifishdeco Tbk.,Basic Materials,Barang Baku,Pengembangan,2019-12-05,5 Desember 2019,2125000000,-,Aktif
+405,IGAR,BEI:IGAR,IDX:IGAR,IGAR.JK,IDX:IGAR,IGAR:IJ,Champion Pacific Indonesia Tbk,Basic Materials,Barang Baku,Pengembangan,1990-11-05,5 November 1990,972204500,-,Aktif
+406,IIKP,BEI:IIKP,IDX:IIKP,IIKP.JK,IDX:IIKP,IIKP:IJ,Inti Agri Resources Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2002-10-14,14 Oktober 2002,33600000000,-,Aktif
+407,IKAI,BEI:IKAI,IDX:IKAI,IKAI.JK,IDX:IKAI,IKAI:IJ,Intikeramik Alamasri Industri Tbk,Industrials,Perindustrian,Pemantauan Khusus,1997-06-04,4 Juni 1997,13305799387,-,Aktif
+408,IKAN,BEI:IKAN,IDX:IKAN,IKAN.JK,IDX:IKAN,IKAN:IJ,Era Mandiri Cemerlang Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2020-02-12,12 Februari 2020,833333000,-,Aktif
+409,IKBI,BEI:IKBI,IDX:IKBI,IKBI.JK,IDX:IKBI,IKBI:IJ,Sumi Indo Kabel Tbk.,Industrials,Perindustrian,Pengembangan,1991-01-21,21 Januari 1991,1224000000,-,Aktif
+410,IKPM,BEI:IKPM,IDX:IKPM,IKPM.JK,IDX:IKPM,IKPM:IJ,Ikapharmindo Putramas Tbk.,Healthcare,Kesehatan,Pengembangan,2023-11-08,8 November 2023,1684662500,-,Aktif
+411,IMAS,BEI:IMAS,IDX:IMAS,IMAS.JK,IDX:IMAS,IMAS:IJ,Indomobil Sukses Internasional Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,1993-11-15,15 November 1993,3994291039,-,Aktif
+412,IMJS,BEI:IMJS,IDX:IMJS,IMJS.JK,IDX:IMJS,IMJS:IJ,Indomobil Multi Jasa Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2013-12-10,10 Desember 2013,8654325000,-,Aktif
+413,IMPC,BEI:IMPC,IDX:IMPC,IMPC.JK,IDX:IMPC,IMPC:IJ,Impack Pratama Industri Tbk.,Industrials,Perindustrian,Utama,2014-12-17,17 Desember 2014,54268500000,KOMPAS100,Aktif
+414,INAF,BEI:INAF,IDX:INAF,INAF.JK,IDX:INAF,INAF:IJ,Indofarma Tbk.,Healthcare,Kesehatan,Pemantauan Khusus,2001-04-17,17 April 2001,3099267500,-,Aktif
+415,INAI,BEI:INAI,IDX:INAI,INAI.JK,IDX:INAI,INAI:IJ,Indal Aluminium Industry Tbk.,Basic Materials,Barang Baku,Pengembangan,1994-12-05,5 Desember 1994,633600000,-,Aktif
+416,INCF,BEI:INCF,IDX:INCF,INCF.JK,IDX:INCF,INCF:IJ,Indo Komoditi Korpora Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2016-09-06,6 September 2016,1438370465,-,Aktif
+417,INCI,BEI:INCI,IDX:INCI,INCI.JK,IDX:INCI,INCI:IJ,Intanwijaya Internasional Tbk,Basic Materials,Barang Baku,Pengembangan,1990-07-24,24 Juli 1990,207656617,-,Aktif
+418,INCO,BEI:INCO,IDX:INCO,INCO.JK,IDX:INCO,INCO:IJ,Vale Indonesia Tbk.,Basic Materials,Barang Baku,Utama,1990-05-16,16 Mei 1990,10539784534,"LQ45, KOMPAS100",Aktif
+419,INDF,BEI:INDF,IDX:INDF,INDF.JK,IDX:INDF,INDF:IJ,Indofood Sukses Makmur Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1994-07-14,14 Juli 1994,8780426500,"LQ45, KOMPAS100",Aktif
+420,INDO,BEI:INDO,IDX:INDO,INDO.JK,IDX:INDO,INDO:IJ,Royalindo Investa Wijaya Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2020-01-13,13 Januari 2020,4382904690,-,Aktif
+421,INDR,BEI:INDR,IDX:INDR,INDR.JK,IDX:INDR,INDR:IJ,Indo-Rama Synthetics Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1990-08-03,3 Agustus 1990,654351707,-,Aktif
+422,INDS,BEI:INDS,IDX:INDS,INDS.JK,IDX:INDS,INDS:IJ,Indospring Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1990-08-10,10 Agustus 1990,6562497100,-,Aktif
+423,INDX,BEI:INDX,IDX:INDX,INDX.JK,IDX:INDX,INDX:IJ,Tanah Laut Tbk,Industrials,Perindustrian,Pengembangan,2001-05-17,17 Mei 2001,437913588,-,Aktif
+424,INDY,BEI:INDY,IDX:INDY,INDY.JK,IDX:INDY,INDY:IJ,Indika Energy Tbk.,Energy,Energi,Utama,2008-06-11,11 Juni 2008,5210192000,"LQ45, KOMPAS100",Aktif
+425,INET,BEI:INET,IDX:INET,INET.JK,IDX:INET,INET:IJ,Sinergi Inti Andalan Prima Tbk,Infrastructure,Infrastruktur,Pengembangan,2023-07-24,24 Juli 2023,7500065093,KOMPAS100,Aktif
+426,INKP,BEI:INKP,IDX:INKP,INKP.JK,IDX:INKP,INKP:IJ,Indah Kiat Pulp & Paper Tbk.,Basic Materials,Barang Baku,Utama,1990-07-16,16 Juli 1990,5470982941,"LQ45, KOMPAS100",Aktif
+427,INOV,BEI:INOV,IDX:INOV,INOV.JK,IDX:INOV,INOV:IJ,Inocycle Technology Group Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2019-07-10,10 Juli 2019,1808221900,-,Aktif
+428,INPC,BEI:INPC,IDX:INPC,INPC.JK,IDX:INPC,INPC:IJ,Bank Artha Graha Internasional Tbk,Financials,Keuangan,Utama,1990-08-23,23 Agustus 1990,20021178779,-,Aktif
+429,INPP,BEI:INPP,IDX:INPP,INPP.JK,IDX:INPP,INPP:IJ,Indonesian Paradise Property Tbk,Properties & Real Estate,Properti & Real Estat,Pengembangan,2004-01-12,12 Januari 2004,11181971732,-,Aktif
+430,INPS,BEI:INPS,IDX:INPS,INPS.JK,IDX:INPS,INPS:IJ,Indah Prakasa Sentosa Tbk.,Energy,Energi,Pengembangan,2018-04-06,6 April 2018,650000000,-,Aktif
+431,INRU,BEI:INRU,IDX:INRU,INRU.JK,IDX:INRU,INRU:IJ,Toba Pulp Lestari Tbk.,Basic Materials,Barang Baku,Pengembangan,1990-06-18,18 Juni 1990,1388883283,-,Aktif
+432,INTA,BEI:INTA,IDX:INTA,INTA.JK,IDX:INTA,INTA:IJ,Intraco Penta Tbk.,Industrials,Perindustrian,Pemantauan Khusus,1993-08-23,23 Agustus 1993,3343935022,-,Aktif
+433,INTD,BEI:INTD,IDX:INTD,INTD.JK,IDX:INTD,INTD:IJ,Inter Delta Tbk,Basic Materials,Barang Baku,Pengembangan,1989-12-18,18 Desember 1989,591828000,-,Aktif
+434,INTP,BEI:INTP,IDX:INTP,INTP.JK,IDX:INTP,INTP:IJ,Indocement Tunggal Prakasa Tbk,Basic Materials,Barang Baku,Utama,1989-12-05,5 Desember 1989,3681231699,-,Aktif
+435,IOTF,BEI:IOTF,IDX:IOTF,IOTF.JK,IDX:IOTF,IOTF:IJ,Sumber Sinergi Makmur Tbk.,Technology,Teknologi,Pengembangan,2023-10-06,6 Oktober 2023,5290298067,-,Aktif
+436,IPAC,BEI:IPAC,IDX:IPAC,IPAC.JK,IDX:IPAC,IPAC:IJ,Era Graharealty Tbk.,Properties & Real Estate,Properti & Real Estat,Akselerasi,2021-06-30,30 Juni 2021,949868500,-,Aktif
+437,IPCC,BEI:IPCC,IDX:IPCC,IPCC.JK,IDX:IPCC,IPCC:IJ,Kendaraan Terminal Tbk.,Infrastructure,Infrastruktur,Utama,2018-07-09,9 Juli 2018,1818384820,-,Aktif
+438,IPCM,BEI:IPCM,IDX:IPCM,IPCM.JK,IDX:IPCM,IPCM:IJ,Jasa Armada Indonesia Tbk.,Infrastructure,Infrastruktur,Pengembangan,2017-12-22,22 Desember 2017,5284811100,-,Aktif
+439,IPOL,BEI:IPOL,IDX:IPOL,IPOL.JK,IDX:IPOL,IPOL:IJ,Indopoly Swakarsa Industry Tbk,Basic Materials,Barang Baku,Pengembangan,2010-07-09,9 Juli 2010,6443379509,-,Aktif
+440,IPPE,BEI:IPPE,IDX:IPPE,IPPE.JK,IDX:IPPE,IPPE:IJ,Indo Pureco Pratama Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2021-12-09,9 Desember 2021,4600000000,-,Aktif
+441,IPTV,BEI:IPTV,IDX:IPTV,IPTV.JK,IDX:IPTV,IPTV:IJ,MNC Vision Networks Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2019-07-08,8 Juli 2019,42197950841,-,Aktif
+442,IRRA,BEI:IRRA,IDX:IRRA,IRRA.JK,IDX:IRRA,IRRA:IJ,Itama Ranoraya Tbk.,Healthcare,Kesehatan,Pengembangan,2019-10-15,15 Oktober 2019,1600000000,-,Aktif
+443,IRSX,BEI:IRSX,IDX:IRSX,IRSX.JK,IDX:IRSX,IRSX:IJ,Folago Global Nusantara Tbk,Technology,Teknologi,Pemantauan Khusus,2023-02-07,7 Februari 2023,5000351992,-,Aktif
+444,ISAP,BEI:ISAP,IDX:ISAP,ISAP.JK,IDX:ISAP,ISAP:IJ,Isra Presisi Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2022-12-09,9 Desember 2022,4020080927,-,Aktif
+445,ISAT,BEI:ISAT,IDX:ISAT,ISAT.JK,IDX:ISAT,ISAT:IJ,Indosat Tbk.,Infrastructure,Infrastruktur,Utama,1994-10-19,19 Oktober 1994,32250810957,"LQ45, KOMPAS100",Aktif
+446,ISEA,BEI:ISEA,IDX:ISEA,ISEA.JK,IDX:ISEA,ISEA:IJ,Indo American Seafoods Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2024-07-08,8 Juli 2024,1390000000,-,Aktif
+447,ISSP,BEI:ISSP,IDX:ISSP,ISSP.JK,IDX:ISSP,ISSP:IJ,Steel Pipe Industry of Indonesia Tbk,Basic Materials,Barang Baku,Utama,2013-02-22,22 Februari 2013,7185992035,-,Aktif
+448,ITIC,BEI:ITIC,IDX:ITIC,ITIC.JK,IDX:ITIC,ITIC:IJ,Indonesian Tobacco Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2019-07-04,4 Juli 2019,940720000,-,Aktif
+449,ITMA,BEI:ITMA,IDX:ITMA,ITMA.JK,IDX:ITMA,ITMA:IJ,Sumber Energi Andalan Tbk.,Energy,Energi,Pengembangan,1990-12-10,10 Desember 1990,999053167,-,Aktif
+450,ITMG,BEI:ITMG,IDX:ITMG,ITMG.JK,IDX:ITMG,ITMG:IJ,Indo Tambangraya Megah Tbk.,Energy,Energi,Utama,2007-12-18,18 Desember 2007,1129925000,"LQ45, KOMPAS100",Aktif
+451,JARR,BEI:JARR,IDX:JARR,JARR.JK,IDX:JARR,JARR:IJ,Jhonlin Agro Raya Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2022-08-04,4 Agustus 2022,9230665050,-,Aktif
+452,JAST,BEI:JAST,IDX:JAST,JAST.JK,IDX:JAST,JAST:IJ,Jasnita Telekomindo Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2019-05-16,16 Mei 2019,1082575738,-,Aktif
+453,JATI,BEI:JATI,IDX:JATI,JATI.JK,IDX:JATI,JATI:IJ,Informasi Teknologi Indonesia Tbk.,Technology,Teknologi,Pengembangan,2023-05-08,8 Mei 2023,3262520106,-,Aktif
+454,JAWA,BEI:JAWA,IDX:JAWA,JAWA.JK,IDX:JAWA,JAWA:IJ,Jaya Agra Wattie Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2011-05-30,30 Mei 2011,16232951842,-,Aktif
+455,JAYA,BEI:JAYA,IDX:JAYA,JAYA.JK,IDX:JAYA,JAYA:IJ,Armada Berjaya Trans Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2019-02-21,21 Februari 2019,798499394,-,Aktif
+456,JECC,BEI:JECC,IDX:JECC,JECC.JK,IDX:JECC,JECC:IJ,Jembo Cable Company Tbk.,Industrials,Perindustrian,Pengembangan,1992-11-18,18 November 1992,756000000,-,Aktif
+457,JECX,BEI:JECX,IDX:JECX,JECX.JK,IDX:JECX,JECX:IJ,Nitrasanata Dharma Tbk.,Healthcare,Kesehatan,Utama,2026-07-07,7 Juli 2026,2439917500,-,Aktif
+458,JELI,BEI:JELI,IDX:JELI,JELI.JK,IDX:JELI,JELI:IJ,Niramas Utama Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2026-07-07,7 Juli 2026,1330000000,-,Aktif
+459,JGLE,BEI:JGLE,IDX:JGLE,JGLE.JK,IDX:JGLE,JGLE:IJ,Graha Andrasentra Propertindo Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2016-06-29,29 Juni 2016,22581909405,-,Aktif
+460,JIHD,BEI:JIHD,IDX:JIHD,JIHD.JK,IDX:JIHD,JIHD:IJ,Jakarta Int Hotels & Dev Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1984-02-29,29 Februari 1984,2329040482,-,Aktif
+461,JKON,BEI:JKON,IDX:JKON,JKON.JK,IDX:JKON,JKON:IJ,Jaya Konstruksi Manggala Pratama Tbk,Infrastructure,Infrastruktur,Utama,2007-12-04,4 Desember 2007,16308519860,-,Aktif
+462,JKSW,BEI:JKSW,IDX:JKSW,JKSW.JK,IDX:JKSW,JKSW:IJ,Jakarta Kyoei Steel Works Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,1997-08-06,6 Agustus 1997,150000000,-,Aktif
+463,JMAS,BEI:JMAS,IDX:JMAS,JMAS.JK,IDX:JMAS,JMAS:IJ,Asuransi Jiwa Syariah Tbk.,Financials,Keuangan,Pengembangan,2017-12-18,18 Desember 2017,1000000000,-,Aktif
+464,JPFA,BEI:JPFA,IDX:JPFA,JPFA.JK,IDX:JPFA,JPFA:IJ,Japfa Comfeed Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1989-10-23,23 Oktober 1989,11726575201,"LQ45, KOMPAS100",Aktif
+465,JRPT,BEI:JRPT,IDX:JRPT,JRPT.JK,IDX:JRPT,JRPT:IJ,Jaya Real Property Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,1994-06-29,29 Juni 1994,13750000000,-,Aktif
+466,JSKY,BEI:JSKY,IDX:JSKY,JSKY.JK,IDX:JSKY,JSKY:IJ,Sky Energy Indonesia Tbk.,Energy,Energi,Pemantauan Khusus,2018-03-28,28 Maret 2018,2032540000,-,Aktif
+467,JSMR,BEI:JSMR,IDX:JSMR,JSMR.JK,IDX:JSMR,JSMR:IJ,Jasa Marga (Persero) Tbk.,Infrastructure,Infrastruktur,Utama,2007-11-12,12 November 2007,7257871200,KOMPAS100,Aktif
+468,JSPT,BEI:JSPT,IDX:JSPT,JSPT.JK,IDX:JSPT,JSPT:IJ,Jakarta Setiabudi Internasional Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1998-01-12,12 Januari 1998,2318736000,-,Aktif
+469,JTPE,BEI:JTPE,IDX:JTPE,JTPE.JK,IDX:JTPE,JTPE:IJ,Jasuindo Tiga Perkasa Tbk.,Industrials,Perindustrian,Utama,2002-04-16,16 April 2002,6852050000,-,Aktif
+470,KAEF,BEI:KAEF,IDX:KAEF,KAEF.JK,IDX:KAEF,KAEF:IJ,Kimia Farma Tbk.,Healthcare,Kesehatan,Pengembangan,2001-07-04,4 Juli 2001,5566584590,-,Aktif
+471,KAQI,BEI:KAQI,IDX:KAQI,KAQI.JK,IDX:KAQI,KAQI:IJ,Jantra Grupo Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2025-03-10,10 Maret 2025,2075800000,-,Aktif
+472,KARW,BEI:KARW,IDX:KARW,KARW.JK,IDX:KARW,KARW:IJ,Meratus Jasa Prima Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,1994-12-20,20 Desember 1994,587152700,-,Aktif
+473,KAYU,BEI:KAYU,IDX:KAYU,KAYU.JK,IDX:KAYU,KAYU:IJ,Darmi Bersaudara Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2019-07-04,4 Juli 2019,665000000,-,Aktif
+474,KBAG,BEI:KBAG,IDX:KBAG,KBAG.JK,IDX:KBAG,KBAG:IJ,Karya Bersama Anugerah Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2020-04-08,8 April 2020,7150002603,-,Aktif
+475,KBLI,BEI:KBLI,IDX:KBLI,KBLI.JK,IDX:KBLI,KBLI:IJ,KMI Wire & Cable Tbk.,Industrials,Perindustrian,Utama,1992-07-06,6 Juli 1992,4007235107,-,Aktif
+476,KBLM,BEI:KBLM,IDX:KBLM,KBLM.JK,IDX:KBLM,KBLM:IJ,Kabelindo Murni Tbk.,Industrials,Perindustrian,Pengembangan,1992-06-01,1 Juni 1992,1120000000,-,Aktif
+477,KBLV,BEI:KBLV,IDX:KBLV,KBLV.JK,IDX:KBLV,KBLV:IJ,First Media Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2000-02-25,25 Februari 2000,1742167907,-,Aktif
+478,KBRI,BEI:KBRI,IDX:KBRI,KBRI.JK,IDX:KBRI,KBRI:IJ,Kertas Basuki Rachmat Indonesia Tbk,Basic Materials,Barang Baku,Pemantauan Khusus,2008-07-11,11 Juli 2008,8687995734,-,Aktif
+479,KDSI,BEI:KDSI,IDX:KDSI,KDSI.JK,IDX:KDSI,KDSI:IJ,Kedawung Setia Industrial Tbk.,Basic Materials,Barang Baku,Pengembangan,1996-07-29,29 Juli 1996,1620000000,-,Aktif
+480,KDTN,BEI:KDTN,IDX:KDTN,KDTN.JK,IDX:KDTN,KDTN:IJ,Puri Sentul Permai Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2022-11-09,9 November 2022,1250023298,-,Aktif
+481,KEEN,BEI:KEEN,IDX:KEEN,KEEN.JK,IDX:KEEN,KEEN:IJ,Kencana Energi Lestari Tbk.,Infrastructure,Infrastruktur,Utama,2019-09-02,2 September 2019,3666312500,-,Aktif
+482,KEJU,BEI:KEJU,IDX:KEJU,KEJU.JK,IDX:KEJU,KEJU:IJ,Mulia Boga Raya Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2019-11-25,25 November 2019,1500000000,-,Aktif
+483,KETR,BEI:KETR,IDX:KETR,KETR.JK,IDX:KETR,KETR:IJ,Ketrosden Triasmitra Tbk.,Infrastructure,Infrastruktur,Pengembangan,2021-01-11,11 Januari 2021,2841262838,-,Aktif
+484,KIAS,BEI:KIAS,IDX:KIAS,KIAS.JK,IDX:KIAS,KIAS:IJ,Keramika Indonesia Assosiasi Tbk,Industrials,Perindustrian,Pemantauan Khusus,1994-12-08,8 Desember 1994,14929100000,-,Aktif
+485,KICI,BEI:KICI,IDX:KICI,KICI.JK,IDX:KICI,KICI:IJ,Kedaung Indah Can Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1993-10-28,28 Oktober 1993,276000000,-,Aktif
+486,KIJA,BEI:KIJA,IDX:KIJA,KIJA.JK,IDX:KIJA,KIJA:IJ,Kawasan Industri Jababeka Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,1995-01-10,10 Januari 1995,20824888369,"KOMPAS100, PEFINDO25",Aktif
+487,KING,BEI:KING,IDX:KING,KING.JK,IDX:KING,KING:IJ,Hoffmen Cleanindo Tbk.,Industrials,Perindustrian,Akselerasi,2023-02-16,16 Februari 2023,2600207425,-,Aktif
+488,KINO,BEI:KINO,IDX:KINO,KINO.JK,IDX:KINO,KINO:IJ,Kino Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2015-12-11,11 Desember 2015,1428571500,-,Aktif
+489,KIOS,BEI:KIOS,IDX:KIOS,KIOS.JK,IDX:KIOS,KIOS:IJ,Kioson Komersial Indonesia Tbk,Technology,Teknologi,Pengembangan,2017-10-05,5 Oktober 2017,1075862960,-,Aktif
+490,KJEN,BEI:KJEN,IDX:KJEN,KJEN.JK,IDX:KJEN,KJEN:IJ,Krida Jaringan Nusantara Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2019-07-01,1 Juli 2019,500000000,-,Aktif
+491,KKES,BEI:KKES,IDX:KKES,KKES.JK,IDX:KKES,KKES:IJ,Kusuma Kemindo Sentosa Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2022-08-08,8 Agustus 2022,1500000000,-,Aktif
+492,KKGI,BEI:KKGI,IDX:KKGI,KKGI.JK,IDX:KKGI,KKGI:IJ,Resource Alam Indonesia Tbk.,Energy,Energi,Utama,1991-07-01,1 Juli 1991,5000000000,-,Aktif
+493,KLAS,BEI:KLAS,IDX:KLAS,KLAS.JK,IDX:KLAS,KLAS:IJ,Pelayaran Kurnia Lautan Semesta Tbk,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2023-06-12,12 Juni 2023,3644415975,-,Aktif
+494,KLBF,BEI:KLBF,IDX:KLBF,KLBF.JK,IDX:KLBF,KLBF:IJ,Kalbe Farma Tbk.,Healthcare,Kesehatan,Utama,1991-07-30,30 Juli 1991,46875122110,"LQ45, KOMPAS100",Aktif
+495,KLIN,BEI:KLIN,IDX:KLIN,KLIN.JK,IDX:KLIN,KLIN:IJ,Klinko Karya Imaji Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2022-08-09,9 Agustus 2022,1307530330,-,Aktif
+496,KMDS,BEI:KMDS,IDX:KMDS,KMDS.JK,IDX:KMDS,KMDS:IJ,Kurniamitra Duta Sentosa Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2020-09-07,7 September 2020,800000000,-,Aktif
+497,KMTR,BEI:KMTR,IDX:KMTR,KMTR.JK,IDX:KMTR,KMTR:IJ,Kirana Megatara Tbk.,Basic Materials,Barang Baku,Pengembangan,2017-06-19,19 Juni 2017,8215366379,-,Aktif
+498,KOBX,BEI:KOBX,IDX:KOBX,KOBX.JK,IDX:KOBX,KOBX:IJ,Kobexindo Tractors Tbk.,Industrials,Perindustrian,Pengembangan,2012-07-05,5 Juli 2012,2272500000,-,Aktif
+499,KOCI,BEI:KOCI,IDX:KOCI,KOCI.JK,IDX:KOCI,KOCI:IJ,Kokoh Exa Nusantara Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2023-10-07,7 Oktober 2023,4415591800,-,Aktif
+500,KOIN,BEI:KOIN,IDX:KOIN,KOIN.JK,IDX:KOIN,KOIN:IJ,Kokoh Inti Arebama Tbk,Industrials,Perindustrian,Pemantauan Khusus,2008-04-09,9 April 2008,980843732,-,Aktif
+501,KOKA,BEI:KOKA,IDX:KOKA,KOKA.JK,IDX:KOKA,KOKA:IJ,Koka Indonesia Tbk.,Infrastructure,Infrastruktur,Pengembangan,2023-10-11,11 Oktober 2023,2861333000,-,Aktif
+502,KONI,BEI:KONI,IDX:KONI,KONI.JK,IDX:KONI,KONI:IJ,Perdana Bangun Pusaka Tbk,Industrials,Perindustrian,Pemantauan Khusus,1995-08-22,22 Agustus 1995,312000000,-,Aktif
+503,KOPI,BEI:KOPI,IDX:KOPI,KOPI.JK,IDX:KOPI,KOPI:IJ,Mitra Energi Persada Tbk.,Energy,Energi,Pengembangan,2015-05-04,4 Mei 2015,697266668,-,Aktif
+504,KOTA,BEI:KOTA,IDX:KOTA,KOTA.JK,IDX:KOTA,KOTA:IJ,DMS Propertindo Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2019-07-09,9 Juli 2019,10546185701,-,Aktif
+505,KPAL,BEI:KPAL,IDX:KPAL,KPAL.JK,IDX:KPAL,KPAL:IJ,Steadfast Marine Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2018-06-08,8 Juni 2018,1069009400,-,Aktif
+506,KPAS,BEI:KPAS,IDX:KPAS,KPAS.JK,IDX:KPAS,KPAS:IJ,Cottonindo Ariesta Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2018-10-05,5 Oktober 2018,768043253,-,Aktif
+507,KPIG,BEI:KPIG,IDX:KPIG,KPIG.JK,IDX:KPIG,KPIG:IJ,MNC Land Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2000-03-30,30 Maret 2000,97557129263,KOMPAS100,Aktif
+508,KRAH,BEI:KRAH,IDX:KRAH,KRAH.JK,IDX:KRAH,KRAH:IJ,Grand Kartech Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2013-11-08,8 November 2013,971190000,-,Aktif
+509,KRAS,BEI:KRAS,IDX:KRAS,KRAS.JK,IDX:KRAS,KRAS:IJ,Krakatau Steel (Persero) Tbk.,Basic Materials,Barang Baku,Pengembangan,2010-11-10,10 November 2010,19346396900,-,Aktif
+510,KREN,BEI:KREN,IDX:KREN,KREN.JK,IDX:KREN,KREN:IJ,Quantum Clovera Investama Tbk.,Technology,Teknologi,Pemantauan Khusus,2002-06-28,28 Juni 2002,18208470100,-,Aktif
+511,KRYA,BEI:KRYA,IDX:KRYA,KRYA.JK,IDX:KRYA,KRYA:IJ,Bangun Karya Perkasa Jaya Tbk.,Infrastructure,Infrastruktur,Pengembangan,2022-07-25,25 Juli 2022,1663943474,-,Aktif
+512,KSIX,BEI:KSIX,IDX:KSIX,KSIX.JK,IDX:KSIX,KSIX:IJ,Kentanix Supra International Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2025-01-08,8 Januari 2025,2137831800,-,Aktif
+513,KUAS,BEI:KUAS,IDX:KUAS,KUAS.JK,IDX:KUAS,KUAS:IJ,Ace Oldfields Tbk.,Industrials,Perindustrian,Pengembangan,2021-10-25,25 Oktober 2021,1292808150,-,Aktif
+514,LABA,BEI:LABA,IDX:LABA,LABA.JK,IDX:LABA,LABA:IJ,Green Power Group Tbk.,Industrials,Perindustrian,Pengembangan,2021-06-10,10 Juni 2021,1103402553,-,Aktif
+515,LABS,BEI:LABS,IDX:LABS,LABS.JK,IDX:LABS,LABS:IJ,UBC Medical Indonesia Tbk.,Healthcare,Kesehatan,Pengembangan,2024-07-10,10 Juli 2024,3950000000,-,Aktif
+516,LAJU,BEI:LAJU,IDX:LAJU,LAJU.JK,IDX:LAJU,LAJU:IJ,Jasa Berdikari Logistics Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2023-01-27,27 Januari 2023,2149942974,-,Aktif
+517,LAND,BEI:LAND,IDX:LAND,LAND.JK,IDX:LAND,LAND:IJ,Trimitra Propertindo Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2018-08-23,23 Agustus 2018,2792620000,-,Aktif
+518,LAPD,BEI:LAPD,IDX:LAPD,LAPD.JK,IDX:LAPD,LAPD:IJ,Leyand International Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2001-07-17,17 Juli 2001,3966350139,-,Aktif
+519,LCGP,BEI:LCGP,IDX:LCGP,LCGP.JK,IDX:LCGP,LCGP:IJ,Eureka Prima Jakarta Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2007-07-13,13 Juli 2007,5630000914,-,Aktif
+520,LCKM,BEI:LCKM,IDX:LCKM,LCKM.JK,IDX:LCKM,LCKM:IJ,LCK Global Kedaton Tbk.,Infrastructure,Infrastruktur,Pengembangan,2018-01-16,16 Januari 2018,1000000000,-,Aktif
+521,LEAD,BEI:LEAD,IDX:LEAD,LEAD.JK,IDX:LEAD,LEAD:IJ,Logindo Samudramakmur Tbk.,Energy,Energi,Pengembangan,2013-12-11,11 Desember 2013,5799616328,-,Aktif
+522,LFLO,BEI:LFLO,IDX:LFLO,LFLO.JK,IDX:LFLO,LFLO:IJ,Imago Mulia Persada Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2021-04-07,7 April 2021,1307734937,-,Aktif
+523,LIFE,BEI:LIFE,IDX:LIFE,LIFE.JK,IDX:LIFE,LIFE:IJ,Asuransi Jiwa Sinarmas MSIG Tbk.,Financials,Keuangan,Pengembangan,2019-07-09,9 Juli 2019,2100000000,-,Aktif
+524,LINK,BEI:LINK,IDX:LINK,LINK.JK,IDX:LINK,LINK:IJ,Link Net Tbk.,Infrastructure,Infrastruktur,Pengembangan,2014-06-02,2 Juni 2014,2863195484,-,Aktif
+525,LION,BEI:LION,IDX:LION,LION.JK,IDX:LION,LION:IJ,Lion Metal Works Tbk.,Industrials,Perindustrian,Pemantauan Khusus,1993-08-20,20 Agustus 1993,520160000,-,Aktif
+526,LIVE,BEI:LIVE,IDX:LIVE,LIVE.JK,IDX:LIVE,LIVE:IJ,Homeco Victoria Makmur Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2024-02-12,12 Februari 2024,4593005014,-,Aktif
+527,LMAS,BEI:LMAS,IDX:LMAS,LMAS.JK,IDX:LMAS,LMAS:IJ,Limas Indonesia Makmur Tbk,Technology,Teknologi,Pemantauan Khusus,2001-12-28,28 Desember 2001,787851525,-,Aktif
+528,LMAX,BEI:LMAX,IDX:LMAX,LMAX.JK,IDX:LMAX,LMAX:IJ,Lupromax Pelumas Indonesia Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2023-08-09,9 Agustus 2023,650008775,-,Aktif
+529,LMPI,BEI:LMPI,IDX:LMPI,LMPI.JK,IDX:LMPI,LMPI:IJ,Langgeng Makmur Industri Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1994-10-17,17 Oktober 1994,1008517669,-,Aktif
+530,LMSH,BEI:LMSH,IDX:LMSH,LMSH.JK,IDX:LMSH,LMSH:IJ,Lionmesh Prima Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,1990-06-04,4 Juni 1990,96000000,-,Aktif
+531,LOPI,BEI:LOPI,IDX:LOPI,LOPI.JK,IDX:LOPI,LOPI:IJ,Logisticsplus International Tbk,Transportation & Logistics,Transportasi & Logistik,Akselerasi,2023-10-11,11 Oktober 2023,1100011289,-,Aktif
+532,LPCK,BEI:LPCK,IDX:LPCK,LPCK.JK,IDX:LPCK,LPCK:IJ,Lippo Cikarang Tbk,Properties & Real Estate,Properti & Real Estat,Utama,1997-07-24,24 Juli 1997,2679600000,-,Aktif
+533,LPGI,BEI:LPGI,IDX:LPGI,LPGI.JK,IDX:LPGI,LPGI:IJ,Lippo General Insurance Tbk.,Financials,Keuangan,Pemantauan Khusus,1997-07-22,22 Juli 1997,3000000000,-,Aktif
+534,LPIN,BEI:LPIN,IDX:LPIN,LPIN.JK,IDX:LPIN,LPIN:IJ,Multi Prima Sejahtera Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1990-02-05,5 Februari 1990,425000000,-,Aktif
+535,LPKR,BEI:LPKR,IDX:LPKR,LPKR.JK,IDX:LPKR,LPKR:IJ,Lippo Karawaci Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,1996-06-28,28 Juni 1996,70898018369,-,Aktif
+536,LPLI,BEI:LPLI,IDX:LPLI,LPLI.JK,IDX:LPLI,LPLI:IJ,Star Pacific Tbk,Properties & Real Estate,Properti & Real Estat,Pengembangan,1989-10-23,23 Oktober 1989,1170432803,-,Aktif
+537,LPPF,BEI:LPPF,IDX:LPPF,LPPF.JK,IDX:LPPF,LPPF:IJ,MDS Retailing Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,1989-10-09,9 Oktober 1989,2259292880,-,Aktif
+538,LPPS,BEI:LPPS,IDX:LPPS,LPPS.JK,IDX:LPPS,LPPS:IJ,Lenox Pasifik Investama Tbk.,Financials,Keuangan,Pengembangan,1994-03-28,28 Maret 1994,2588250000,-,Aktif
+539,LRNA,BEI:LRNA,IDX:LRNA,LRNA.JK,IDX:LRNA,LRNA:IJ,Eka Sari Lorena Transport Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2014-04-15,15 April 2014,350000022,-,Aktif
+540,LSIP,BEI:LSIP,IDX:LSIP,LSIP.JK,IDX:LSIP,LSIP:IJ,Perusahaan Perkebunan London Sumatra Indonesia Tbk PT Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1996-07-05,5 Juli 1996,6819963965,"KOMPAS100, PEFINDO25",Aktif
+541,LTLS,BEI:LTLS,IDX:LTLS,LTLS.JK,IDX:LTLS,LTLS:IJ,Lautan Luas Tbk.,Basic Materials,Barang Baku,Utama,1997-07-21,21 Juli 1997,1560000000,-,Aktif
+542,LUCK,BEI:LUCK,IDX:LUCK,LUCK.JK,IDX:LUCK,LUCK:IJ,Sentral Mitra Informatika Tbk.,Technology,Teknologi,Pengembangan,2018-11-28,28 November 2018,715749640,-,Aktif
+543,LUCY,BEI:LUCY,IDX:LUCY,LUCY.JK,IDX:LUCY,LUCY:IJ,Lima Dua Lima Tiga Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2021-05-05,5 Mei 2021,1514773893,-,Aktif
+544,MABA,BEI:MABA,IDX:MABA,MABA.JK,IDX:MABA,MABA:IJ,Marga Abhinaya Abadi Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2017-06-22,22 Juni 2017,15365229912,-,Aktif
+545,MAGP,BEI:MAGP,IDX:MAGP,MAGP.JK,IDX:MAGP,MAGP:IJ,Multi Agro Gemilang Plantation Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2013-01-16,16 Januari 2013,9000000004,-,Aktif
+546,MAHA,BEI:MAHA,IDX:MAHA,MAHA.JK,IDX:MAHA,MAHA:IJ,Mandiri Herindo Adiperkasa Tbk,Energy,Energi,Utama,2023-07-25,25 Juli 2023,16666000000,-,Aktif
+547,MAIN,BEI:MAIN,IDX:MAIN,MAIN.JK,IDX:MAIN,MAIN:IJ,Malindo Feedmill Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2006-02-10,10 Februari 2006,2238750000,-,Aktif
+548,MAMI,BEI:MAMI,IDX:MAMI,MAMI.JK,IDX:MAMI,MAMI:IJ,Mas Murni Indonesia Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1994-02-09,9 Februari 1994,12299317590,-,Aktif
+549,MANG,BEI:MANG,IDX:MANG,MANG.JK,IDX:MANG,MANG:IJ,Manggung Polahraya Tbk.,Infrastructure,Infrastruktur,Akselerasi,2024-01-11,11 Januari 2024,3812500000,-,Aktif
+550,MAPA,BEI:MAPA,IDX:MAPA,MAPA.JK,IDX:MAPA,MAPA:IJ,Map Aktif Adiperkasa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2018-07-05,5 Juli 2018,28504000000,"KOMPAS100, PEFINDO25",Aktif
+551,MAPB,BEI:MAPB,IDX:MAPB,MAPB.JK,IDX:MAPB,MAPB:IJ,MAP Boga Adiperkasa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2017-06-21,21 Juni 2017,2387922900,-,Aktif
+552,MAPI,BEI:MAPI,IDX:MAPI,MAPI.JK,IDX:MAPI,MAPI:IJ,Mitra Adiperkasa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2004-11-10,10 November 2004,16600000000,"LQ45, KOMPAS100",Aktif
+553,MARI,BEI:MARI,IDX:MARI,MARI.JK,IDX:MARI,MARI:IJ,Mahaka Radio Integra Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2016-02-11,11 Februari 2016,5252644000,-,Aktif
+554,MARK,BEI:MARK,IDX:MARK,MARK.JK,IDX:MARK,MARK:IJ,Mark Dynamics Indonesia Tbk.,Industrials,Perindustrian,Utama,2017-07-12,12 Juli 2017,3800000310,-,Aktif
+555,MASA,BEI:MASA,IDX:MASA,MASA.JK,IDX:MASA,MASA:IJ,Multistrada Arah Sarana Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2005-06-09,9 Juni 2005,9182946945,-,Aktif
+556,MASB,BEI:MASB,IDX:MASB,MASB.JK,IDX:MASB,MASB:IJ,Bank Multiarta Sentosa Tbk.,Financials,Keuangan,Pengembangan,2021-06-30,30 Juni 2021,1387737233,-,Aktif
+557,MAXI,BEI:MAXI,IDX:MAXI,MAXI.JK,IDX:MAXI,MAXI:IJ,Maxindo Karya Anugerah Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2023-06-12,12 Juni 2023,9610063102,-,Aktif
+558,MAYA,BEI:MAYA,IDX:MAYA,MAYA.JK,IDX:MAYA,MAYA:IJ,Bank Mayapada Internasional Tbk,Financials,Keuangan,Utama,1997-08-29,29 Agustus 1997,25906179152,-,Aktif
+559,MBAP,BEI:MBAP,IDX:MBAP,MBAP.JK,IDX:MBAP,MBAP:IJ,Mitrabara Adiperdana Tbk.,Energy,Energi,Pengembangan,2014-07-10,10 Juli 2014,1227271952,-,Aktif
+560,MBMA,BEI:MBMA,IDX:MBMA,MBMA.JK,IDX:MBMA,MBMA:IJ,Merdeka Battery Materials Tbk.,Basic Materials,Barang Baku,Pengembangan,2023-04-18,18 April 2023,107995419900,"LQ45, KOMPAS100",Aktif
+561,MBSS,BEI:MBSS,IDX:MBSS,MBSS.JK,IDX:MBSS,MBSS:IJ,Mitrabahtera Segara Sejati Tbk,Energy,Energi,Utama,2011-04-06,6 April 2011,1750026639,-,Aktif
+562,MBTO,BEI:MBTO,IDX:MBTO,MBTO.JK,IDX:MBTO,MBTO:IJ,Martina Berto Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2011-01-13,13 Januari 2011,1070000000,-,Aktif
+563,MCAS,BEI:MCAS,IDX:MCAS,MCAS.JK,IDX:MCAS,MCAS:IJ,M Cash Integrasi Tbk.,Technology,Teknologi,Utama,2017-11-01,1 November 2017,867933300,-,Aktif
+564,MCOL,BEI:MCOL,IDX:MCOL,MCOL.JK,IDX:MCOL,MCOL:IJ,Prima Andalan Mandiri Tbk.,Energy,Energi,Utama,2021-09-07,7 September 2021,3555560000,-,Aktif
+565,MCOR,BEI:MCOR,IDX:MCOR,MCOR.JK,IDX:MCOR,MCOR:IJ,Bank Windu Kentjana International Tbk,Financials,Keuangan,Utama,2007-07-03,3 Juli 2007,37540533209,-,Aktif
+566,MDIA,BEI:MDIA,IDX:MDIA,MDIA.JK,IDX:MDIA,MDIA:IJ,Intermedia Capital Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2014-04-11,11 April 2014,39215538400,-,Aktif
+567,MDIY,BEI:MDIY,IDX:MDIY,MDIY.JK,IDX:MDIY,MDIY:IJ,Daya Intiguna Yasa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2024-12-19,19 Desember 2024,25190392000,-,Aktif
+568,MDKA,BEI:MDKA,IDX:MDKA,MDKA.JK,IDX:MDKA,MDKA:IJ,Merdeka Copper Gold Tbk.,Basic Materials,Barang Baku,Utama,2015-06-19,19 Juni 2015,24472983771,"LQ45, KOMPAS100",Aktif
+569,MDKI,BEI:MDKI,IDX:MDKI,MDKI.JK,IDX:MDKI,MDKI:IJ,Emdeki Utama Tbk.,Basic Materials,Barang Baku,Pengembangan,2017-09-25,25 September 2017,2530150002,-,Aktif
+570,MDLA,BEI:MDLA,IDX:MDLA,MDLA.JK,IDX:MDLA,MDLA:IJ,Medela Potentia Tbk.,Healthcare,Kesehatan,Utama,2025-04-15,15 April 2025,14012825000,-,Aktif
+571,MDLN,BEI:MDLN,IDX:MDLN,MDLN.JK,IDX:MDLN,MDLN:IJ,Modernland Realty Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,1993-01-18,18 Januari 1993,12533067322,-,Aktif
+572,MDRN,BEI:MDRN,IDX:MDRN,MDRN.JK,IDX:MDRN,MDRN:IJ,Modern Internasional Tbk.,Industrials,Perindustrian,Pemantauan Khusus,1991-07-16,16 Juli 1991,7632167798,-,Aktif
+573,MEDC,BEI:MEDC,IDX:MEDC,MEDC.JK,IDX:MEDC,MEDC:IJ,Medco Energi Internasional Tbk,Energy,Energi,Utama,1994-10-12,12 Oktober 1994,25136231252,"LQ45, KOMPAS100",Aktif
+574,MEDS,BEI:MEDS,IDX:MEDS,MEDS.JK,IDX:MEDS,MEDS:IJ,Hetzer Medical Indonesia Tbk.,Healthcare,Kesehatan,Pengembangan,2022-08-10,10 Agustus 2022,1562500000,-,Aktif
+575,MEGA,BEI:MEGA,IDX:MEGA,MEGA.JK,IDX:MEGA,MEGA:IJ,Bank Mega Tbk.,Financials,Keuangan,Utama,2000-04-17,17 April 2000,11623514905,-,Aktif
+576,MEJA,BEI:MEJA,IDX:MEJA,MEJA.JK,IDX:MEJA,MEJA:IJ,Harta Djaya Karya Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2024-02-12,12 Februari 2024,1917500000,-,Aktif
+577,MENN,BEI:MENN,IDX:MENN,MENN.JK,IDX:MENN,MENN:IJ,Menn Teknologi Indonesia Tbk.,Technology,Teknologi,Akselerasi,2023-04-18,18 April 2023,1434052006,-,Aktif
+578,MERI,BEI:MERI,IDX:MERI,MERI.JK,IDX:MERI,MERI:IJ,Merry Riana Edukasi Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2025-07-10,10 Juli 2025,1035132500,-,Aktif
+579,MERK,BEI:MERK,IDX:MERK,MERK.JK,IDX:MERK,MERK:IJ,Merck Tbk.,Healthcare,Kesehatan,Pengembangan,1981-07-23,23 Juli 1981,448000000,-,Aktif
+580,META,BEI:META,IDX:META,META.JK,IDX:META,META:IJ,Nusantara Infrastructure Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2001-07-18,18 Juli 2001,17710708194,-,Aktif
+581,MFIN,BEI:MFIN,IDX:MFIN,MFIN.JK,IDX:MFIN,MFIN:IJ,Mandala Multifinance Tbk.,Financials,Keuangan,Utama,2005-09-06,6 September 2005,2650000000,-,Aktif
+582,MFMI,BEI:MFMI,IDX:MFMI,MFMI.JK,IDX:MFMI,MFMI:IJ,Multifiling Mitra Indonesia Tbk,Industrials,Perindustrian,Pemantauan Khusus,2010-12-29,29 Desember 2010,757581000,-,Aktif
+583,MGLV,BEI:MGLV,IDX:MGLV,MGLV.JK,IDX:MGLV,MGLV:IJ,Panca Anugrah Wisesa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2021-06-08,8 Juni 2021,1904883411,-,Aktif
+584,MGNA,BEI:MGNA,IDX:MGNA,MGNA.JK,IDX:MGNA,MGNA:IJ,Magna Investama Mandiri Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2014-07-08,8 Juli 2014,3410477164,-,Aktif
+585,MGRO,BEI:MGRO,IDX:MGRO,MGRO.JK,IDX:MGRO,MGRO:IJ,Mahkota Group Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2018-07-12,12 Juli 2018,3554445700,-,Aktif
+586,MHKI,BEI:MHKI,IDX:MHKI,MHKI.JK,IDX:MHKI,MHKI:IJ,Multi Hanna Kreasindo Tbk.,Industrials,Perindustrian,Pengembangan,2024-04-16,16 April 2024,3750000000,-,Aktif
+587,MICE,BEI:MICE,IDX:MICE,MICE.JK,IDX:MICE,MICE:IJ,Multi Indocitra Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2005-12-21,21 Desember 2005,600000000,-,Aktif
+588,MIDI,BEI:MIDI,IDX:MIDI,MIDI.JK,IDX:MIDI,MIDI:IJ,Midi Utama Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2010-11-30,30 November 2010,33435294800,PEFINDO25,Aktif
+589,MIKA,BEI:MIKA,IDX:MIKA,MIKA.JK,IDX:MIKA,MIKA:IJ,Mitra Keluarga Karyasehat Tbk.,Healthcare,Kesehatan,Utama,2015-03-24,24 Maret 2015,13907481500,KOMPAS100,Aktif
+590,MINA,BEI:MINA,IDX:MINA,MINA.JK,IDX:MINA,MINA:IJ,Sanurhasta Mitra Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2017-04-28,28 April 2017,6562500000,KOMPAS100,Aktif
+591,MINE,BEI:MINE,IDX:MINE,MINE.JK,IDX:MINE,MINE:IJ,Sinar Terang Mandiri Tbk.,Energy,Energi,Utama,2025-03-10,10 Maret 2025,4084435300,-,Aktif
+592,MIRA,BEI:MIRA,IDX:MIRA,MIRA.JK,IDX:MIRA,MIRA:IJ,Mitra International Resources Tbk,Transportation & Logistics,Transportasi & Logistik,Pemantauan Khusus,1997-01-30,30 Januari 1997,3961452039,-,Aktif
+593,MITI,BEI:MITI,IDX:MITI,MITI.JK,IDX:MITI,MITI:IJ,Mitra Investindo Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,1997-07-16,16 Juli 1997,3540735503,-,Aktif
+594,MKAP,BEI:MKAP,IDX:MKAP,MKAP.JK,IDX:MKAP,MKAP:IJ,Multikarya Asia Pasifik Raya Tbk,Energy,Energi,Pengembangan,2024-02-12,12 Februari 2024,3250000000,-,Aktif
+595,MKNT,BEI:MKNT,IDX:MKNT,MKNT.JK,IDX:MKNT,MKNT:IJ,Mitra Komunikasi Nusantara Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2015-10-26,26 Oktober 2015,5500000000,-,Aktif
+596,MKPI,BEI:MKPI,IDX:MKPI,MKPI.JK,IDX:MKPI,MKPI:IJ,Metropolitan Kentjana Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2009-07-10,10 Juli 2009,948194000,-,Aktif
+597,MKTR,BEI:MKTR,IDX:MKTR,MKTR.JK,IDX:MKTR,MKTR:IJ,Menthobi Karyatama Raya Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2022-11-08,8 November 2022,12052390422,-,Aktif
+598,MLBI,BEI:MLBI,IDX:MLBI,MLBI.JK,IDX:MLBI,MLBI:IJ,Multi Bintang Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1981-12-15,15 Desember 1981,2107000000,-,Aktif
+599,MLIA,BEI:MLIA,IDX:MLIA,MLIA.JK,IDX:MLIA,MLIA:IJ,Mulia Industrindo Tbk,Industrials,Perindustrian,Utama,1994-01-17,17 Januari 1994,6615000000,-,Aktif
+600,MLPL,BEI:MLPL,IDX:MLPL,MLPL.JK,IDX:MLPL,MLPL:IJ,Multipolar Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1989-11-06,6 November 1989,15682323987,-,Aktif
+601,MLPT,BEI:MLPT,IDX:MLPT,MLPT.JK,IDX:MLPT,MLPT:IJ,Multipolar Technology Tbk.,Technology,Teknologi,Pengembangan,2013-07-08,8 Juli 2013,1875000000,-,Aktif
+602,MMIX,BEI:MMIX,IDX:MMIX,MMIX.JK,IDX:MMIX,MMIX:IJ,Multi Medika Internasional Tbk,Healthcare,Kesehatan,Pengembangan,2022-12-06,6 Desember 2022,2400206168,-,Aktif
+603,MMLP,BEI:MMLP,IDX:MMLP,MMLP.JK,IDX:MMLP,MMLP:IJ,Mega Manunggal Property Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,2015-06-12,12 Juni 2015,6889134608,-,Aktif
+604,MNCN,BEI:MNCN,IDX:MNCN,MNCN.JK,IDX:MNCN,MNCN:IJ,Media Nusantara Citra Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2007-06-22,22 Juni 2007,15049787710,PEFINDO25,Aktif
+605,MOLI,BEI:MOLI,IDX:MOLI,MOLI.JK,IDX:MOLI,MOLI:IJ,Madusari Murni Indah Tbk.,Basic Materials,Barang Baku,Pengembangan,2018-08-30,30 Agustus 2018,2724036581,-,Aktif
+606,MORA,BEI:MORA,IDX:MORA,MORA.JK,IDX:MORA,MORA:IJ,Ekamas Mora Republik Tbk,Infrastructure,Infrastruktur,Utama,2022-08-08,8 Agustus 2022,23646668691,-,Aktif
+607,MPIX,BEI:MPIX,IDX:MPIX,MPIX.JK,IDX:MPIX,MPIX:IJ,Mitra Pedagang Indonesia Tbk.,Technology,Teknologi,Pengembangan,2024-02-07,7 Februari 2024,1562500000,-,Aktif
+608,MPMX,BEI:MPMX,IDX:MPMX,MPMX.JK,IDX:MPMX,MPMX:IJ,Mitra Pinasthika Mustika Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2013-05-29,29 Mei 2013,4462963276,-,Aktif
+609,MPOW,BEI:MPOW,IDX:MPOW,MPOW.JK,IDX:MPOW,MPOW:IJ,Megapower Makmur Tbk.,Infrastructure,Infrastruktur,Pengembangan,2017-07-05,5 Juli 2017,816997053,-,Aktif
+610,MPPA,BEI:MPPA,IDX:MPPA,MPPA.JK,IDX:MPPA,MPPA:IJ,Matahari Putra Prima Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1992-12-21,21 Desember 1992,12966640084,-,Aktif
+611,MPRO,BEI:MPRO,IDX:MPRO,MPRO.JK,IDX:MPRO,MPRO:IJ,Maha Properti Indonesia Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2018-10-09,9 Oktober 2018,9942500000,-,Aktif
+612,MPXL,BEI:MPXL,IDX:MPXL,MPXL.JK,IDX:MPXL,MPXL:IJ,MPX Logistics International Tbk,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2023-05-09,9 Mei 2023,2000014587,-,Aktif
+613,MRAT,BEI:MRAT,IDX:MRAT,MRAT.JK,IDX:MRAT,MRAT:IJ,Mustika Ratu Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1995-07-27,27 Juli 1995,428000000,-,Aktif
+614,MREI,BEI:MREI,IDX:MREI,MREI.JK,IDX:MREI,MREI:IJ,Maskapai Reasuransi Indonesia Tbk,Financials,Keuangan,Pengembangan,1989-09-04,4 September 1989,517791681,-,Aktif
+615,MSIE,BEI:MSIE,IDX:MSIE,MSIE.JK,IDX:MSIE,MSIE:IJ,Multisarana Intan Eduka Tbk.,Properties & Real Estate,Properti & Real Estat,Akselerasi,2023-08-10,10 Agustus 2023,1460007754,-,Aktif
+616,MSIN,BEI:MSIN,IDX:MSIN,MSIN.JK,IDX:MSIN,MSIN:IJ,MNC Digital Entertainment Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2018-06-08,8 Juni 2018,60676178205,-,Aktif
+617,MSJA,BEI:MSJA,IDX:MSJA,MSJA.JK,IDX:MSJA,MSJA:IJ,Multi Spunindo Jaya Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2024-01-10,10 Januari 2024,5882352900,-,Aktif
+618,MSKY,BEI:MSKY,IDX:MSKY,MSKY.JK,IDX:MSKY,MSKY:IJ,MNC Sky Vision Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2012-07-09,9 Juli 2012,1994370480,-,Aktif
+619,MSTI,BEI:MSTI,IDX:MSTI,MSTI.JK,IDX:MSTI,MSTI:IJ,Mastersystem Infotama Tbk.,Technology,Teknologi,Utama,2023-11-08,8 November 2023,3138878900,-,Aktif
+620,MTDL,BEI:MTDL,IDX:MTDL,MTDL.JK,IDX:MTDL,MTDL:IJ,Metrodata Electronics Tbk.,Technology,Teknologi,Utama,1990-04-09,9 April 1990,12276884585,PEFINDO25,Aktif
+621,MTEL,BEI:MTEL,IDX:MTEL,MTEL.JK,IDX:MTEL,MTEL:IJ,Dayamitra Telekomunikasi Tbk.,Infrastructure,Infrastruktur,Utama,2021-11-22,22 November 2021,83555225944,-,Aktif
+622,MTFN,BEI:MTFN,IDX:MTFN,MTFN.JK,IDX:MTFN,MTFN:IJ,Capitalinc Investment Tbk.,Energy,Energi,Pemantauan Khusus,1990-04-16,16 April 1990,31842082852,-,Aktif
+623,MTLA,BEI:MTLA,IDX:MTLA,MTLA.JK,IDX:MTLA,MTLA:IJ,Metropolitan Land Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,2011-06-20,20 Juni 2011,7655126330,-,Aktif
+624,MTMH,BEI:MTMH,IDX:MTMH,MTMH.JK,IDX:MTMH,MTMH:IJ,Murni Sadar Tbk.,Healthcare,Kesehatan,Utama,2022-04-20,20 April 2022,2068526950,-,Aktif
+625,MTPS,BEI:MTPS,IDX:MTPS,MTPS.JK,IDX:MTPS,MTPS:IJ,Meta Epsi Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2019-04-10,10 April 2019,2084850829,-,Aktif
+626,MTRA,BEI:MTRA,IDX:MTRA,MTRA.JK,IDX:MTRA,MTRA:IJ,Mitra Pemuda Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2016-02-10,10 Februari 2016,770000000,-,Aktif
+627,MTSM,BEI:MTSM,IDX:MTSM,MTSM.JK,IDX:MTSM,MTSM:IJ,Metro Realty Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1992-01-08,8 Januari 1992,232848000,-,Aktif
+628,MTWI,BEI:MTWI,IDX:MTWI,MTWI.JK,IDX:MTWI,MTWI:IJ,Malacca Trust Wuwungan Tbk.,Financials,Keuangan,Pengembangan,2017-10-12,12 Oktober 2017,2924486639,-,Aktif
+629,MUTU,BEI:MUTU,IDX:MUTU,MUTU.JK,IDX:MUTU,MUTU:IJ,Mutuagung Lestari Tbk.,Industrials,Perindustrian,Pengembangan,2023-08-09,9 Agustus 2023,3142881188,-,Aktif
+630,MYOH,BEI:MYOH,IDX:MYOH,MYOH.JK,IDX:MYOH,MYOH:IJ,Samindo Resources Tbk.,Energy,Energi,Utama,2000-07-27,27 Juli 2000,2206312500,-,Aktif
+631,MYOR,BEI:MYOR,IDX:MYOR,MYOR.JK,IDX:MYOR,MYOR:IJ,Mayora Indah Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1990-07-04,4 Juli 1990,22358699725,KOMPAS100,Aktif
+632,MYRX,BEI:MYRX,IDX:MYRX,MYRX.JK,IDX:MYRX,MYRX:IJ,Hanson International Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1990-10-31,31 Oktober 1990,86703220792,-,Aktif
+633,MYTX,BEI:MYTX,IDX:MYTX,MYTX.JK,IDX:MYTX,MYTX:IJ,Asia Pacific Investama Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1989-10-10,10 Oktober 1989,7747281949,-,Aktif
+634,NAIK,BEI:NAIK,IDX:NAIK,NAIK.JK,IDX:NAIK,NAIK:IJ,Adiwarna Anugerah Abadi Tbk.,Industrials,Perindustrian,Pengembangan,2024-11-13,13 November 2024,3250000000,-,Aktif
+635,NANO,BEI:NANO,IDX:NANO,NANO.JK,IDX:NANO,NANO:IJ,Nanotech Indonesia Global Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2022-03-10,10 Maret 2022,4285228063,-,Aktif
+636,NASA,BEI:NASA,IDX:NASA,NASA.JK,IDX:NASA,NASA:IJ,Andalan Perkasa Abadi Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2017-08-07,7 Agustus 2017,11004929322,-,Aktif
+637,NASI,BEI:NASI,IDX:NASI,NASI.JK,IDX:NASI,NASI:IJ,Wahana Inti Makmur Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2021-12-13,13 Desember 2021,807400000,-,Aktif
+638,NATO,BEI:NATO,IDX:NATO,NATO.JK,IDX:NATO,NATO:IJ,Olympus Strategic Indonesia Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2019-01-18,18 Januari 2019,8001111504,-,Aktif
+639,NAYZ,BEI:NAYZ,IDX:NAYZ,NAYZ.JK,IDX:NAYZ,NAYZ:IJ,Hassana Boga Sejahtera Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2023-02-06,6 Februari 2023,2550011472,-,Aktif
+640,NCKL,BEI:NCKL,IDX:NCKL,NCKL.JK,IDX:NCKL,NCKL:IJ,Trimegah Bangun Persada Tbk.,Basic Materials,Barang Baku,Utama,2023-04-12,12 April 2023,63098600000,"LQ45, KOMPAS100",Aktif
+641,NELY,BEI:NELY,IDX:NELY,NELY.JK,IDX:NELY,NELY:IJ,Pelayaran Nelly Dwi Putri Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2012-10-11,11 Oktober 2012,2350000000,-,Aktif
+642,NEST,BEI:NEST,IDX:NEST,NEST.JK,IDX:NEST,NEST:IJ,Esta Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2024-08-08,8 Agustus 2024,4112500000,-,Aktif
+643,NETV,BEI:NETV,IDX:NETV,NETV.JK,IDX:NETV,NETV:IJ,MDTV Media Technologies Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2022-01-26,26 Januari 2022,41360517722,-,Aktif
+644,NFCX,BEI:NFCX,IDX:NFCX,NFCX.JK,IDX:NFCX,NFCX:IJ,NFC Indonesia Tbk.,Technology,Teknologi,Pengembangan,2018-07-12,12 Juli 2018,666667500,-,Aktif
+645,NICE,BEI:NICE,IDX:NICE,NICE.JK,IDX:NICE,NICE:IJ,Adhi Kartiko Pratama Tbk.,Basic Materials,Barang Baku,Pengembangan,2024-01-09,9 Januari 2024,6082020000,-,Aktif
+646,NICK,BEI:NICK,IDX:NICK,NICK.JK,IDX:NICK,NICK:IJ,Charnic Capital Tbk.,Financials,Keuangan,Pengembangan,2018-05-02,2 Mei 2018,651150000,-,Aktif
+647,NICL,BEI:NICL,IDX:NICL,NICL.JK,IDX:NICL,NICL:IJ,PAM Mineral Tbk.,Basic Materials,Barang Baku,Pengembangan,2021-07-09,9 Juli 2021,10635644907,-,Aktif
+648,NIKL,BEI:NIKL,IDX:NIKL,NIKL.JK,IDX:NIKL,NIKL:IJ,Pelat Timah Nusantara Tbk.,Basic Materials,Barang Baku,Pengembangan,2009-12-14,14 Desember 2009,2523350000,-,Aktif
+649,NINE,BEI:NINE,IDX:NINE,NINE.JK,IDX:NINE,NINE:IJ,Techno9 Indonesia Tbk.,Technology,Teknologi,Akselerasi,2022-12-05,5 Desember 2022,2157000000,-,Aktif
+650,NIPS,BEI:NIPS,IDX:NIPS,NIPS.JK,IDX:NIPS,NIPS:IJ,Nipress Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1991-07-24,24 Juli 1991,1635333332,-,Aktif
+651,NIRO,BEI:NIRO,IDX:NIRO,NIRO.JK,IDX:NIRO,NIRO:IJ,City Retail Developments Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2012-09-13,13 September 2012,22198871804,-,Aktif
+652,NISP,BEI:NISP,IDX:NISP,NISP.JK,IDX:NISP,NISP:IJ,Bank OCBC NISP Tbk.,Financials,Keuangan,Utama,1994-10-20,20 Oktober 1994,22715776032,-,Aktif
+653,NOBU,BEI:NOBU,IDX:NOBU,NOBU.JK,IDX:NOBU,NOBU:IJ,Bank Nationalnobu Tbk.,Financials,Keuangan,Pengembangan,2013-05-20,20 Mei 2013,7403659460,-,Aktif
+654,NPGF,BEI:NPGF,IDX:NPGF,NPGF.JK,IDX:NPGF,NPGF:IJ,Nusa Palapa Gemilang Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2021-04-14,14 April 2021,3240235840,-,Aktif
+655,NRCA,BEI:NRCA,IDX:NRCA,NRCA.JK,IDX:NRCA,NRCA:IJ,Nusa Raya Cia Tbk.,Infrastructure,Infrastruktur,Pengembangan,2013-06-27,27 Juni 2013,2496258344,-,Aktif
+656,NSSS,BEI:NSSS,IDX:NSSS,NSSS.JK,IDX:NSSS,NSSS:IJ,Nusantara Sawit Sejahtera Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2023-03-10,10 Maret 2023,23801568645,-,Aktif
+657,NTBK,BEI:NTBK,IDX:NTBK,NTBK.JK,IDX:NTBK,NTBK:IJ,Nusatama Berkah Tbk.,Industrials,Perindustrian,Pengembangan,2022-02-09,9 Februari 2022,2700064877,-,Aktif
+658,NUSA,BEI:NUSA,IDX:NUSA,NUSA.JK,IDX:NUSA,NUSA:IJ,Sinergi Megah Internusa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2018-07-12,12 Juli 2018,7700000148,-,Aktif
+659,NZIA,BEI:NZIA,IDX:NZIA,NZIA.JK,IDX:NZIA,NZIA:IJ,Nusantara Almazia Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2019-09-25,25 September 2019,2197540705,-,Aktif
+660,OASA,BEI:OASA,IDX:OASA,OASA.JK,IDX:OASA,OASA:IJ,Maharaksa Biru Energi Tbk.,Infrastructure,Infrastruktur,Pengembangan,2016-07-18,18 Juli 2016,6347220000,-,Aktif
+661,OBAT,BEI:OBAT,IDX:OBAT,OBAT.JK,IDX:OBAT,OBAT:IJ,Brigit Biofarmaka Teknologi Tbk.,Healthcare,Kesehatan,Pengembangan,2025-01-13,13 Januari 2025,600000000,-,Aktif
+662,OBMD,BEI:OBMD,IDX:OBMD,OBMD.JK,IDX:OBMD,OBMD:IJ,OBM Drilchem Tbk.,Basic Materials,Barang Baku,Pengembangan,2021-12-08,8 Desember 2021,805992931,-,Aktif
+663,OCAP,BEI:OCAP,IDX:OCAP,OCAP.JK,IDX:OCAP,OCAP:IJ,Onix Capital Tbk.,Financials,Keuangan,Pemantauan Khusus,2003-10-10,10 Oktober 2003,273200000,-,Aktif
+664,OILS,BEI:OILS,IDX:OILS,OILS.JK,IDX:OILS,OILS:IJ,Indo Oil Perkasa Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2021-09-06,6 September 2021,454056563,-,Aktif
+665,OKAS,BEI:OKAS,IDX:OKAS,OKAS.JK,IDX:OKAS,OKAS:IJ,Ancora Indonesia Resources Tbk,Basic Materials,Barang Baku,Pengembangan,2006-03-29,29 Maret 2006,2373449165,-,Aktif
+666,OLIV,BEI:OLIV,IDX:OLIV,OLIV.JK,IDX:OLIV,OLIV:IJ,Oscar Mitra Sukses Sejahtera Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2022-05-17,17 Mei 2022,1900073314,-,Aktif
+667,OMED,BEI:OMED,IDX:OMED,OMED.JK,IDX:OMED,OMED:IJ,Jayamas Medica Industri Tbk.,Healthcare,Kesehatan,Utama,2022-11-08,8 November 2022,27058850000,-,Aktif
+668,OMRE,BEI:OMRE,IDX:OMRE,OMRE.JK,IDX:OMRE,OMRE:IJ,Indonesia Prima Property Tbk,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1994-08-22,22 Agustus 1994,2945211000,-,Aktif
+669,OPMS,BEI:OPMS,IDX:OPMS,OPMS.JK,IDX:OPMS,OPMS:IJ,Oima Prima Metal Sinergi Tbk,Basic Materials,Barang Baku,Pengembangan,2019-09-23,23 September 2019,1000000000,-,Aktif
+670,PACK,BEI:PACK,IDX:PACK,PACK.JK,IDX:PACK,PACK:IJ,Abadi Nusantara Hijau Investama Tbk,Basic Materials,Barang Baku,Pemantauan Khusus,2023-02-08,8 Februari 2023,1539143058,-,Aktif
+671,PADA,BEI:PADA,IDX:PADA,PADA.JK,IDX:PADA,PADA:IJ,Personel Alih Daya Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2022-12-08,8 Desember 2022,3150000000,-,Aktif
+672,PADI,BEI:PADI,IDX:PADI,PADI.JK,IDX:PADI,PADI:IJ,Minna Padi Investama Tbk,Financials,Keuangan,Pemantauan Khusus,2012-01-09,9 Januari 2012,11307246524,-,Aktif
+673,PALM,BEI:PALM,IDX:PALM,PALM.JK,IDX:PALM,PALM:IJ,Provident Agro Tbk,Financials,Keuangan,Pengembangan,2012-10-08,8 Oktober 2012,15773797158,-,Aktif
+674,PAMG,BEI:PAMG,IDX:PAMG,PAMG.JK,IDX:PAMG,PAMG:IJ,Bima Sakti Pertiwi Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2019-07-05,5 Juli 2019,3125000000,-,Aktif
+675,PANI,BEI:PANI,IDX:PANI,PANI.JK,IDX:PANI,PANI:IJ,Pantai Indah Kapuk Dua Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2018-09-18,18 September 2018,16883595500,KOMPAS100,Aktif
+676,PANR,BEI:PANR,IDX:PANR,PANR.JK,IDX:PANR,PANR:IJ,Panorama Sentrawisata Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2001-09-18,18 September 2001,1387500000,-,Aktif
+677,PANS,BEI:PANS,IDX:PANS,PANS.JK,IDX:PANS,PANS:IJ,Panin Sekuritas Tbk.,Financials,Keuangan,Utama,2000-05-31,31 Mei 2000,720000000,-,Aktif
+678,PART,BEI:PART,IDX:PART,PART.JK,IDX:PART,PART:IJ,Cipta Perdana Lancar Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2024-07-05,5 Juli 2024,2720000000,-,Aktif
+679,PBID,BEI:PBID,IDX:PBID,PBID.JK,IDX:PBID,PBID:IJ,Panca Budi Idaman Tbk.,Basic Materials,Barang Baku,Utama,2017-12-13,13 Desember 2017,7500000000,-,Aktif
+680,PBRX,BEI:PBRX,IDX:PBRX,PBRX.JK,IDX:PBRX,PBRX:IJ,Pan Brothers Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1990-08-16,16 Agustus 1990,21482028246,-,Aktif
+681,PBSA,BEI:PBSA,IDX:PBSA,PBSA.JK,IDX:PBSA,PBSA:IJ,Paramita Bangun Sarana Tbk.,Infrastructure,Infrastruktur,Pengembangan,2016-09-28,28 September 2016,3000000000,-,Aktif
+682,PCAR,BEI:PCAR,IDX:PCAR,PCAR.JK,IDX:PCAR,PCAR:IJ,Prima Cakrawala Abadi Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2017-12-29,29 Desember 2017,1166666700,-,Aktif
+683,PDES,BEI:PDES,IDX:PDES,PDES.JK,IDX:PDES,PDES:IJ,Destinasi Tirta Nusantara Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2008-07-08,8 Juli 2008,715000000,-,Aktif
+684,PDPP,BEI:PDPP,IDX:PDPP,PDPP.JK,IDX:PDPP,PDPP:IJ,Primadaya Plastisindo Tbk.,Basic Materials,Barang Baku,Pengembangan,2022-11-09,9 November 2022,3061341438,-,Aktif
+685,PEGE,BEI:PEGE,IDX:PEGE,PEGE.JK,IDX:PEGE,PEGE:IJ,Panca Global Kapital Tbk.,Financials,Keuangan,Pengembangan,2005-06-24,24 Juni 2005,2833417056,-,Aktif
+686,PEHA,BEI:PEHA,IDX:PEHA,PEHA.JK,IDX:PEHA,PEHA:IJ,Phapros Tbk.,Healthcare,Kesehatan,Pengembangan,2018-12-26,26 Desember 2018,840000000,-,Aktif
+687,PEVE,BEI:PEVE,IDX:PEVE,PEVE.JK,IDX:PEVE,PEVE:IJ,Penta Valent Tbk.,Healthcare,Kesehatan,Pengembangan,2023-01-24,24 Januari 2023,1765625000,-,Aktif
+688,PGAS,BEI:PGAS,IDX:PGAS,PGAS.JK,IDX:PGAS,PGAS:IJ,Perusahaan Gas Negara Tbk.,Energy,Energi,Utama,2003-12-15,15 Desember 2003,24241508196,"LQ45, KOMPAS100",Aktif
+689,PGEO,BEI:PGEO,IDX:PGEO,PGEO.JK,IDX:PGEO,PGEO:IJ,Pertamina Geothermal Energy Tbk,Infrastructure,Infrastruktur,Utama,2023-02-24,24 Februari 2023,41508024149,"LQ45, KOMPAS100",Aktif
+690,PGJO,BEI:PGJO,IDX:PGJO,PGJO.JK,IDX:PGJO,PGJO:IJ,Bahtera Bumi Raya Tbk,Technology,Teknologi,Akselerasi,2020-01-08,8 Januari 2020,772459095,-,Aktif
+691,PGLI,BEI:PGLI,IDX:PGLI,PGLI.JK,IDX:PGLI,PGLI:IJ,Pembangunan Graha Lestari Indah Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2000-04-05,5 April 2000,488000000,-,Aktif
+692,PGUN,BEI:PGUN,IDX:PGUN,PGUN.JK,IDX:PGUN,PGUN:IJ,Pradiksi Gunatama Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2020-07-07,7 Juli 2020,5737848882,-,Aktif
+693,PICO,BEI:PICO,IDX:PICO,PICO.JK,IDX:PICO,PICO:IJ,Pelangi Indah Canindo Tbk,Basic Materials,Barang Baku,Pengembangan,1996-09-23,23 September 1996,568375000,-,Aktif
+694,PIPA,BEI:PIPA,IDX:PIPA,PIPA.JK,IDX:PIPA,PIPA:IJ,Multi Makmur Lemindo Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2023-04-10,10 April 2023,3425031863,-,Aktif
+695,PJAA,BEI:PJAA,IDX:PJAA,PJAA.JK,IDX:PJAA,PJAA:IJ,Pembangunan Jaya Ancol Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2004-07-02,2 Juli 2004,1599999996,-,Aktif
+696,PJHB,BEI:PJHB,IDX:PJHB,PJHB.JK,IDX:PJHB,PJHB:IJ,Pelayaran Jaya Hidup Baru Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2025-11-06,6 November 2025,2400000000,-,Aktif
+697,PKPK,BEI:PKPK,IDX:PKPK,PKPK.JK,IDX:PKPK,PKPK:IJ,Perdana Karya Perkasa Tbk,Energy,Energi,Pengembangan,2007-07-11,11 Juli 2007,1200000000,-,Aktif
+698,PLAN,BEI:PLAN,IDX:PLAN,PLAN.JK,IDX:PLAN,PLAN:IJ,Planet Properindo Jaya Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2020-09-15,15 September 2020,896709596,-,Aktif
+699,PLAS,BEI:PLAS,IDX:PLAS,PLAS.JK,IDX:PLAS,PLAS:IJ,Polaris Investama Tbk,Financials,Keuangan,Pemantauan Khusus,2001-03-16,16 Maret 2001,1184200000,-,Aktif
+700,PLIN,BEI:PLIN,IDX:PLIN,PLIN.JK,IDX:PLIN,PLIN:IJ,Plaza Indonesia Realty Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1992-06-15,15 Juni 1992,3550000000,-,Aktif
+701,PMJS,BEI:PMJS,IDX:PMJS,PMJS.JK,IDX:PMJS,PMJS:IJ,Putra Mandiri Jembar Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2019-12-18,18 Desember 2019,13755600000,-,Aktif
+702,PMMP,BEI:PMMP,IDX:PMMP,PMMP.JK,IDX:PMMP,PMMP:IJ,Panca Mitra Multiperdana Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2020-12-18,18 Desember 2020,2588300000,-,Aktif
+703,PMUI,BEI:PMUI,IDX:PMUI,PMUI.JK,IDX:PMUI,PMUI:IJ,Prima Multi Usaha Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2025-07-10,10 Juli 2025,5800000000,-,Aktif
+704,PNBN,BEI:PNBN,IDX:PNBN,PNBN.JK,IDX:PNBN,PNBN:IJ,Bank Pan Indonesia Tbk,Financials,Keuangan,Utama,1982-12-29,29 Desember 1982,23837645998,-,Aktif
+705,PNBS,BEI:PNBS,IDX:PNBS,PNBS.JK,IDX:PNBS,PNBS:IJ,Bank Panin Dubai Syariah Tbk.,Financials,Keuangan,Pengembangan,2014-01-15,15 Januari 2014,38425504906,-,Aktif
+706,PNGO,BEI:PNGO,IDX:PNGO,PNGO.JK,IDX:PNGO,PNGO:IJ,Pinago Utama Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2020-08-31,31 Agustus 2020,781250000,-,Aktif
+707,PNIN,BEI:PNIN,IDX:PNIN,PNIN.JK,IDX:PNIN,PNIN:IJ,Paninvest Tbk.,Financials,Keuangan,Utama,1983-09-20,20 September 1983,4068323920,-,Aktif
+708,PNLF,BEI:PNLF,IDX:PNLF,PNLF.JK,IDX:PNLF,PNLF:IJ,Panin Financial Tbk.,Financials,Keuangan,Utama,1983-06-14,14 Juni 1983,32022073293,KOMPAS100,Aktif
+709,PNSE,BEI:PNSE,IDX:PNSE,PNSE.JK,IDX:PNSE,PNSE:IJ,Pudjiadi & Sons Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1990-05-01,1 Mei 1990,797813496,-,Aktif
+710,POLA,BEI:POLA,IDX:POLA,POLA.JK,IDX:POLA,POLA:IJ,Pool Advista Finance Tbk.,Financials,Keuangan,Pemantauan Khusus,2018-11-16,16 November 2018,3351075600,-,Aktif
+711,POLI,BEI:POLI,IDX:POLI,POLI.JK,IDX:POLI,POLI:IJ,Pollux Hotels Group Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2019-01-10,10 Januari 2019,2010526400,-,Aktif
+712,POLL,BEI:POLL,IDX:POLL,POLL.JK,IDX:POLL,POLL:IJ,Pollux Properti Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2018-07-11,11 Juli 2018,8318823600,-,Aktif
+713,POLU,BEI:POLU,IDX:POLU,POLU.JK,IDX:POLU,POLU:IJ,Golden Flower Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2019-06-26,26 Juni 2019,750000000,-,Aktif
+714,POLY,BEI:POLY,IDX:POLY,POLY.JK,IDX:POLY,POLY:IJ,Asia Pacific Fibers Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1991-03-12,12 Maret 1991,2495753334,-,Aktif
+715,POOL,BEI:POOL,IDX:POOL,POOL.JK,IDX:POOL,POOL:IJ,Pool Advista Indonesia Tbk.,Financials,Keuangan,Pemantauan Khusus,1991-05-20,20 Mei 1991,2341366264,-,Aktif
+716,PORT,BEI:PORT,IDX:PORT,PORT.JK,IDX:PORT,PORT:IJ,Nusantara Pelabuhan Handal Tbk,Infrastructure,Infrastruktur,Pengembangan,2017-03-16,16 Maret 2017,2813941985,-,Aktif
+717,POSA,BEI:POSA,IDX:POSA,POSA.JK,IDX:POSA,POSA:IJ,Bliss Properti Indonesia Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2019-05-10,10 Mei 2019,8388870206,-,Aktif
+718,POWR,BEI:POWR,IDX:POWR,POWR.JK,IDX:POWR,POWR:IJ,Cikarang Listrindo Tbk.,Infrastructure,Infrastruktur,Utama,2016-06-14,14 Juni 2016,16087156000,-,Aktif
+719,PPGL,BEI:PPGL,IDX:PPGL,PPGL.JK,IDX:PPGL,PPGL:IJ,Prima Globalindo Logistik Tbk.,Transportation & Logistics,Transportasi & Logistik,Akselerasi,2020-07-20,20 Juli 2020,771178020,-,Aktif
+720,PPRE,BEI:PPRE,IDX:PPRE,PPRE.JK,IDX:PPRE,PPRE:IJ,PP Presisi Tbk.,Infrastructure,Infrastruktur,Pengembangan,2017-11-24,24 November 2017,10224271000,-,Aktif
+721,PPRI,BEI:PPRI,IDX:PPRI,PPRI.JK,IDX:PPRI,PPRI:IJ,Paperocks Indonesia Tbk.,Basic Materials,Barang Baku,Pengembangan,2023-08-08,8 Agustus 2023,1075027288,-,Aktif
+722,PPRO,BEI:PPRO,IDX:PPRO,PPRO.JK,IDX:PPRO,PPRO:IJ,PP Properti Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2015-05-19,19 Mei 2015,61675671883,-,Aktif
+723,PRAS,BEI:PRAS,IDX:PRAS,PRAS.JK,IDX:PRAS,PRAS:IJ,Prima Alloy Steel Universal Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1990-07-12,12 Juli 1990,701043478,-,Aktif
+724,PRAY,BEI:PRAY,IDX:PRAY,PRAY.JK,IDX:PRAY,PRAY:IJ,Famon Awal Bros Sedaya Tbk.,Healthcare,Kesehatan,Pengembangan,2022-11-08,8 November 2022,13959422300,-,Aktif
+725,PRDA,BEI:PRDA,IDX:PRDA,PRDA.JK,IDX:PRDA,PRDA:IJ,Prodia Widyahusada Tbk.,Healthcare,Kesehatan,Utama,2016-12-07,7 Desember 2016,937500000,-,Aktif
+726,PRDL,BEI:PRDL,IDX:PRDL,PRDL.JK,IDX:PRDL,PRDL:IJ,Prodia Diagnostic Line Tbk.,Healthcare,Kesehatan,Pengembangan,2026-07-09,9 Juli 2026,1743000000,-,Aktif
+727,PRIM,BEI:PRIM,IDX:PRIM,PRIM.JK,IDX:PRIM,PRIM:IJ,Royal Prima Tbk.,Healthcare,Kesehatan,Pengembangan,2018-05-15,15 Mei 2018,3393434905,-,Aktif
+728,PSAB,BEI:PSAB,IDX:PSAB,PSAB.JK,IDX:PSAB,PSAB:IJ,J Resources Asia Pasifik Tbk.,Basic Materials,Barang Baku,Pengembangan,2003-04-22,22 April 2003,26460000000,KOMPAS100,Aktif
+729,PSAT,BEI:PSAT,IDX:PSAT,PSAT.JK,IDX:PSAT,PSAT:IJ,Pancaran Samudera Transport Tbk.,Transportation & Logistics,Transportasi & Logistik,Utama,2025-07-08,8 Juli 2025,1482353000,-,Aktif
+730,PSDN,BEI:PSDN,IDX:PSDN,PSDN.JK,IDX:PSDN,PSDN:IJ,Prasidha Aneka Niaga Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1994-10-18,18 Oktober 1994,1440000000,-,Aktif
+731,PSGO,BEI:PSGO,IDX:PSGO,PSGO.JK,IDX:PSGO,PSGO:IJ,Palma Serasih Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2019-11-25,25 November 2019,18850000000,-,Aktif
+732,PSKT,BEI:PSKT,IDX:PSKT,PSKT.JK,IDX:PSKT,PSKT:IJ,Red Planet Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1995-09-19,19 September 1995,10351231636,-,Aktif
+733,PSSI,BEI:PSSI,IDX:PSSI,PSSI.JK,IDX:PSSI,PSSI:IJ,IMC Pelita Logistik Tbk.,Energy,Energi,Utama,2017-12-05,5 Desember 2017,5417063153,-,Aktif
+734,PTBA,BEI:PTBA,IDX:PTBA,PTBA.JK,IDX:PTBA,PTBA:IJ,Bukit Asam Tbk.,Energy,Energi,Utama,2002-12-23,23 Desember 2002,11520659250,"LQ45, KOMPAS100",Aktif
+735,PTDU,BEI:PTDU,IDX:PTDU,PTDU.JK,IDX:PTDU,PTDU:IJ,Djasa Ubersakti Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2020-12-08,8 Desember 2020,1500000000,-,Aktif
+736,PTIS,BEI:PTIS,IDX:PTIS,PTIS.JK,IDX:PTIS,PTIS:IJ,Indo Straits Tbk.,Energy,Energi,Pengembangan,2011-07-12,12 Juli 2011,550165300,-,Aktif
+737,PTMP,BEI:PTMP,IDX:PTMP,PTMP.JK,IDX:PTMP,PTMP:IJ,Mitra Pack Tbk.,Industrials,Perindustrian,Pengembangan,2023-03-06,6 Maret 2023,3169200000,-,Aktif
+738,PTMR,BEI:PTMR,IDX:PTMR,PTMR.JK,IDX:PTMR,PTMR:IJ,Master Print Tbk.,Basic Materials,Barang Baku,Pengembangan,2024-10-08,8 Oktober 2024,1907000000,-,Aktif
+739,PTPP,BEI:PTPP,IDX:PTPP,PTPP.JK,IDX:PTPP,PTPP:IJ,PP (Persero) Tbk.,Infrastructure,Infrastruktur,Utama,2010-02-09,9 Februari 2010,6199897354,-,Aktif
+740,PTPS,BEI:PTPS,IDX:PTPS,PTPS.JK,IDX:PTPS,PTPS:IJ,Pulau Subur Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2023-10-09,9 Oktober 2023,2167514856,-,Aktif
+741,PTPW,BEI:PTPW,IDX:PTPW,PTPW.JK,IDX:PTPW,PTPW:IJ,Pratama Widya Tbk.,Infrastructure,Infrastruktur,Pengembangan,2020-02-07,7 Februari 2020,878187500,-,Aktif
+742,PTRO,BEI:PTRO,IDX:PTRO,PTRO.JK,IDX:PTRO,PTRO:IJ,Petrosea Tbk.,Energy,Energi,Utama,1990-05-21,21 Mei 1990,1008605000,"KOMPAS100, PEFINDO25",Aktif
+743,PTSN,BEI:PTSN,IDX:PTSN,PTSN.JK,IDX:PTSN,PTSN:IJ,Sat Nusapersada Tbk,Technology,Teknologi,Pengembangan,2007-11-08,8 November 2007,5314344000,-,Aktif
+744,PTSP,BEI:PTSP,IDX:PTSP,PTSP.JK,IDX:PTSP,PTSP:IJ,Pioneerindo Gourmet International Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1994-05-30,30 Mei 1994,220808000,-,Aktif
+745,PUDP,BEI:PUDP,IDX:PUDP,PUDP.JK,IDX:PUDP,PUDP:IJ,Pudjiadi Prestige Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,1994-11-18,18 November 1994,659120000,-,Aktif
+746,PURA,BEI:PURA,IDX:PURA,PURA.JK,IDX:PURA,PURA:IJ,Putra Rajawali Kencana Tbk.,Transportation & Logistics,Transportasi & Logistik,Pemantauan Khusus,2020-01-29,29 Januari 2020,6301930902,-,Aktif
+747,PURE,BEI:PURE,IDX:PURE,PURE.JK,IDX:PURE,PURE:IJ,Trinitan Metals and Minerals Tbk,Basic Materials,Barang Baku,Pemantauan Khusus,2019-10-09,9 Oktober 2019,1375181505,-,Aktif
+748,PURI,BEI:PURI,IDX:PURI,PURI.JK,IDX:PURI,PURI:IJ,Puri Global Sukses Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2020-09-08,8 September 2020,1000000000,-,Aktif
+749,PWON,BEI:PWON,IDX:PWON,PWON.JK,IDX:PWON,PWON:IJ,Pakuwon Jati Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,1989-10-09,9 Oktober 1989,48159602400,KOMPAS100,Aktif
+750,PYFA,BEI:PYFA,IDX:PYFA,PYFA.JK,IDX:PYFA,PYFA:IJ,Pyridam Farma Tbk,Healthcare,Kesehatan,Pengembangan,2001-10-16,16 Oktober 2001,11236680171,-,Aktif
+751,PZZA,BEI:PZZA,IDX:PZZA,PZZA.JK,IDX:PZZA,PZZA:IJ,Sarimelati Kencana Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2018-05-23,23 Mei 2018,3021875000,-,Aktif
+752,RAAM,BEI:RAAM,IDX:RAAM,RAAM.JK,IDX:RAAM,RAAM:IJ,Tripar Multivision Plus Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2023-05-08,8 Mei 2023,6813620000,-,Aktif
+753,RAFI,BEI:RAFI,IDX:RAFI,RAFI.JK,IDX:RAFI,RAFI:IJ,Sari Kreasi Boga Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2022-08-05,5 Agustus 2022,3128140475,-,Aktif
+754,RAJA,BEI:RAJA,IDX:RAJA,RAJA.JK,IDX:RAJA,RAJA:IJ,Rukun Raharja Tbk.,Energy,Energi,Utama,2006-04-19,19 April 2006,4227082500,KOMPAS100,Aktif
+755,RALS,BEI:RALS,IDX:RALS,RALS.JK,IDX:RALS,RALS:IJ,Ramayana Lestari Sentosa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,1996-07-24,24 Juli 1996,7096000000,-,Aktif
+756,RANC,BEI:RANC,IDX:RANC,RANC.JK,IDX:RANC,RANC:IJ,Supra Boga Lestari Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2012-06-07,7 Juni 2012,1564487500,-,Aktif
+757,RANS,BEI:RANS,IDX:RANS,RANS.JK,IDX:RANS,RANS:IJ,Rans Entertainmen Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2026-07-10,10 Juli 2026,12625000000,-,Aktif
+758,RATU,BEI:RATU,IDX:RATU,RATU.JK,IDX:RATU,RATU:IJ,Raharja Energi Cepu Tbk.,Energy,Energi,Pengembangan,2025-01-08,8 Januari 2025,2715053800,KOMPAS100,Aktif
+759,RBMS,BEI:RBMS,IDX:RBMS,RBMS.JK,IDX:RBMS,RBMS:IJ,Ristia Bintang Mahkotasejati Tbk,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1997-12-19,19 Desember 1997,2656212826,-,Aktif
+760,RCCC,BEI:RCCC,IDX:RCCC,RCCC.JK,IDX:RCCC,RCCC:IJ,Utama Radar Cahaya Tbk.,Transportation & Logistics,Transportasi & Logistik,Akselerasi,2022-08-02,2 Agustus 2022,787500000,-,Aktif
+761,RDTX,BEI:RDTX,IDX:RDTX,RDTX.JK,IDX:RDTX,RDTX:IJ,Roda Vivatex Tbk,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,1990-05-14,14 Mei 1990,268800000,-,Aktif
+762,REAL,BEI:REAL,IDX:REAL,REAL.JK,IDX:REAL,REAL:IJ,Repower Asia Indonesia Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2019-12-06,6 Desember 2019,6633610151,-,Aktif
+763,RELF,BEI:RELF,IDX:RELF,RELF.JK,IDX:RELF,RELF:IJ,Graha Mitra Asia Tbk.,Properties & Real Estate,Properti & Real Estat,Akselerasi,2023-06-22,22 Juni 2023,5727832195,-,Aktif
+764,RELI,BEI:RELI,IDX:RELI,RELI.JK,IDX:RELI,RELI:IJ,Reliance Securities Tbk,Financials,Keuangan,Pengembangan,2005-07-13,13 Juli 2005,1800000000,-,Aktif
+765,RGAS,BEI:RGAS,IDX:RGAS,RGAS.JK,IDX:RGAS,RGAS:IJ,Kian Santang Muliatama Tbk.,Energy,Energi,Pengembangan,2023-11-08,8 November 2023,1459234110,-,Aktif
+766,RICY,BEI:RICY,IDX:RICY,RICY.JK,IDX:RICY,RICY:IJ,Ricky Putra Globalindo Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1998-01-22,22 Januari 1998,641717510,-,Aktif
+767,RIGS,BEI:RIGS,IDX:RIGS,RIGS.JK,IDX:RIGS,RIGS:IJ,Rig Tenders Indonesia Tbk.,Energy,Energi,Pengembangan,1990-03-05,5 Maret 1990,609130000,-,Aktif
+768,RIMO,BEI:RIMO,IDX:RIMO,RIMO.JK,IDX:RIMO,RIMO:IJ,Rimo International Lestari Tbk,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2000-11-10,10 November 2000,45080600000,-,Aktif
+769,RISE,BEI:RISE,IDX:RISE,RISE.JK,IDX:RISE,RISE:IJ,Jaya Sukses Makmur Sentosa Tbk,Properties & Real Estate,Properti & Real Estat,Pengembangan,2018-07-09,9 Juli 2018,10945000000,-,Aktif
+770,RLCO,BEI:RLCO,IDX:RLCO,RLCO.JK,IDX:RLCO,RLCO:IJ,Abadi Lestari Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2025-12-08,8 Desember 2025,3125000000,-,Aktif
+771,RMKE,BEI:RMKE,IDX:RMKE,RMKE.JK,IDX:RMKE,RMKE:IJ,RMK Energy Tbk.,Energy,Energi,Utama,2021-12-07,7 Desember 2021,4375000000,KOMPAS100,Aktif
+772,RMKO,BEI:RMKO,IDX:RMKO,RMKO.JK,IDX:RMKO,RMKO:IJ,Royaltama Mulia Kontraktorindo Tbk.,Energy,Energi,Pengembangan,2023-07-31,31 Juli 2023,1250000000,-,Aktif
+773,ROCK,BEI:ROCK,IDX:ROCK,ROCK.JK,IDX:ROCK,ROCK:IJ,Rockfields Properti Indonesia Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2020-09-10,10 September 2020,1435185100,-,Aktif
+774,RODA,BEI:RODA,IDX:RODA,RODA.JK,IDX:RODA,RODA:IJ,Pikko Land Development Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2001-10-22,22 Oktober 2001,13592128209,-,Aktif
+775,RONY,BEI:RONY,IDX:RONY,RONY.JK,IDX:RONY,RONY:IJ,Aesler Grup Internasional Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2020-04-09,9 April 2020,1250000000,-,Aktif
+776,ROTI,BEI:ROTI,IDX:ROTI,ROTI.JK,IDX:ROTI,ROTI:IJ,Nippon Indosari Corpindo Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2010-06-28,28 Juni 2010,6186488888,-,Aktif
+777,RSCH,BEI:RSCH,IDX:RSCH,RSCH.JK,IDX:RSCH,RSCH:IJ,Charlie Hospital Semarang Tbk.,Healthcare,Kesehatan,Pengembangan,2023-08-28,28 Agustus 2023,2650000000,-,Aktif
+778,RSGK,BEI:RSGK,IDX:RSGK,RSGK.JK,IDX:RSGK,RSGK:IJ,Kedoya Adyaraya Tbk.,Healthcare,Kesehatan,Utama,2021-09-08,8 September 2021,929675000,-,Aktif
+779,RUIS,BEI:RUIS,IDX:RUIS,RUIS.JK,IDX:RUIS,RUIS:IJ,Radiant Utama Interinsco Tbk.,Energy,Energi,Pengembangan,2006-07-12,12 Juli 2006,770000000,-,Aktif
+780,RUNS,BEI:RUNS,IDX:RUNS,RUNS.JK,IDX:RUNS,RUNS:IJ,Global Sukses Solusi Tbk.,Technology,Teknologi,Akselerasi,2021-09-08,8 September 2021,983557875,-,Aktif
+781,SAFE,BEI:SAFE,IDX:SAFE,SAFE.JK,IDX:SAFE,SAFE:IJ,Steady Safe Tbk,Transportation & Logistics,Transportasi & Logistik,Pengembangan,1994-08-15,15 Agustus 1994,615145012,-,Aktif
+782,SAGE,BEI:SAGE,IDX:SAGE,SAGE.JK,IDX:SAGE,SAGE:IJ,Saausaha Gemilangindah Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2023-03-08,8 Maret 2023,8033267616,-,Aktif
+783,SAME,BEI:SAME,IDX:SAME,SAME.JK,IDX:SAME,SAME:IJ,Sarana Meditama Metropolitan Tbk,Healthcare,Kesehatan,Utama,2013-01-11,11 Januari 2013,17147132545,-,Aktif
+784,SAMF,BEI:SAMF,IDX:SAMF,SAMF.JK,IDX:SAMF,SAMF:IJ,Saraswanti Anugerah Makmur Tbk,Basic Materials,Barang Baku,Utama,2020-03-31,31 Maret 2020,5125000000,-,Aktif
+785,SAPX,BEI:SAPX,IDX:SAPX,SAPX.JK,IDX:SAPX,SAPX:IJ,Satria Antaran Prima Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2018-10-03,3 Oktober 2018,833333300,-,Aktif
+786,SATU,BEI:SATU,IDX:SATU,SATU.JK,IDX:SATU,SATU:IJ,Kota Satu Properti Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2018-11-05,5 November 2018,1375000000,-,Aktif
+787,SBAT,BEI:SBAT,IDX:SBAT,SBAT.JK,IDX:SBAT,SBAT:IJ,Sejahtera Bintang Abadi Textile Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2020-04-08,8 April 2020,4752982378,-,Aktif
+788,SBMA,BEI:SBMA,IDX:SBMA,SBMA.JK,IDX:SBMA,SBMA:IJ,Surya Biru Murni Acetylene Tbk,Basic Materials,Barang Baku,Pengembangan,2021-09-08,8 September 2021,929926282,-,Aktif
+789,SCCO,BEI:SCCO,IDX:SCCO,SCCO.JK,IDX:SCCO,SCCO:IJ,Supreme Cable Manufacturing Commerce Tbk,Industrials,Perindustrian,Pengembangan,1982-07-20,20 Juli 1982,822333600,-,Aktif
+790,SCMA,BEI:SCMA,IDX:SCMA,SCMA.JK,IDX:SCMA,SCMA:IJ,Surya Citra Media Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2002-07-16,16 Juli 2002,73970569505,"LQ45, KOMPAS100, PEFINDO25",Aktif
+791,SCNP,BEI:SCNP,IDX:SCNP,SCNP.JK,IDX:SCNP,SCNP:IJ,Selaras Citra Nusantara Perkasa Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2020-09-07,7 September 2020,2500000000,-,Aktif
+792,SCPI,BEI:SCPI,IDX:SCPI,SCPI.JK,IDX:SCPI,SCPI:IJ,Organon Pharma Indonesia Tbk.,Healthcare,Kesehatan,Pengembangan,1990-06-08,8 Juni 1990,3600000,-,Aktif
+793,SDMU,BEI:SDMU,IDX:SDMU,SDMU.JK,IDX:SDMU,SDMU:IJ,Sidomulyo Selaras Tbk.,Transportation & Logistics,Transportasi & Logistik,Pemantauan Khusus,2011-07-12,12 Juli 2011,1135225000,-,Aktif
+794,SDPC,BEI:SDPC,IDX:SDPC,SDPC.JK,IDX:SDPC,SDPC:IJ,Millennium Pharmacon International Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1990-05-07,7 Mei 1990,1274000000,-,Aktif
+795,SDRA,BEI:SDRA,IDX:SDRA,SDRA.JK,IDX:SDRA,SDRA:IJ,Bank Woori Indonesia Tbk.,Financials,Keuangan,Utama,2006-12-15,15 Desember 2006,14545267990,-,Aktif
+796,SEMA,BEI:SEMA,IDX:SEMA,SEMA.JK,IDX:SEMA,SEMA:IJ,Semacom Integrated Tbk.,Energy,Energi,Pengembangan,2022-01-10,10 Januari 2022,1347258842,-,Aktif
+797,SFAN,BEI:SFAN,IDX:SFAN,SFAN.JK,IDX:SFAN,SFAN:IJ,Surya Fajar Capital Tbk.,Financials,Keuangan,Pengembangan,2019-06-19,19 Juni 2019,1359934021,-,Aktif
+798,SGER,BEI:SGER,IDX:SGER,SGER.JK,IDX:SGER,SGER:IJ,Sumber Global Energy Tbk.,Energy,Energi,Pengembangan,2020-08-10,10 Agustus 2020,15586909438,KOMPAS100,Aktif
+799,SGRO,BEI:SGRO,IDX:SGRO,SGRO.JK,IDX:SGRO,SGRO:IJ,Prime Agro Resources Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2007-06-18,18 Juni 2007,1818622000,-,Aktif
+800,SHID,BEI:SHID,IDX:SHID,SHID.JK,IDX:SHID,SHID:IJ,Hotel Sahid Jaya International Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1990-05-08,8 Mei 1990,1119326168,-,Aktif
+801,SHIP,BEI:SHIP,IDX:SHIP,SHIP.JK,IDX:SHIP,SHIP:IJ,Sillo Maritime Perdana Tbk.,Energy,Energi,Utama,2016-06-16,16 Juni 2016,2719790000,-,Aktif
+802,SICO,BEI:SICO,IDX:SICO,SICO.JK,IDX:SICO,SICO:IJ,Sigma Energy Compressindo Tbk.,Energy,Energi,Pengembangan,2022-04-08,8 April 2022,910052814,-,Aktif
+803,SIDO,BEI:SIDO,IDX:SIDO,SIDO.JK,IDX:SIDO,SIDO:IJ,Industri Jamu dan Farmasi Sido Muncul Tbk,Healthcare,Kesehatan,Utama,2013-12-18,18 Desember 2013,30000000000,-,Aktif
+804,SILO,BEI:SILO,IDX:SILO,SILO.JK,IDX:SILO,SILO:IJ,Siloam International Hospitals Tbk,Healthcare,Kesehatan,Utama,2013-09-12,12 September 2013,13006125000,-,Aktif
+805,SIMA,BEI:SIMA,IDX:SIMA,SIMA.JK,IDX:SIMA,SIMA:IJ,Siwani Makmur Tbk,Basic Materials,Barang Baku,Pemantauan Khusus,1994-06-03,3 Juni 1994,442589871,-,Aktif
+806,SIMP,BEI:SIMP,IDX:SIMP,SIMP.JK,IDX:SIMP,SIMP:IJ,Salim Ivomas Pratama Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2011-06-09,9 Juni 2011,15501310000,-,Aktif
+807,SINI,BEI:SINI,IDX:SINI,SINI.JK,IDX:SINI,SINI:IJ,Singaraja Putra Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2019-11-08,8 November 2019,481000000,-,Aktif
+808,SIPD,BEI:SIPD,IDX:SIPD,SIPD.JK,IDX:SIPD,SIPD:IJ,Sreeya Sewu Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1996-12-27,27 Desember 1996,1839102056,-,Aktif
+809,SKBM,BEI:SKBM,IDX:SKBM,SKBM.JK,IDX:SKBM,SKBM:IJ,Sekar Bumi Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2012-09-28,28 September 2012,1730103217,-,Aktif
+810,SKLT,BEI:SKLT,IDX:SKLT,SKLT.JK,IDX:SKLT,SKLT:IJ,Sekar Laut Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1993-09-08,8 September 1993,6907405000,-,Aktif
+811,SKRN,BEI:SKRN,IDX:SKRN,SKRN.JK,IDX:SKRN,SKRN:IJ,Superkrane Mitra Utama Tbk.,Industrials,Perindustrian,Pengembangan,2018-10-11,11 Oktober 2018,7500000000,-,Aktif
+812,SKYB,BEI:SKYB,IDX:SKYB,SKYB.JK,IDX:SKYB,SKYB:IJ,Skybee Tbk,Technology,Teknologi,Pemantauan Khusus,2010-07-07,7 Juli 2010,585000000,-,Aktif
+813,SLIS,BEI:SLIS,IDX:SLIS,SLIS.JK,IDX:SLIS,SLIS:IJ,Gaya Abadi Sempurna Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2019-10-07,7 Oktober 2019,2463335910,-,Aktif
+814,SMAR,BEI:SMAR,IDX:SMAR,SMAR.JK,IDX:SMAR,SMAR:IJ,Sinar Mas Agro Resources and Technology Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1992-11-20,20 November 1992,2872193366,-,Aktif
+815,SMBR,BEI:SMBR,IDX:SMBR,SMBR.JK,IDX:SMBR,SMBR:IJ,Semen Baturaja Tbk.,Basic Materials,Barang Baku,Utama,2013-06-28,28 Juni 2013,9932534336,-,Aktif
+816,SMCB,BEI:SMCB,IDX:SMCB,SMCB.JK,IDX:SMCB,SMCB:IJ,Solusi Bangun Indonesia Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,1977-08-10,10 Agustus 1977,9019381973,-,Aktif
+817,SMDM,BEI:SMDM,IDX:SMDM,SMDM.JK,IDX:SMDM,SMDM:IJ,Suryamas Dutamakmur Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,1995-10-12,12 Oktober 1995,4772138237,-,Aktif
+818,SMDR,BEI:SMDR,IDX:SMDR,SMDR.JK,IDX:SMDR,SMDR:IJ,Samudera Indonesia Tbk.,Transportation & Logistics,Transportasi & Logistik,Utama,1999-07-05,5 Juli 1999,16375600000,PEFINDO25,Aktif
+819,SMGA,BEI:SMGA,IDX:SMGA,SMGA.JK,IDX:SMGA,SMGA:IJ,Sumber Mineral Global Abadi Tbk,Basic Materials,Barang Baku,Pengembangan,2024-01-30,30 Januari 2024,8750000000,-,Aktif
+820,SMGR,BEI:SMGR,IDX:SMGR,SMGR.JK,IDX:SMGR,SMGR:IJ,Semen Indonesia (Persero) Tbk.,Basic Materials,Barang Baku,Utama,1991-07-08,8 Juli 1991,6751540089,KOMPAS100,Aktif
+821,SMIL,BEI:SMIL,IDX:SMIL,SMIL.JK,IDX:SMIL,SMIL:IJ,Sarana Mitra Luas Tbk.,Industrials,Perindustrian,Utama,2023-05-12,12 Mei 2023,8750159119,KOMPAS100,Aktif
+822,SMKL,BEI:SMKL,IDX:SMKL,SMKL.JK,IDX:SMKL,SMKL:IJ,Satyamitra Kemas Lestari Tbk.,Basic Materials,Barang Baku,Pengembangan,2019-07-11,11 Juli 2019,3418085290,-,Aktif
+823,SMKM,BEI:SMKM,IDX:SMKM,SMKM.JK,IDX:SMKM,SMKM:IJ,Sumber Mas Konstruksi Tbk.,Infrastructure,Infrastruktur,Akselerasi,2022-03-09,9 Maret 2022,1253000000,-,Aktif
+824,SMLE,BEI:SMLE,IDX:SMLE,SMLE.JK,IDX:SMLE,SMLE:IJ,Sinergi Multi Lestarindo Tbk.,Basic Materials,Barang Baku,Pengembangan,2024-01-10,10 Januari 2024,2328136763,-,Aktif
+825,SMMA,BEI:SMMA,IDX:SMMA,SMMA.JK,IDX:SMMA,SMMA:IJ,Sinarmas Multiartha Tbk.,Financials,Keuangan,Utama,1995-07-05,5 Juli 1995,6367664717,-,Aktif
+826,SMMT,BEI:SMMT,IDX:SMMT,SMMT.JK,IDX:SMMT,SMMT:IJ,Golden Eagle Energy Tbk.,Energy,Energi,Pemantauan Khusus,1997-12-01,1 Desember 1997,3150000000,-,Aktif
+827,SMRA,BEI:SMRA,IDX:SMRA,SMRA.JK,IDX:SMRA,SMRA:IJ,Summarecon Agung Tbk.,Properties & Real Estate,Properti & Real Estat,Utama,1990-05-07,7 Mei 1990,16508568358,KOMPAS100,Aktif
+828,SMRU,BEI:SMRU,IDX:SMRU,SMRU.JK,IDX:SMRU,SMRU:IJ,SMR Utama Tbk.,Energy,Energi,Pemantauan Khusus,2011-10-10,10 Oktober 2011,12499385782,-,Aktif
+829,SMSM,BEI:SMSM,IDX:SMSM,SMSM.JK,IDX:SMSM,SMSM:IJ,Selamat Sempurna Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,1996-09-09,9 September 1996,5758675440,-,Aktif
+830,SNLK,BEI:SNLK,IDX:SNLK,SNLK.JK,IDX:SNLK,SNLK:IJ,Sunter Lakeside Hotel Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2021-03-29,29 Maret 2021,450000000,-,Aktif
+831,SOCI,BEI:SOCI,IDX:SOCI,SOCI.JK,IDX:SOCI,SOCI:IJ,Soechi Lines Tbk.,Energy,Energi,Utama,2014-12-03,3 Desember 2014,7059000000,-,Aktif
+832,SOFA,BEI:SOFA,IDX:SOFA,SOFA.JK,IDX:SOFA,SOFA:IJ,Solusi Environment Asia Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2020-07-07,7 Juli 2020,1653574499,-,Aktif
+833,SOHO,BEI:SOHO,IDX:SOHO,SOHO.JK,IDX:SOHO,SOHO:IJ,Soho Global Health Tbk.,Healthcare,Kesehatan,Pengembangan,2020-09-08,8 September 2020,12691682390,-,Aktif
+834,SOLA,BEI:SOLA,IDX:SOLA,SOLA.JK,IDX:SOLA,SOLA:IJ,Xolare RCR Energy Tbk.,Basic Materials,Barang Baku,Pengembangan,2024-05-08,8 Mei 2024,3281250000,-,Aktif
+835,SONA,BEI:SONA,IDX:SONA,SONA.JK,IDX:SONA,SONA:IJ,Sona Topas Tourism Industry Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,1992-07-21,21 Juli 1992,662400000,-,Aktif
+836,SOSS,BEI:SOSS,IDX:SOSS,SOSS.JK,IDX:SOSS,SOSS:IJ,Shield On Service Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2018-11-06,6 November 2018,799414231,-,Aktif
+837,SOTS,BEI:SOTS,IDX:SOTS,SOTS.JK,IDX:SOTS,SOTS:IJ,Satria Mega Kencana Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2018-12-10,10 Desember 2018,1000003979,-,Aktif
+838,SOUL,BEI:SOUL,IDX:SOUL,SOUL.JK,IDX:SOUL,SOUL:IJ,Mitra Tirta Buwana Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2023-01-06,6 Januari 2023,1082526223,-,Aktif
+839,SPMA,BEI:SPMA,IDX:SPMA,SPMA.JK,IDX:SPMA,SPMA:IJ,Suparma Tbk.,Basic Materials,Barang Baku,Pengembangan,1994-11-16,16 November 1994,3154092216,-,Aktif
+840,SPRE,BEI:SPRE,IDX:SPRE,SPRE.JK,IDX:SPRE,SPRE:IJ,Soraya Berjaya Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Akselerasi,2024-07-03,3 Juli 2024,800000000,-,Aktif
+841,SPTO,BEI:SPTO,IDX:SPTO,SPTO.JK,IDX:SPTO,SPTO:IJ,Surya Pertiwi Tbk.,Industrials,Perindustrian,Utama,2018-05-14,14 Mei 2018,2700000000,-,Aktif
+842,SQMI,BEI:SQMI,IDX:SQMI,SQMI.JK,IDX:SQMI,SQMI:IJ,Wilton Makmur Indonesia Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2004-07-15,15 Juli 2004,15537591429,-,Aktif
+843,SRAJ,BEI:SRAJ,IDX:SRAJ,SRAJ.JK,IDX:SRAJ,SRAJ:IJ,Sejahteraraya Anugrahjaya Tbk.,Healthcare,Kesehatan,Utama,2011-04-11,11 April 2011,12000705445,-,Aktif
+844,SRIL,BEI:SRIL,IDX:SRIL,SRIL.JK,IDX:SRIL,SRIL:IJ,Sri Rejeki Isman Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2013-06-17,17 Juni 2013,20452176844,-,Aktif
+845,SRSN,BEI:SRSN,IDX:SRSN,SRSN.JK,IDX:SRSN,SRSN:IJ,Indo Acidatama Tbk,Basic Materials,Barang Baku,Pengembangan,1993-01-11,11 Januari 1993,6020000000,-,Aktif
+846,SRTG,BEI:SRTG,IDX:SRTG,SRTG.JK,IDX:SRTG,SRTG:IJ,Saratoga Investama Sedaya Tbk.,Financials,Keuangan,Utama,2013-06-26,26 Juni 2013,13564835000,-,Aktif
+847,SSIA,BEI:SSIA,IDX:SSIA,SSIA.JK,IDX:SSIA,SSIA:IJ,Surya Semesta Internusa Tbk.,Infrastructure,Infrastruktur,Utama,1997-03-27,27 Maret 1997,4705249440,KOMPAS100,Aktif
+848,SSMS,BEI:SSMS,IDX:SSMS,SSMS.JK,IDX:SSMS,SSMS:IJ,Sawit Sumbermas Sarana Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2013-12-12,12 Desember 2013,9525000000,-,Aktif
+849,SSTM,BEI:SSTM,IDX:SSTM,SSTM.JK,IDX:SSTM,SSTM:IJ,Sunson Textile Manufacture Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1997-08-20,20 Agustus 1997,1170909181,-,Aktif
+850,STAA,BEI:STAA,IDX:STAA,STAA.JK,IDX:STAA,STAA:IJ,Sumber Tani Agung Resources Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2022-03-10,10 Maret 2022,10903372600,-,Aktif
+851,STAR,BEI:STAR,IDX:STAR,STAR.JK,IDX:STAR,STAR:IJ,Calculus Global Ventures Tbk,Financials,Keuangan,Pengembangan,2011-07-13,13 Juli 2011,4800000602,-,Aktif
+852,STRK,BEI:STRK,IDX:STRK,STRK.JK,IDX:STRK,STRK:IJ,Lovina Beach Brewery Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2023-10-10,10 Oktober 2023,10721835562,-,Aktif
+853,STTP,BEI:STTP,IDX:STTP,STTP.JK,IDX:STTP,STTP:IJ,Siantar Top Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1996-12-16,16 Desember 1996,1310000000,-,Aktif
+854,SUGI,BEI:SUGI,IDX:SUGI,SUGI.JK,IDX:SUGI,SUGI:IJ,Sugih Energy Tbk.,Energy,Energi,Pemantauan Khusus,2002-06-19,19 Juni 2002,24811541414,-,Aktif
+855,SULI,BEI:SULI,IDX:SULI,SULI.JK,IDX:SULI,SULI:IJ,SLJ Global Tbk.,Basic Materials,Barang Baku,Pengembangan,1994-03-21,21 Maret 1994,5920776836,-,Aktif
+856,SUNI,BEI:SUNI,IDX:SUNI,SUNI.JK,IDX:SUNI,SUNI:IJ,Sunindo Pratama Tbk.,Energy,Energi,Utama,2023-01-09,9 Januari 2023,2500000000,-,Aktif
+857,SUPA,BEI:SUPA,IDX:SUPA,SUPA.JK,IDX:SUPA,SUPA:IJ,Super Bank Indonesia Tbk.,Financials,Keuangan,Pengembangan,2025-12-17,17 Desember 2025,29377415300,-,Aktif
+858,SUPR,BEI:SUPR,IDX:SUPR,SUPR.JK,IDX:SUPR,SUPR:IJ,Solusi Tunas Pratama Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2011-10-11,11 Oktober 2011,1137579698,-,Aktif
+859,SURE,BEI:SURE,IDX:SURE,SURE.JK,IDX:SURE,SURE:IJ,Super Energy Tbk.,Energy,Energi,Pengembangan,2018-10-05,5 Oktober 2018,1497576771,-,Aktif
+860,SURI,BEI:SURI,IDX:SURI,SURI.JK,IDX:SURI,SURI:IJ,Maja Agung Latexindo Tbk.,Healthcare,Kesehatan,Pengembangan,2023-12-07,7 Desember 2023,6334375000,-,Aktif
+861,SWAT,BEI:SWAT,IDX:SWAT,SWAT.JK,IDX:SWAT,SWAT:IJ,Sriwahana Adityakarta Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2018-06-08,8 Juni 2018,3019200000,-,Aktif
+862,SWID,BEI:SWID,IDX:SWID,SWID.JK,IDX:SWID,SWID:IJ,Saraswanti Indoland Development Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2022-07-07,7 Juli 2022,5385019201,-,Aktif
+863,TALF,BEI:TALF,IDX:TALF,TALF.JK,IDX:TALF,TALF:IJ,Tunas Alfin Tbk.,Basic Materials,Barang Baku,Pengembangan,2014-01-17,17 Januari 2014,1353435000,-,Aktif
+864,TAMA,BEI:TAMA,IDX:TAMA,TAMA.JK,IDX:TAMA,TAMA:IJ,Lancartama Sejati Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2020-02-10,10 Februari 2020,1200000696,-,Aktif
+865,TAMU,BEI:TAMU,IDX:TAMU,TAMU.JK,IDX:TAMU,TAMU:IJ,Pelayaran Tamarin Samudra Tbk.,Energy,Energi,Pemantauan Khusus,2017-05-10,10 Mei 2017,37500000000,-,Aktif
+866,TAPG,BEI:TAPG,IDX:TAPG,TAPG.JK,IDX:TAPG,TAPG:IJ,Triputra Agro Persada Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2021-04-12,12 April 2021,19852540000,"KOMPAS100, PEFINDO25",Aktif
+867,TARA,BEI:TARA,IDX:TARA,TARA.JK,IDX:TARA,TARA:IJ,Agung Semesta Sejahtera Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2014-07-11,11 Juli 2014,10069645750,-,Aktif
+868,TAXI,BEI:TAXI,IDX:TAXI,TAXI.JK,IDX:TAXI,TAXI:IJ,Express Transindo Utama Tbk.,Transportation & Logistics,Transportasi & Logistik,Pemantauan Khusus,2012-11-02,2 November 2012,10223647156,-,Aktif
+869,TAYS,BEI:TAYS,IDX:TAYS,TAYS.JK,IDX:TAYS,TAYS:IJ,Jaya Swarasa Agung Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2021-12-06,6 Desember 2021,1098920000,-,Aktif
+870,TBIG,BEI:TBIG,IDX:TBIG,TBIG.JK,IDX:TBIG,TBIG:IJ,Tower Bersama Infrastructure Tbk,Infrastructure,Infrastruktur,Utama,2010-10-26,26 Oktober 2010,22656999445,-,Aktif
+871,TBLA,BEI:TBLA,IDX:TBLA,TBLA.JK,IDX:TBLA,TBLA:IJ,Tunas Baru Lampung Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2000-02-14,14 Februari 2000,6025373372,-,Aktif
+872,TBMS,BEI:TBMS,IDX:TBMS,TBMS.JK,IDX:TBMS,TBMS:IJ,Tembaga Mulia Semanan Tbk.,Basic Materials,Barang Baku,Pengembangan,1990-05-23,23 Mei 1990,734680000,-,Aktif
+873,TCID,BEI:TCID,IDX:TCID,TCID.JK,IDX:TCID,TCID:IJ,Mandom Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1993-09-30,30 September 1993,402133334,-,Aktif
+874,TCPI,BEI:TCPI,IDX:TCPI,TCPI.JK,IDX:TCPI,TCPI:IJ,Transcoal Pacific Tbk.,Energy,Energi,Pengembangan,2018-07-06,6 Juli 2018,5000000000,-,Aktif
+875,TDPM,BEI:TDPM,IDX:TDPM,TDPM.JK,IDX:TDPM,TDPM:IJ,Tridomain Performance Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2018-04-09,9 April 2018,10485050500,-,Aktif
+876,TEBE,BEI:TEBE,IDX:TEBE,TEBE.JK,IDX:TEBE,TEBE:IJ,Dana Brata Luhur Tbk.,Energy,Energi,Utama,2019-11-18,18 November 2019,1285000000,-,Aktif
+877,TECH,BEI:TECH,IDX:TECH,TECH.JK,IDX:TECH,TECH:IJ,Indosterling Technomedia Tbk.,Technology,Teknologi,Pemantauan Khusus,2020-06-04,4 Juni 2020,1256300000,-,Aktif
+878,TELE,BEI:TELE,IDX:TELE,TELE.JK,IDX:TELE,TELE:IJ,Omni Inovasi Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2012-01-12,12 Januari 2012,7310929389,-,Aktif
+879,TFAS,BEI:TFAS,IDX:TFAS,TFAS.JK,IDX:TFAS,TFAS:IJ,Telefast Indonesia Tbk.,Technology,Teknologi,Pengembangan,2019-09-17,17 September 2019,1666666500,-,Aktif
+880,TFCO,BEI:TFCO,IDX:TFCO,TFCO.JK,IDX:TFCO,TFCO:IJ,Tifico Fiber Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,1980-02-26,26 Februari 1980,4823076400,-,Aktif
+881,TGKA,BEI:TGKA,IDX:TGKA,TGKA.JK,IDX:TGKA,TGKA:IJ,Tigaraksa Satria Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,1990-06-11,11 Juni 1990,918492750,-,Aktif
+882,TGRA,BEI:TGRA,IDX:TGRA,TGRA.JK,IDX:TGRA,TGRA:IJ,Terregra Asia Energy Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2017-05-16,16 Mei 2017,2750000000,-,Aktif
+883,TGUK,BEI:TGUK,IDX:TGUK,TGUK.JK,IDX:TGUK,TGUK:IJ,Platinum Wahab Nusantara Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2023-07-10,10 Juli 2023,3571451815,-,Aktif
+884,TIFA,BEI:TIFA,IDX:TIFA,TIFA.JK,IDX:TIFA,TIFA:IJ,KDB Tifa Finance Tbk.,Financials,Keuangan,Pemantauan Khusus,2011-07-08,8 Juli 2011,3552213000,-,Aktif
+885,TINS,BEI:TINS,IDX:TINS,TINS.JK,IDX:TINS,TINS:IJ,Timah Tbk.,Basic Materials,Barang Baku,Utama,1995-10-19,19 Oktober 1995,7447753454,KOMPAS100,Aktif
+886,TIRA,BEI:TIRA,IDX:TIRA,TIRA.JK,IDX:TIRA,TIRA:IJ,Tira Austenite Tbk,Industrials,Perindustrian,Pengembangan,1993-07-27,27 Juli 1993,588000000,-,Aktif
+887,TIRT,BEI:TIRT,IDX:TIRT,TIRT.JK,IDX:TIRT,TIRT:IJ,Tirta Mahakam Resources Tbk,Basic Materials,Barang Baku,Pemantauan Khusus,1999-12-13,13 Desember 1999,1011774750,-,Aktif
+888,TKIM,BEI:TKIM,IDX:TKIM,TKIM.JK,IDX:TKIM,TKIM:IJ,Pabrik Kertas Tjiwi Kimia Tbk.,Basic Materials,Barang Baku,Utama,1990-04-03,3 April 1990,3113223570,-,Aktif
+889,TLDN,BEI:TLDN,IDX:TLDN,TLDN.JK,IDX:TLDN,TLDN:IJ,Teladan Prima Agro Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2022-04-12,12 April 2022,12946530200,-,Aktif
+890,TLKM,BEI:TLKM,IDX:TLKM,TLKM.JK,IDX:TLKM,TLKM:IJ,Telkom Indonesia (Persero) Tbk.,Infrastructure,Infrastruktur,Utama,1995-11-14,14 November 1995,99062216600,"LQ45, KOMPAS100",Aktif
+891,TMAS,BEI:TMAS,IDX:TMAS,TMAS.JK,IDX:TMAS,TMAS:IJ,Temas Tbk.,Transportation & Logistics,Transportasi & Logistik,Utama,2003-07-09,9 Juli 2003,57051500000,-,Aktif
+892,TMPO,BEI:TMPO,IDX:TMPO,TMPO.JK,IDX:TMPO,TMPO:IJ,Tempo Intimedia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2001-01-08,8 Januari 2001,1058333250,-,Aktif
+893,TNCA,BEI:TNCA,IDX:TNCA,TNCA.JK,IDX:TNCA,TNCA:IJ,Trimuda Nuansa Citra Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2018-06-28,28 Juni 2018,421640000,-,Aktif
+894,TOBA,BEI:TOBA,IDX:TOBA,TOBA.JK,IDX:TOBA,TOBA:IJ,TBS Energi Utama Tbk.,Energy,Energi,Utama,2012-07-06,6 Juli 2012,8167826970,KOMPAS100,Aktif
+895,TOOL,BEI:TOOL,IDX:TOOL,TOOL.JK,IDX:TOOL,TOOL:IJ,Rohartindo Nusantara Luas Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2022-08-09,9 Agustus 2022,2050020320,-,Aktif
+896,TOPS,BEI:TOPS,IDX:TOPS,TOPS.JK,IDX:TOPS,TOPS:IJ,Totalindo Eka Persada Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2017-06-16,16 Juni 2017,33330000000,-,Aktif
+897,TOSK,BEI:TOSK,IDX:TOSK,TOSK.JK,IDX:TOSK,TOSK:IJ,Topindo Solusi Komunika Tbk.,Technology,Teknologi,Pengembangan,2024-02-07,7 Februari 2024,4375199253,-,Aktif
+898,TOTL,BEI:TOTL,IDX:TOTL,TOTL.JK,IDX:TOTL,TOTL:IJ,Total Bangun Persada Tbk.,Infrastructure,Infrastruktur,Utama,2006-07-25,25 Juli 2006,3410000000,-,Aktif
+899,TOTO,BEI:TOTO,IDX:TOTO,TOTO.JK,IDX:TOTO,TOTO:IJ,Surya Toto Indonesia Tbk.,Industrials,Perindustrian,Pengembangan,1990-10-30,30 Oktober 1990,10320000000,-,Aktif
+900,TOWR,BEI:TOWR,IDX:TOWR,TOWR.JK,IDX:TOWR,TOWR:IJ,Sarana Menara Nusantara Tbk.,Infrastructure,Infrastruktur,Utama,2010-03-08,8 Maret 2010,51014625000,KOMPAS100,Aktif
+901,TOYS,BEI:TOYS,IDX:TOYS,TOYS.JK,IDX:TOYS,TOYS:IJ,Sunindo Adipersada Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2020-08-06,6 Agustus 2020,1435000712,-,Aktif
+902,TPIA,BEI:TPIA,IDX:TPIA,TPIA.JK,IDX:TPIA,TPIA:IJ,Chandra Asri Pacific Tbk.,Basic Materials,Barang Baku,Pengembangan,2008-05-26,26 Mei 2008,86511545092,KOMPAS100,Aktif
+903,TPMA,BEI:TPMA,IDX:TPMA,TPMA.JK,IDX:TPMA,TPMA:IJ,Trans Power Marine Tbk.,Energy,Energi,Utama,2013-02-20,20 Februari 2013,3507420034,-,Aktif
+904,TRAM,BEI:TRAM,IDX:TRAM,TRAM.JK,IDX:TRAM,TRAM:IJ,Trada Alam Minera Tbk.,Energy,Energi,Pemantauan Khusus,2008-09-10,10 September 2008,49643627934,-,Aktif
+905,TRGU,BEI:TRGU,IDX:TRGU,TRGU.JK,IDX:TRGU,TRGU:IJ,Cerestar Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2022-07-08,8 Juli 2022,7945412700,-,Aktif
+906,TRIL,BEI:TRIL,IDX:TRIL,TRIL.JK,IDX:TRIL,TRIL:IJ,Triwira Insanlestari Tbk.,Industrials,Perindustrian,Pemantauan Khusus,2008-01-28,28 Januari 2008,1200000000,-,Aktif
+907,TRIM,BEI:TRIM,IDX:TRIM,TRIM.JK,IDX:TRIM,TRIM:IJ,Trimegah Securities Tbk,Financials,Keuangan,Utama,2000-01-31,31 Januari 2000,7109300000,-,Aktif
+908,TRIN,BEI:TRIN,IDX:TRIN,TRIN.JK,IDX:TRIN,TRIN:IJ,Perintis Triniti Properti Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2020-01-15,15 Januari 2020,4551457346,-,Aktif
+909,TRIO,BEI:TRIO,IDX:TRIO,TRIO.JK,IDX:TRIO,TRIO:IJ,Trikomsel Oke Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2009-04-14,14 April 2009,26007494645,-,Aktif
+910,TRIS,BEI:TRIS,IDX:TRIS,TRIS.JK,IDX:TRIS,TRIS:IJ,Trisula International Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2012-06-28,28 Juni 2012,3141443831,-,Aktif
+911,TRJA,BEI:TRJA,IDX:TRJA,TRJA.JK,IDX:TRJA,TRJA:IJ,Transkon Jaya Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2020-08-27,27 Agustus 2020,1510200000,-,Aktif
+912,TRON,BEI:TRON,IDX:TRON,TRON.JK,IDX:TRON,TRON:IJ,Teknologi Karya Digital Nusa Tbk,Technology,Teknologi,Pengembangan,2023-03-08,8 Maret 2023,2951293160,-,Aktif
+913,TRST,BEI:TRST,IDX:TRST,TRST.JK,IDX:TRST,TRST:IJ,Trias Sentosa Tbk.,Basic Materials,Barang Baku,Pengembangan,1990-07-02,2 Juli 1990,2808000000,-,Aktif
+914,TRUE,BEI:TRUE,IDX:TRUE,TRUE.JK,IDX:TRUE,TRUE:IJ,Triniti Dinamik Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2021-06-10,10 Juni 2021,7571107860,-,Aktif
+915,TRUK,BEI:TRUK,IDX:TRUK,TRUK.JK,IDX:TRUK,TRUK:IJ,Guna Timur Raya Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2018-05-23,23 Mei 2018,435000000,-,Aktif
+916,TRUS,BEI:TRUS,IDX:TRUS,TRUS.JK,IDX:TRUS,TRUS:IJ,Trust Finance Indonesia Tbk,Financials,Keuangan,Pengembangan,2002-11-28,28 November 2002,800000000,-,Aktif
+917,TSPC,BEI:TSPC,IDX:TSPC,TSPC.JK,IDX:TSPC,TSPC:IJ,Tempo Scan Pacific Tbk.,Healthcare,Kesehatan,Utama,1994-06-17,17 Juni 1994,4509864300,-,Aktif
+918,TUGU,BEI:TUGU,IDX:TUGU,TUGU.JK,IDX:TUGU,TUGU:IJ,Asuransi Tugu Pratama Tbk.,Financials,Keuangan,Utama,2018-05-28,28 Mei 2018,3555575600,-,Aktif
+919,TYRE,BEI:TYRE,IDX:TYRE,TYRE.JK,IDX:TYRE,TYRE:IJ,King Tire Indonesia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2023-05-08,8 Mei 2023,3478044988,-,Aktif
+920,UANG,BEI:UANG,IDX:UANG,UANG.JK,IDX:UANG,UANG:IJ,Pakuan Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2020-07-06,6 Juli 2020,1210000000,-,Aktif
+921,UCID,BEI:UCID,IDX:UCID,UCID.JK,IDX:UCID,UCID:IJ,Uni-Charm Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2019-12-20,20 Desember 2019,4156572300,-,Aktif
+922,UDNG,BEI:UDNG,IDX:UDNG,UDNG.JK,IDX:UDNG,UDNG:IJ,Agro Bahari Nusantara Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Akselerasi,2023-10-31,31 Oktober 2023,1750040072,-,Aktif
+923,UFOE,BEI:UFOE,IDX:UFOE,UFOE.JK,IDX:UFOE,UFOE:IJ,Damai Sejahtera Abadi Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2021-02-01,1 Februari 2021,2287500000,-,Aktif
+924,ULTJ,BEI:ULTJ,IDX:ULTJ,ULTJ.JK,IDX:ULTJ,ULTJ:IJ,Ultra Jaya Milk Industry Trading Company Tbk,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1990-07-02,2 Juli 1990,11553528000,-,Aktif
+925,UNIC,BEI:UNIC,IDX:UNIC,UNIC.JK,IDX:UNIC,UNIC:IJ,Unggul Indah Cahaya Tbk.,Basic Materials,Barang Baku,Utama,1989-11-06,6 November 1989,383331363,-,Aktif
+926,UNIQ,BEI:UNIQ,IDX:UNIQ,UNIQ.JK,IDX:UNIQ,UNIQ:IJ,Ulima Nitra Tbk.,Energy,Energi,Utama,2021-03-08,8 Maret 2021,3138983000,-,Aktif
+927,UNIT,BEI:UNIT,IDX:UNIT,UNIT.JK,IDX:UNIT,UNIT:IJ,Nusantara Inti Corpora Tbk,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2002-04-18,18 April 2002,75422200,-,Aktif
+928,UNSP,BEI:UNSP,IDX:UNSP,UNSP.JK,IDX:UNSP,UNSP:IJ,Bakrie Sumatera Plantations Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,1990-03-06,6 Maret 1990,2500162344,-,Aktif
+929,UNTD,BEI:UNTD,IDX:UNTD,UNTD.JK,IDX:UNTD,UNTD:IJ,Terang Dunia Internusa Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2024-02-07,7 Februari 2024,6666666700,-,Aktif
+930,UNTR,BEI:UNTR,IDX:UNTR,UNTR.JK,IDX:UNTR,UNTR:IJ,United Tractors Tbk.,Industrials,Perindustrian,Utama,1989-09-19,19 September 1989,3730135136,"LQ45, KOMPAS100",Aktif
+931,UNVR,BEI:UNVR,IDX:UNVR,UNVR.JK,IDX:UNVR,UNVR:IJ,Unilever Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,1982-01-11,11 Januari 1982,38150000000,"LQ45, KOMPAS100, PEFINDO25",Aktif
+932,URBN,BEI:URBN,IDX:URBN,URBN.JK,IDX:URBN,URBN:IJ,Urban Jakarta Propertindo Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2018-12-10,10 Desember 2018,3232122640,-,Aktif
+933,UVCR,BEI:UVCR,IDX:UVCR,UVCR.JK,IDX:UVCR,UVCR:IJ,Trimegah Karya Pratama Tbk.,Technology,Teknologi,Pengembangan,2021-07-27,27 Juli 2021,2000144838,-,Aktif
+934,VAST,BEI:VAST,IDX:VAST,VAST.JK,IDX:VAST,VAST:IJ,Vastland Indonesia Tbk.,Properties & Real Estate,Properti & Real Estat,Pengembangan,2023-02-08,8 Februari 2023,3055712543,-,Aktif
+935,VERN,BEI:VERN,IDX:VERN,VERN.JK,IDX:VERN,VERN:IJ,Verona Indah Pictures Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2024-10-08,8 Oktober 2024,4765525000,-,Aktif
+936,VICI,BEI:VICI,IDX:VICI,VICI.JK,IDX:VICI,VICI:IJ,Victoria Care Indonesia Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2020-12-17,17 Desember 2020,6708000000,-,Aktif
+937,VICO,BEI:VICO,IDX:VICO,VICO.JK,IDX:VICO,VICO:IJ,Victoria Investama Tbk.,Financials,Keuangan,Pengembangan,2013-07-08,8 Juli 2013,15217075658,-,Aktif
+938,VINS,BEI:VINS,IDX:VINS,VINS.JK,IDX:VINS,VINS:IJ,Victoria Insurance Tbk.,Financials,Keuangan,Pengembangan,2015-09-28,28 September 2015,1460573616,-,Aktif
+939,VISI,BEI:VISI,IDX:VISI,VISI.JK,IDX:VISI,VISI:IJ,Satu Visi Putra Tbk.,Industrials,Perindustrian,Pengembangan,2024-02-27,27 Februari 2024,3075000000,-,Aktif
+940,VIVA,BEI:VIVA,IDX:VIVA,VIVA.JK,IDX:VIVA,VIVA:IJ,Visi Media Asia Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2011-11-21,21 November 2011,16464270400,-,Aktif
+941,VKTR,BEI:VKTR,IDX:VKTR,VKTR.JK,IDX:VKTR,VKTR:IJ,VKTR Teknologi Mobilitas Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2023-06-19,19 Juni 2023,43750000000,-,Aktif
+942,VOKS,BEI:VOKS,IDX:VOKS,VOKS.JK,IDX:VOKS,VOKS:IJ,Voksel Electric Tbk.,Industrials,Perindustrian,Pengembangan,1990-12-20,20 Desember 1990,4155602595,-,Aktif
+943,VRNA,BEI:VRNA,IDX:VRNA,VRNA.JK,IDX:VRNA,VRNA:IJ,Mizuho Leasing Indonesia Tbk.,Financials,Keuangan,Pengembangan,2008-06-25,25 Juni 2008,5687353997,-,Aktif
+944,VTNY,BEI:VTNY,IDX:VTNY,VTNY.JK,IDX:VTNY,VTNY:IJ,Venteny Fortuna International Tbk,Financials,Keuangan,Utama,2022-12-15,15 Desember 2022,6265193445,-,Aktif
+945,WAPO,BEI:WAPO,IDX:WAPO,WAPO.JK,IDX:WAPO,WAPO:IJ,Wahana Pronatural Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2001-06-22,22 Juni 2001,1240923111,-,Aktif
+946,WBSA,BEI:WBSA,IDX:WBSA,WBSA.JK,IDX:WBSA,WBSA:IJ,BSA Logistics Indonesia Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2026-04-10,10 April 2026,9000000000,-,Aktif
+947,WEGE,BEI:WEGE,IDX:WEGE,WEGE.JK,IDX:WEGE,WEGE:IJ,Wijaya Karya Bangunan Gedung Tbk.,Infrastructure,Infrastruktur,Utama,2017-11-30,30 November 2017,9572000000,-,Aktif
+948,WEHA,BEI:WEHA,IDX:WEHA,WEHA.JK,IDX:WEHA,WEHA:IJ,WEHA Transportasi Indonesia Tbk.,Transportation & Logistics,Transportasi & Logistik,Pengembangan,2007-05-31,31 Mei 2007,1460554819,-,Aktif
+949,WGSH,BEI:WGSH,IDX:WGSH,WGSH.JK,IDX:WGSH,WGSH:IJ,Wira Global Solusi Tbk.,Technology,Teknologi,Akselerasi,2021-12-06,6 Desember 2021,1042500000,-,Aktif
+950,WICO,BEI:WICO,IDX:WICO,WICO.JK,IDX:WICO,WICO:IJ,Wicaksana Overseas International Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,1994-08-08,8 Agustus 1994,2393710348,-,Aktif
+951,WIDI,BEI:WIDI,IDX:WIDI,WIDI.JK,IDX:WIDI,WIDI:IJ,Widiant Jaya Krenindo Tbk.,Industrials,Perindustrian,Akselerasi,2023-07-10,10 Juli 2023,1600031683,-,Aktif
+952,WIFI,BEI:WIFI,IDX:WIFI,WIFI.JK,IDX:WIFI,WIFI:IJ,Solusi Sinergi Digital Tbk.,Technology,Teknologi,Pengembangan,2020-12-30,30 Desember 2020,2359355118,"LQ45, KOMPAS100",Aktif
+953,WIIM,BEI:WIIM,IDX:WIIM,WIIM.JK,IDX:WIIM,WIIM:IJ,Wismilak Inti Makmur Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2012-12-18,18 Desember 2012,2099873760,-,Aktif
+954,WIKA,BEI:WIKA,IDX:WIKA,WIKA.JK,IDX:WIKA,WIKA:IJ,Wijaya Karya (Persero) Tbk.,Infrastructure,Infrastruktur,Pengembangan,2007-10-29,29 Oktober 2007,39873063858,-,Aktif
+955,WINE,BEI:WINE,IDX:WINE,WINE.JK,IDX:WINE,WINE:IJ,Hatten Bali Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pengembangan,2023-01-10,10 Januari 2023,2710000000,-,Aktif
+956,WINR,BEI:WINR,IDX:WINR,WINR.JK,IDX:WINR,WINR:IJ,Winner Nusantara Jaya Tbk.,Properties & Real Estate,Properti & Real Estat,Pemantauan Khusus,2022-04-25,25 April 2022,5235293038,-,Aktif
+957,WINS,BEI:WINS,IDX:WINS,WINS.JK,IDX:WINS,WINS:IJ,Wintermar Offshore Marine Tbk.,Energy,Energi,Utama,2010-11-29,29 November 2010,4364837057,-,Aktif
+958,WIRG,BEI:WIRG,IDX:WIRG,WIRG.JK,IDX:WIRG,WIRG:IJ,WIR ASIA Tbk.,Technology,Teknologi,Pengembangan,2022-04-04,4 April 2022,11938622394,KOMPAS100,Aktif
+959,WMPP,BEI:WMPP,IDX:WMPP,WMPP.JK,IDX:WMPP,WMPP:IJ,Widodo Makmur Perkasa Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2021-12-06,6 Desember 2021,29419000000,-,Aktif
+960,WMUU,BEI:WMUU,IDX:WMUU,WMUU.JK,IDX:WMUU,WMUU:IJ,Widodo Makmur Unggas Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Pemantauan Khusus,2021-02-02,2 Februari 2021,12941176500,-,Aktif
+961,WOMF,BEI:WOMF,IDX:WOMF,WOMF.JK,IDX:WOMF,WOMF:IJ,Wahana Ottomitra Multiartha Tbk,Financials,Keuangan,Pengembangan,2004-12-13,13 Desember 2004,3481481480,-,Aktif
+962,WOOD,BEI:WOOD,IDX:WOOD,WOOD.JK,IDX:WOOD,WOOD:IJ,Integra Indocabinet Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Utama,2017-06-21,21 Juni 2017,6437500000,-,Aktif
+963,WOWS,BEI:WOWS,IDX:WOWS,WOWS.JK,IDX:WOWS,WOWS:IJ,Ginting Jaya Energi Tbk.,Energy,Energi,Pemantauan Khusus,2019-11-08,8 November 2019,2475720000,-,Aktif
+964,WSBP,BEI:WSBP,IDX:WSBP,WSBP.JK,IDX:WSBP,WSBP:IJ,Waskita Beton Precast Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2016-09-20,20 September 2016,55085048699,-,Aktif
+965,WSKT,BEI:WSKT,IDX:WSKT,WSKT.JK,IDX:WSKT,WSKT:IJ,Waskita Karya (Persero) Tbk.,Infrastructure,Infrastruktur,Pemantauan Khusus,2012-12-19,19 Desember 2012,28806807016,-,Aktif
+966,WTON,BEI:WTON,IDX:WTON,WTON.JK,IDX:WTON,WTON:IJ,Wijaya Karya Beton Tbk.,Basic Materials,Barang Baku,Utama,2014-04-08,8 April 2014,8715466600,-,Aktif
+967,YELO,BEI:YELO,IDX:YELO,YELO.JK,IDX:YELO,YELO:IJ,Yelooo Integra Datanet Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2018-10-29,29 Oktober 2018,1912774405,-,Aktif
+968,YOII,BEI:YOII,IDX:YOII,YOII.JK,IDX:YOII,YOII:IJ,Asuransi Digital Bersama Tbk.,Financials,Keuangan,Pengembangan,2025-01-08,8 Januari 2025,3424687500,-,Aktif
+969,YPAS,BEI:YPAS,IDX:YPAS,YPAS.JK,IDX:YPAS,YPAS:IJ,Yanaprima Hastapersada Tbk,Basic Materials,Barang Baku,Pemantauan Khusus,2008-03-05,5 Maret 2008,668000089,-,Aktif
+970,YULE,BEI:YULE,IDX:YULE,YULE.JK,IDX:YULE,YULE:IJ,Yulie Sekuritas Indonesia Tbk.,Financials,Keuangan,Pengembangan,2004-12-10,10 Desember 2004,1785000000,-,Aktif
+971,YUPI,BEI:YUPI,IDX:YUPI,YUPI.JK,IDX:YUPI,YUPI:IJ,Yupi Indo Jelly Gum Tbk.,Consumer Non-Cyclicals,Barang Konsumen Primer,Utama,2025-03-25,25 Maret 2025,8544488700,-,Aktif
+972,ZATA,BEI:ZATA,IDX:ZATA,ZATA.JK,IDX:ZATA,ZATA:IJ,Bersama Zatta Jaya Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pemantauan Khusus,2022-11-10,10 November 2022,8496000000,-,Aktif
+973,ZBRA,BEI:ZBRA,IDX:ZBRA,ZBRA.JK,IDX:ZBRA,ZBRA:IJ,Dosni Roha Indonesia Tbk.,Industrials,Perindustrian,Pengembangan,1991-08-01,1 Agustus 1991,2510706263,-,Aktif
+974,ZINC,BEI:ZINC,IDX:ZINC,ZINC.JK,IDX:ZINC,ZINC:IJ,Kapuas Prima Coal Tbk.,Basic Materials,Barang Baku,Pemantauan Khusus,2017-10-16,16 Oktober 2017,25250000000,-,Aktif
+975,ZONE,BEI:ZONE,IDX:ZONE,ZONE.JK,IDX:ZONE,ZONE:IJ,Mega Perintis Tbk.,Consumer Cyclicals,Barang Konsumen Non-Primer,Pengembangan,2018-12-12,12 Desember 2018,870171478,-,Aktif
+976,ZYRX,BEI:ZYRX,IDX:ZYRX,ZYRX.JK,IDX:ZYRX,ZYRX:IJ,Zyrexindo Mandiri Buana Tbk.,Technology,Teknologi,Pengembangan,2021-03-30,30 Maret 2021,1333334556,-,Aktif
+977,APOL,BEI:APOL,IDX:APOL,APOL.JK,IDX:APOL,APOL:IJ,Arpeni Pratama Ocean Line Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+978,ATPK,BEI:ATPK,IDX:ATPK,ATPK.JK,IDX:ATPK,ATPK:IJ,Bara Jaya Internasional,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+979,BAEK,BEI:BAEK,IDX:BAEK,BAEK.JK,IDX:BAEK,BAEK:IJ,Bank Ekonomi Raharja Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+980,BBNP,BEI:BBNP,IDX:BBNP,BBNP.JK,IDX:BBNP,BBNP:IJ,Bank Nusantara Parahyangan Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+981,BORN,BEI:BORN,IDX:BORN,BORN.JK,IDX:BORN,BORN:IJ,Borneo Lumbung Energi Metal Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+982,BRAU,BEI:BRAU,IDX:BRAU,BRAU.JK,IDX:BRAU,BRAU:IJ,Berau Coal Energy Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+983,CKRA,BEI:CKRA,IDX:CKRA,CKRA.JK,IDX:CKRA,CKRA:IJ,Cakra Mineral Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+984,CNTB,BEI:CNTB,IDX:CNTB,CNTB.JK,IDX:CNTB,CNTB:IJ,Saham Seri B ( Centex Tbk ),Consumer Cyclicals,Barang Konsumen Non-Primer,Saham Preferen / Seri B,-,-,0,-,Saham Preferen / Seri B
+985,CPGT,BEI:CPGT,IDX:CPGT,CPGT.JK,IDX:CPGT,CPGT:IJ,Cipaganti Citra Graha Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+986,CTRP,BEI:CTRP,IDX:CTRP,CTRP.JK,IDX:CTRP,CTRP:IJ,Ciputra Property Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+987,CTRS,BEI:CTRS,IDX:CTRS,CTRS.JK,IDX:CTRS,CTRS:IJ,Ciputra Surya Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+988,DAJK,BEI:DAJK,IDX:DAJK,DAJK.JK,IDX:DAJK,DAJK:IJ,Dwi Aneka Jaya Kemasindo Tbk.,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+989,DAVO,BEI:DAVO,IDX:DAVO,DAVO.JK,IDX:DAVO,DAVO:IJ,Davomas Abadi Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+990,FINN,BEI:FINN,IDX:FINN,FINN.JK,IDX:FINN,FINN:IJ,"First Indo American Leasing, Tbk",Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+991,GMCW,BEI:GMCW,IDX:GMCW,GMCW.JK,IDX:GMCW,GMCW:IJ,Grahamas Citrawisata Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+992,GREN,BEI:GREN,IDX:GREN,GREN.JK,IDX:GREN,GREN:IJ,Evergreen Invesco Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+993,INVS,BEI:INVS,IDX:INVS,INVS.JK,IDX:INVS,INVS:IJ,Inovisi Infracom Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+994,ITTG,BEI:ITTG,IDX:ITTG,ITTG.JK,IDX:ITTG,ITTG:IJ,Leo Investments Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+995,JPRS,BEI:JPRS,IDX:JPRS,JPRS.JK,IDX:JPRS,JPRS:IJ,Jaya Pari Steel Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+996,LAMI,BEI:LAMI,IDX:LAMI,LAMI.JK,IDX:LAMI,LAMI:IJ,Lamicitra Nusantara Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+997,MAMIP,BEI:MAMIP,IDX:MAMIP,MAMIP.JK,IDX:MAMIP,MAMIP:IJ,Mas Murni Tbk (Saham Preferen),Consumer Cyclicals,Barang Konsumen Non-Primer,Saham Preferen / Seri B,-,-,0,-,Saham Preferen / Seri B
+998,MYRXP,BEI:MYRXP,IDX:MYRXP,MYRXP.JK,IDX:MYRXP,MYRXP:IJ,Saham Seri B Hanson International Tbk,Properties & Real Estate,Properti & Real Estat,Saham Preferen / Seri B,-,-,0,-,Saham Preferen / Seri B
+999,NAGA,BEI:NAGA,IDX:NAGA,NAGA.JK,IDX:NAGA,NAGA:IJ,Bank Mitraniaga Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1000,RMBA,BEI:RMBA,IDX:RMBA,RMBA.JK,IDX:RMBA,RMBA:IJ,Bentoel Internasional Investama Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1001,SCBD,BEI:SCBD,IDX:SCBD,SCBD.JK,IDX:SCBD,SCBD:IJ,Danayasa Arthatama Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1002,SIAP,BEI:SIAP,IDX:SIAP,SIAP.JK,IDX:SIAP,SIAP:IJ,Sekawan Intipratama Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1003,SOBI,BEI:SOBI,IDX:SOBI,SOBI.JK,IDX:SOBI,SOBI:IJ,Sorini Agro Asia Corporindo Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1004,SQBB,BEI:SQBB,IDX:SQBB,SQBB.JK,IDX:SQBB,SQBB:IJ,Taisho Pharmaceutical Indonesia Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1005,SQBI,BEI:SQBI,IDX:SQBI,SQBI.JK,IDX:SQBI,SQBI:IJ,Taisho Pharmaceutical Indonesia Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1006,TKGA,BEI:TKGA,IDX:TKGA,TKGA.JK,IDX:TKGA,TKGA:IJ,Permata Prima Sakti Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1007,TMPI,BEI:TMPI,IDX:TMPI,TMPI.JK,IDX:TMPI,TMPI:IJ,Sigmagold Inti Perkasa Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1008,TRUB,BEI:TRUB,IDX:TRUB,TRUB.JK,IDX:TRUB,TRUB:IJ,Truba Alam Manunggal Engineering Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1009,TURI,BEI:TURI,IDX:TURI,TURI.JK,IDX:TURI,TURI:IJ,Tunas Ridean Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1010,UNTX,BEI:UNTX,IDX:UNTX,UNTX.JK,IDX:UNTX,UNTX:IJ,Unitex Tbk,Delisting,Delisting / Tidak Aktif,Delisting,-,-,0,-,Delisting
+1011,XCID,BEI:XCID,IDX:XCID,XCID.JK,IDX:XCID,XCID:IJ,Ciptadana REIT,Properties & Real Estate,Properti & Real Estat,DIRE / REIT,-,-,0,-,Aktif (DIRE/REIT)
